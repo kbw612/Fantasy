@@ -109,3 +109,35 @@ DEN, 13, "PlayerProfiler"
 KC, 14, "PlayerProfiler"
 LAC, 15, "PlayerProfiler"
 GB, 16, "PlayerProfiler"
+PHI,1,TheScore
+DAL,2,TheScore
+NE,3,TheScore
+SF,4,TheScore
+NYJ,5,TheScore
+BAL,6,TheScore
+BUF,7,TheScore
+JAC,8,TheScore
+NO,9,TheScore
+PIT,10,TheScore
+KC,11,TheScore
+GB,12,TheScore
+MIA,13,TheScore
+CLE,14,TheScore
+SEA,15,TheScore
+LAC,16,TheScore
+WAS,17,TheScore
+DEN,18,TheScore
+TB,19,TheScore
+CIN,20,TheScore
+CAR,21,TheScore
+IND,22,TheScore
+DET,23,TheScore
+CHI,24,TheScore
+TEN,25,TheScore
+ALT,26,TheScore
+NYG,27,TheScore
+MIN,28,TheScore
+HOU,29,TheScore
+LAR,30,TheScore
+ARI,31,TheScore
+LV,32,TheScore
