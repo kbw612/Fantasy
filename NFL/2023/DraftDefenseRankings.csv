@@ -1,0 +1,271 @@
+Team,Rank,Source
+SF, 1, "FantasyPros"
+DAL, 2, "FantasyPros"
+PHI, 3, "FantasyPros"
+BUF, 4, "FantasyPros"
+NYJ, 5, "FantasyPros"
+NE, 6, "FantasyPros"
+BAL, 7, "FantasyPros"
+DEN, 8, "FantasyPros"
+KC, 9, "FantasyPros"
+PIT, 10, "FantasyPros"
+NO, 11, "FantasyPros"
+MIA, 12, "FantasyPros"
+CIN, 13, "FantasyPros"
+WAS, 14, "FantasyPros"
+CLE, 15, "FantasyPros"
+GB, 16, "FantasyPros"
+JAC, 17, "FantasyPros"
+LAC, 18, "FantasyPros"
+TB, 19, "FantasyPros"
+SEA, 20, "FantasyPros"
+IND, 21, "FantasyPros"
+CAR, 22, "FantasyPros"
+NYG, 23, "FantasyPros"
+TEN, 24, "FantasyPros"
+DET, 25, "FantasyPros"
+LAR, 26, "FantasyPros"
+MIN, 27, "FantasyPros"
+ALT, 28, "FantasyPros"
+ARI, 29, "FantasyPros"
+HOU, 30, "FantasyPros"
+CHI, 31, "FantasyPros"
+LV, 32, "FantasyPros"
+SF, 1, "RotoBaller"
+PHI, 2, "RotoBaller"
+DAL, 3, "RotoBaller"
+BUF, 4, "RotoBaller"
+NYJ, 5, "RotoBaller"
+DEN, 6, "RotoBaller"
+BAL, 7, "RotoBaller"
+NE, 8, "RotoBaller"
+KC, 9, "RotoBaller"
+CIN, 10, "RotoBaller"
+NO, 11, "RotoBaller"
+PIT, 12, "RotoBaller"
+MIA, 13, "RotoBaller"
+LAR, 14, "RotoBaller"
+WAS, 15, "RotoBaller"
+LAC, 16, "RotoBaller"
+CLE, 17, "RotoBaller"
+IND, 18, "RotoBaller"
+DET, 19, "RotoBaller"
+GB, 20, "RotoBaller"
+JAC, 21, "RotoBaller"
+TB, 22, "RotoBaller"
+MIN, 23, "RotoBaller"
+CHI, 24, "RotoBaller"
+SEA, 25, "RotoBaller"
+CAR, 26, "RotoBaller"
+NYG, 27, "RotoBaller"
+HOU, 28, "RotoBaller"
+LV, 29, "RotoBaller"
+TEN, 30, "RotoBaller"
+ALT, 31, "RotoBaller"
+ARI, 32, "RotoBaller"
+BAL, 1, "DraftSharks"
+NE, 2, "DraftSharks"
+BUF, 3, "DraftSharks"
+SF, 4, "DraftSharks"
+PIT, 5, "DraftSharks"
+DAL, 6, "DraftSharks"
+PHI, 7, "DraftSharks"
+KC, 8, "DraftSharks"
+MIA, 9, "DraftSharks"
+JAC, 10, "DraftSharks"
+LAC, 11, "DraftSharks"
+NO, 12, "DraftSharks"
+GB, 13, "DraftSharks"
+WAS, 14, "DraftSharks"
+IND, 15, "DraftSharks"
+NYG, 16, "DraftSharks"
+NYJ, 17, "DraftSharks"
+TEN, 18, "DraftSharks"
+SEA, 19, "DraftSharks"
+MIN, 20, "DraftSharks"
+DEN, 21, "DraftSharks"
+CLE, 22, "DraftSharks"
+ARI, 23, "DraftSharks"
+CIN, 24, "DraftSharks"
+HOU, 25, "DraftSharks"
+CAR, 26, "DraftSharks"
+LAR, 27, "DraftSharks"
+TB, 28, "DraftSharks"
+ALT, 29, "DraftSharks"
+DET, 30, "DraftSharks"
+SF, 1, "PlayerProfiler"
+PHI, 2, "PlayerProfiler"
+NE, 3, "PlayerProfiler"
+DAL, 4, "PlayerProfiler"
+NYJ, 5, "PlayerProfiler"
+PIT, 6, "PlayerProfiler"
+SEA, 7, "PlayerProfiler"
+MIA, 8, "PlayerProfiler"
+WAS, 9, "PlayerProfiler"
+BAL, 10, "PlayerProfiler"
+NYG, 11, "PlayerProfiler"
+BUF, 12, "PlayerProfiler"
+DEN, 13, "PlayerProfiler"
+KC, 14, "PlayerProfiler"
+LAC, 15, "PlayerProfiler"
+GB, 16, "PlayerProfiler"
+PHI,1,TheScore
+DAL,2,TheScore
+NE,3,TheScore
+SF,4,TheScore
+NYJ,5,TheScore
+BAL,6,TheScore
+BUF,7,TheScore
+JAC,8,TheScore
+NO,9,TheScore
+PIT,10,TheScore
+KC,11,TheScore
+GB,12,TheScore
+MIA,13,TheScore
+CLE,14,TheScore
+SEA,15,TheScore
+LAC,16,TheScore
+WAS,17,TheScore
+DEN,18,TheScore
+TB,19,TheScore
+CIN,20,TheScore
+CAR,21,TheScore
+IND,22,TheScore
+DET,23,TheScore
+CHI,24,TheScore
+TEN,25,TheScore
+ALT,26,TheScore
+NYG,27,TheScore
+MIN,28,TheScore
+HOU,29,TheScore
+LAR,30,TheScore
+ARI,31,TheScore
+LV,32,TheScore
+SF,1,Rotowire
+DAL,2,Rotowire
+MIA,3,Rotowire
+BUF,4,Rotowire
+PHI,5,Rotowire
+NYJ,6,Rotowire
+NO,7,Rotowire
+NE,8,Rotowire
+GB,9,Rotowire
+CIN,10,Rotowire
+PIT,11,Rotowire
+BAL,12,Rotowire
+WAS,13,Rotowire
+CLE,14,Rotowire
+TB,15,Rotowire
+SEA,16,Rotowire
+DEN,17,Rotowire
+KC,18,Rotowire
+TEN,19,Rotowire
+NYG,20,Rotowire
+DET,21,Rotowire
+LAC,22,Rotowire
+JAC,23,Rotowire
+CAR,24,Rotowire
+IND,25,Rotowire
+ARI,26,Rotowire
+LAR,27,Rotowire
+MIN,28,Rotowire
+LV,29,Rotowire
+ALT,30,Rotowire
+CHI,31,Rotowire
+HOU,32,Rotowire
+PHI,1,Rotowire
+SF,2,Rotowire
+BUF,3,Rotowire
+DAL,4,Rotowire
+BAL,5,Rotowire
+NE,6,Rotowire
+NYJ,7,Rotowire
+MIA,8,Rotowire
+PIT,9,Rotowire
+NO,10,Rotowire
+KC,11,Rotowire
+TB,12,Rotowire
+CLE,13,Rotowire
+LAC,14,Rotowire
+CIN,15,Rotowire
+WAS,16,Rotowire
+DEN,17,Rotowire
+NYG,18,Rotowire
+CAR,19,Rotowire
+JAC,20,Rotowire
+DET,21,Rotowire
+GB,22,Rotowire
+HOU,23,Rotowire
+LAR,24,Rotowire
+IND,25,Rotowire
+SEA,26,Rotowire
+MIN,27,Rotowire
+ARI,28,Rotowire
+CHI,29,Rotowire
+TEN,30,Rotowire
+LV,31,Rotowire
+ALT,32,Rotowire
+PHI,1,SportingNews
+SF,2,SportingNews
+BUF,3,SportingNews
+DAL,4,SportingNews
+BAL,5,SportingNews
+NE,6,SportingNews
+NYJ,7,SportingNews
+MIA,8,SportingNews
+PIT,9,SportingNews
+NO,10,SportingNews
+KC,11,SportingNews
+TB,12,SportingNews
+CLE,13,SportingNews
+LAC,14,SportingNews
+CIN,15,SportingNews
+WAS,16,SportingNews
+DEN,17,SportingNews
+NYG,18,SportingNews
+CAR,19,SportingNews
+JAC,20,SportingNews
+DET,21,SportingNews
+GB,22,SportingNews
+HOU,23,SportingNews
+LAR,24,SportingNews
+IND,25,SportingNews
+SEA,26,SportingNews
+MIN,27,SportingNews
+ARI,28,SportingNews
+CHI,29,SportingNews
+TEN,30,SportingNews
+LV,31,SportingNews
+ALT,32,SportingNews
+SF,1,PFF
+DAL,2,PFF
+NE,3,PFF
+PHI,4,PFF
+BUF,5,PFF
+NO,6,PFF
+NYJ,7,PFF
+BAL,8,PFF
+PIT,9,PFF
+CLE,10,PFF
+MIA,11,PFF
+GB,12,PFF
+KC,13,PFF
+JAC,14,PFF
+TB,15,PFF
+DEN,16,PFF
+SEA,17,PFF
+CIN,18,PFF
+CAR,19,PFF
+WAS,20,PFF
+LAC,21,PFF
+IND,22,PFF
+TEN,23,PFF
+ALT,24,PFF
+DET,25,PFF
+HOU,26,PFF
+NYG,27,PFF
+ARI,28,PFF
+LAR,29,PFF
+CHI,30,PFF
+MIN,31,PFF
+LV,32,PFF
