@@ -1,17 +1,51 @@
 {
 	"teamAbbrev": "SF",
-	"depthChart": {
-		"QB1": "Brock Purdy",
-		"QB2": "Sam Darnold",
-		"RB1": "Christian McCaffrey",
-		"RB2": "Elijah Mitchell",
-		"RB3": "Jordan Mason",
-		"WR1": "Deebo Samuel",
-		"WR2": "Brandon Aiyuk",
-		"WR3": "Jauan Jennings",
-		"TE1": "George Kittle",
-		"TE2": "Charlie Woerner"
-	},
+	"depthChart": [
+		{
+			"position": "QB1",
+			"playerName": "Brock Purdy"
+		},
+		{
+			"position": "QB1",
+			"playerName": "Brock Purdy"
+		},
+		{
+			"position": "QB2",
+			"playerName": "Sam Darnold"
+		},
+		{
+			"position": "RB1",
+			"playerName": "Christian McCaffrey"
+		},
+		{
+			"position": "RB2",
+			"playerName": "Elijah Mitchell"
+		},
+		{
+			"position": "RB3",
+			"playerName": "Jordan Mason"
+		},
+		{
+			"position": "WR1",
+			"playerName": "Deebo Samuel"
+		},
+		{
+			"position": "WR2",
+			"playerName": "Brandon Aiyuk"
+		},
+		{
+			"position": "WR3",
+			"playerName": "Jauan Jennings"
+		},
+		{
+			"position": "TE1",
+			"playerName": "George Kittle"
+		},
+		{
+			"position": "TE2",
+			"playerName": "Charlie Woerner"
+		}
+	],
 	"positions": [
 		{
 			"position": "TE1",
