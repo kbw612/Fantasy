@@ -45,10 +45,10 @@
 	"positions": [
 		{
 			"position": "TE1",
-			"handcuffPosition": [
+			"handcuffPositions": [
 				"TE2"
 			],
-			"whenOutIncreaseUsagePosition": [
+			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"WR2",
 				"RB1",
@@ -57,10 +57,10 @@
 		},
 		{
 			"position": "RB1",
-			"handcuffPosition": [
+			"handcuffPositions": [
 				"RB2"
 			],
-			"whenOutIncreaseUsagePosition": [
+			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"WR2",
 				"TE1",
