@@ -1,17 +1,17 @@
 {
 	"teamAbbrev": "SF",
-	"depthChart": [
+	"players": [
 		{
 			"position": "QB1",
-			"playerName": "Brock Purdy"
+			"name": "Brock Purdy"
 		},
 		{
 			"position": "QB2",
-			"playerName": "Sam Darnold"
+			"name": "Sam Darnold"
 		},
 		{
 			"position": "RB1",
-			"playerName": "Christian McCaffrey"
+			"name": "Christian McCaffrey"
 		},
 		{
 			"position": "RB2",
@@ -19,27 +19,27 @@
 		},
 		{
 			"position": "RB3",
-			"playerName": "Jordan Mason"
+			"name": "Jordan Mason"
 		},
 		{
 			"position": "WR1",
-			"playerName": "Deebo Samuel"
+			"name": "Deebo Samuel"
 		},
 		{
 			"position": "WR2",
-			"playerName": "Brandon Aiyuk"
+			"name": "Brandon Aiyuk"
 		},
 		{
 			"position": "WR3",
-			"playerName": "Jauan Jennings"
+			"name": "Jauan Jennings"
 		},
 		{
 			"position": "TE1",
-			"playerName": "George Kittle"
+			"name": "George Kittle"
 		},
 		{
 			"position": "TE2",
-			"playerName": "Charlie Woerner"
+			"name": "Charlie Woerner"
 		}
 	],
 	"positions": [
