@@ -42,15 +42,41 @@
 			"name": "Charlie Woerner"
 		}
 	],
-	"positions2": [
+	"positions": [
 		{
-			"position": "TE1"
+			"position": "RB1",
+			"handcuffPositions": [
+				"RB2"
+			],
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"WR3"
+			]
 		},
 		{
-			"position": "RB1"
-		}
-	],
-	"positions": [
+			"position": "WR1",
+			"handcuffPositions": [
+			],
+			"whenOutIncreaseUsagePositions": [
+				"WR2",
+				"TE1",
+				"RB1",
+				"WR3"
+			]
+		},
+		{
+			"position": "WR2",
+			"handcuffPositions": [
+			],
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"TE1",
+				"RB1",
+				"WR3"
+			]
+		},
 		{
 			"position": "TE1",
 			"handcuffPositions": [
@@ -63,17 +89,5 @@
 				"WR3"
 			]
 		},
-		{
-			"position": "RB1",
-			"handcuffPositions": [
-				"RB2"
-			],
-			"whenOutIncreaseUsagePositions": [
-				"WR1",
-				"WR2",
-				"TE1",
-				"WR3"
-			]
-		}
 	]
 }
