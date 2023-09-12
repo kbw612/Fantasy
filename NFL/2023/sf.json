@@ -42,7 +42,7 @@
 			"name": "Charlie Woerner"
 		}
 	],
-	"positions": [
+	"positions2": [
 		{
 			"position": "TE1"
 		},
@@ -50,7 +50,7 @@
 			"position": "RB1"
 		}
 	],
-	"positions2": [
+	"positions": [
 		{
 			"position": "TE1",
 			"handcuffPositions": [
