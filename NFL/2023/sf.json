@@ -45,6 +45,14 @@
 	"positions": [
 		{
 			"position": "TE1",
+		},
+		{
+			"position": "RB1",
+		}
+	]
+	"positions2": [
+		{
+			"position": "TE1",
 			"handcuffPositions": [
 				"TE2"
 			],
