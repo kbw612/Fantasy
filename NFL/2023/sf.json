@@ -57,8 +57,7 @@
 		},
 		{
 			"position": "WR1",
-			"handcuffPositions": [
-			],
+			"handcuffPositions": [],
 			"whenOutIncreaseUsagePositions": [
 				"WR2",
 				"TE1",
@@ -68,8 +67,7 @@
 		},
 		{
 			"position": "WR2",
-			"handcuffPositions": [
-			],
+			"handcuffPositions": [],
 			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"TE1",
@@ -88,6 +86,6 @@
 				"RB1",
 				"WR3"
 			]
-		},
+		}
 	]
 }
