@@ -49,10 +49,8 @@
 	"positions": [
 		{
 			"position": "RB1",
-			"handcuffPositions": [
-				"RB2"
-			],
 			"whenOutIncreaseUsagePositions": [
+				"RB2",
 				"WR1",
 				"WR2",
 				"TE1",
@@ -62,10 +60,8 @@
 		},
 		{
 			"position": "RB2",
-			"handcuffPositions": [
-				"RB1"
-			],
 			"whenOutIncreaseUsagePositions": [
+				"RB1",
 				"WR1",
 				"WR2",
 				"TE1",
@@ -75,8 +71,6 @@
 		},
 		{
 			"position": "WR1",
-			"handcuffPositions": [
-			],
 			"whenOutIncreaseUsagePositions": [
 				"WR2",
 				"WR4",
@@ -87,8 +81,6 @@
 		},
 		{
 			"position": "WR2",
-			"handcuffPositions": [
-			],
 			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"WR4",
@@ -99,8 +91,6 @@
 		},
 		{
 			"position": "WR3",
-			"handcuffPositions": [
-			],
 			"whenOutIncreaseUsagePositions": [
 				"WR4",
 				"WR1",
@@ -111,10 +101,8 @@
 		},
 		{
 			"position": "TE1",
-			"handcuffPositions": [
-				"TE2"
-			],
 			"whenOutIncreaseUsagePositions": [
+				"TE2",
 				"WR1",
 				"WR2",
 				"RB1",
