@@ -44,11 +44,26 @@
 	],
 	"positions": [
 		{
-			"position": "RB1",
-			"handcuffPositions": [
-				"RB2"
-			],
+			"position": "QB1",
 			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"WR1",
+				"WR2",
+				"TE1",
+				"WR3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3",
 				"WR1",
 				"WR2",
 				"TE1",
@@ -57,7 +72,6 @@
 		},
 		{
 			"position": "WR1",
-			"handcuffPositions": [],
 			"whenOutIncreaseUsagePositions": [
 				"WR2",
 				"TE1",
@@ -67,7 +81,6 @@
 		},
 		{
 			"position": "WR2",
-			"handcuffPositions": [],
 			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"TE1",
@@ -76,11 +89,21 @@
 			]
 		},
 		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
 			"position": "TE1",
 			"handcuffPositions": [
-				"TE2"
+				
 			],
 			"whenOutIncreaseUsagePositions": [
+				"TE2"
 				"WR1",
 				"WR2",
 				"RB1",
