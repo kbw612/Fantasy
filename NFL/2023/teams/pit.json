@@ -1,0 +1,126 @@
+{
+	"teamAbbrev": "PIT",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Kenny Pickett"
+		},
+		{
+			"position": "QB2",
+			"name": "Mitch Trubisky"
+		},
+		{
+			"position": "RB1",
+			"name": "Najee Harris"
+		},
+		{
+			"position": "RB2",
+			"name": "Jaylen Warren"
+		},
+		{
+			"position": "RB3",
+			"name": "Jordan Mason"
+		},
+		{
+			"position": "WR1",
+			"name": "Diontae Johnson"
+		},
+		{
+			"position": "WR2",
+			"name": "George Pickens"
+		},
+		{
+			"position": "WR3",
+			"name": "Allen Robinson II"
+		},
+		{
+			"position": "WR4",
+			"name": "Calvin Austin III"
+		},		
+		{
+			"position": "TE1",
+			"name": "Pat Freiermuth"
+		},
+		{
+			"position": "TE2",
+			"name": "Darnell Washington"
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"handcuffPositions": [
+				"RB2"
+			],
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "RB2",
+			"handcuffPositions": [
+				"RB1"
+			],
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR1",
+			"handcuffPositions": [
+			],
+			"whenOutIncreaseUsagePositions": [
+				"WR2",
+				"WR4",
+				"TE1",
+				"RB1",
+				"WR3"
+			]
+		},
+		{
+			"position": "WR2",
+			"handcuffPositions": [
+			],
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR4",
+				"TE1",
+				"RB1",
+				"WR3"
+			]
+		},
+		{
+			"position": "WR3",
+			"handcuffPositions": [
+			],
+			"whenOutIncreaseUsagePositions": [
+				"WR4",
+				"WR1",
+				"TE1",
+				"RB1",
+				"WR2"
+			]
+		},
+		{
+			"position": "TE1",
+			"handcuffPositions": [
+				"TE2"
+			],
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"RB1",
+				"WR3",
+				"WR4"
+			]
+		}
+	]
+}
