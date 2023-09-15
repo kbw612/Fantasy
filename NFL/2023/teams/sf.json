@@ -99,9 +99,6 @@
 		},
 		{
 			"position": "TE1",
-			"handcuffPositions": [
-				
-			],
 			"whenOutIncreaseUsagePositions": [
 				"TE2",
 				"WR1",
