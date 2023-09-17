@@ -44,6 +44,12 @@
 	],
 	"positions": [
 		{
+			"position": "QB1",
+			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
 			"position": "RB1",
 			"whenOutIncreaseUsagePositions": [
 				"RB2",

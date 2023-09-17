@@ -1,49 +1,57 @@
 {
-	"teamAbbrev": "SEA",
+	"teamAbbrev": "IND",
 	"players": [
 		{
 			"position": "QB1",
-			"name": "Geno Smith"
+			"name": "Anthony Richardson"
 		},
 		{
 			"position": "QB2",
-			"name": "Drew Lock"
+			"name": "Gardner Minshew II"
 		},
 		{
 			"position": "RB1",
-			"name": "Kenneth Walker III"
+			"name": "Jonathan Taylor"
 		},
 		{
 			"position": "RB2",
-			"name": "Zach Charbonnet"
+			"name": "Zack Moss"
 		},
 		{
 			"position": "RB3",
-			"name": "DeeJay Dallas"
-		},      
+			"name": "Deon Jackson"
+		},	
+		{
+			"position": "RB4",
+			"name": "Evan Hull"
+		},
 		{
 			"position": "WR1",
-			"name": "DK Metcalf"
+			"name": "Michael Pittman Jr."
 		},
 		{
 			"position": "WR2",
-			"name": "Tyler Lockett"
+			"name": "Alec Pierce"
 		},
 		{
 			"position": "WR3",
-			"name": "Jaxon Smith-Njigba"
+			"name": "Josh Downs"
+		},
+		{
+			"position": "WR4",
+			"name": "Isaiah McKenzie"
 		},
 		{
 			"position": "TE1",
-			"name": "Noah Fant"
+			"name": "Kylen Granson"
 		},
 		{
 			"position": "TE2",
-			"name": "Will Dissly"
+			"name": "Jelani Woods"
 		},
 		{
 			"position": "TE3",
-			"name": "Colby Parkinson"
+			"name": "Will Mallory"
 		}
 	],
 	"positions": [
@@ -53,7 +61,7 @@
 				"QB2"
 			]
 		},
-		{			
+		{
 			"position": "RB1",
 			"whenOutIncreaseUsagePositions": [
 				"RB2",
@@ -79,9 +87,7 @@
 			"whenOutIncreaseUsagePositions": [			
 				"WR2",
 				"WR3",
-				"TE1",
-				"TE2",
-				"TE3"
+				"WR4"
 			]
 		},
 		{
@@ -89,9 +95,7 @@
 			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"WR3",
-				"TE1",
-				"TE2",
-				"TE3"				
+				"WR4"
 			]
 		},
 		{
@@ -99,40 +103,48 @@
 			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"WR2",
-				"TE1",
-				"TE2",
-				"TE3"		
+				"WR4"
+			]
+		},
+		{
+			"position": "WR4",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR3"
 			]
 		},
 		{
 			"position": "TE1",
 			"whenOutIncreaseUsagePositions": [
 				"TE2",
-				"TE3",
 				"WR1",
 				"WR2",
-				"WR3"				
+				"WR3",
+				"WR4"				
 			]
 		},
 		{
 			"position": "TE2",
 			"whenOutIncreaseUsagePositions": [
 				"TE1",
-				"TE3",
 				"WR1",
 				"WR2",
-				"WR3"				
+				"WR3",
+				"WR4"				
 			]
 		},
-				{
-			"position": "TE2",
+		{
+			"position": "TE3",
 			"whenOutIncreaseUsagePositions": [
 				"TE1",
-				"TE3",
+				"TE2",
 				"WR1",
 				"WR2",
-				"WR3"				
+				"WR3",
+				"WR4"				
 			]
 		}
+
 	]
 }
