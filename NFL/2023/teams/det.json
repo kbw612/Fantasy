@@ -1,0 +1,119 @@
+{
+	"teamAbbrev": "DET",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Jared Goff"
+		},
+		{
+			"position": "QB2",
+			"name": "Teddy Bridgewater"
+		},
+		{
+			"position": "RB1",
+			"name": "David Montgomery"
+		},
+		{
+			"position": "RB2",
+			"name": "Jahmyr Gibbs"
+		},
+		{
+			"position": "RB3",
+			"name": "Craig Reynolds"
+		},      
+		{
+			"position": "RB4",
+			"name": "Zonovan Knight"
+		},  	
+		{
+			"position": "WR1",
+			"name": "Amon-Ra St. Brown"
+		},
+		{
+			"position": "WR2",
+			"name": "Josh Reynolds"
+		},
+		{
+			"position": "WR3",
+			"name": "Marvin Jones Jr."
+		},
+		{
+			"position": "WR4",
+			"name": "Kalif Raymond"
+		},
+		{
+			"position": "WR5",
+			"name": "Jameson Williams"
+		},
+		{
+			"position": "TE1",
+			"name": "Sam LaPorta"
+		},
+		{
+			"position": "TE2",
+			"name": "Brock Wright"
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1",
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1",
+				"RB1",
+				"RB2"	
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

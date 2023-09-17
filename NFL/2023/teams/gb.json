@@ -1,0 +1,104 @@
+{
+	"teamAbbrev": "GB",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Jordan Love"
+		},
+		{
+			"position": "QB2",
+			"name": "Sean Clifford"
+		},
+		{
+			"position": "RB1",
+			"name": "Aaron Jones"
+		},
+		{
+			"position": "RB2",
+			"name": "AJ Dillon"
+		},
+		{
+			"position": "RB3",
+			"name": "Patrick Taylor"
+		},
+		{
+			"position": "WR1",
+			"name": "Christian Watson"
+		},
+		{
+			"position": "WR2",
+			"name": "Romeo Doubs"
+		},
+		{
+			"position": "WR3",
+			"name": "Jayden Reed"
+		},
+		{
+			"position": "TE1",
+			"name": "Luke Musgrave"
+		},
+		{
+			"position": "TE2",
+			"name": "Tucker Kraft"
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

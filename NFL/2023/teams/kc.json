@@ -1,0 +1,126 @@
+{
+	"teamAbbrev": "KC",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Patrick Mahomes"
+		},
+		{
+			"position": "QB2",
+			"name": "Blaine Gabbert"
+		},
+		{
+			"position": "RB1",
+			"name": "Isiah Pacheco"
+		},
+		{
+			"position": "RB2",
+			"name": "Jerick McKinnon"
+		},
+		{
+			"position": "RB3",
+			"name": "Clyde Edwards-Helaire"
+		},
+		{
+			"position": "WR1",
+			"name": "Kadarius Toney"
+		},
+		{
+			"position": "WR2",
+			"name": "Skyy Moore"
+		},
+		{
+			"position": "WR3",
+			"name": "Marquez Valdes-Scantling"
+		},
+		{
+			"position": "WR4",
+			"name": "Rashee Rice"
+		},
+		{
+			"position": "WR5",
+			"name": "Justin Watson"
+		},
+		{
+			"position": "WR6",
+			"name": "Richie James Jr."
+		},
+		{
+			"position": "WR7",
+			"name": "Justyn Ross"
+		},
+		{
+			"position": "TE1",
+			"name": "Travis Kelce"
+		},
+		{
+			"position": "TE2",
+			"name": "Noah Gray"
+		},
+		{
+			"position": "TE3",
+			"name": "Blake Bell"
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"TE1",
+				"WR2",
+				"WR3"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR3"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR2"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"TE3"				
+			]
+		},
+		{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"TE3"				
+			]
+		}
+	]
+}

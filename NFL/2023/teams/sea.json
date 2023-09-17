@@ -1,0 +1,132 @@
+{
+	"teamAbbrev": "SEA",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Geno Smith"
+		},
+		{
+			"position": "QB2",
+			"name": "Drew Lock"
+		},
+		{
+			"position": "RB1",
+			"name": "Kenneth Walker III"
+		},
+		{
+			"position": "RB2",
+			"name": "Zach Charbonnet"
+		},
+		{
+			"position": "RB3",
+			"name": "DeeJay Dallas"
+		},      
+		{
+			"position": "WR1",
+			"name": "DK Metcalf"
+		},
+		{
+			"position": "WR2",
+			"name": "Tyler Lockett"
+		},
+		{
+			"position": "WR3",
+			"name": "Jaxon Smith-Njigba"
+		},
+		{
+			"position": "TE1",
+			"name": "Noah Fant"
+		},
+		{
+			"position": "TE2",
+			"name": "Will Dissly"
+		},
+		{
+			"position": "TE3",
+			"name": "Colby Parkinson"
+		}
+	],
+	"positions": [
+		{			
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1",
+				"TE2",
+				"TE3"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1",
+				"TE2",
+				"TE3"				
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"TE2",
+				"TE3"		
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"TE3",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		},
+		{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"TE3",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		},
+				{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"TE3",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

@@ -1,0 +1,101 @@
+{
+	"teamAbbrev": "BAL",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Lamar Jackson"
+		},
+		{
+			"position": "QB2",
+			"name": "Tyler Huntley"
+		},
+		{
+			"position": "RB1",
+			"name": "Gus Edwards"
+		},
+		{
+			"position": "RB2",
+			"name": "Justice Hill"
+		},
+		{
+			"position": "RB3",
+			"name": "Melvin Gordon III"
+		},
+		{
+			"position": "WR1",
+			"name": "Rashod Bateman"
+		},
+		{
+			"position": "WR2",
+			"name": "Odell Beckham Jr."
+		},
+		{
+			"position": "WR3",
+			"name": "Zay Flowers"
+		},
+		{
+			"position": "TE1",
+			"name": "Mark Andrews"
+		},
+		{
+			"position": "TE2",
+			"name": "Isaiah Likely"
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR2",
+				"WR3"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR3"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR2"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

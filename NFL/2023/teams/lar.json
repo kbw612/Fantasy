@@ -1,0 +1,114 @@
+{
+	"teamAbbrev": "LAR",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Matthew Stafford"
+		},
+		{
+			"position": "QB2",
+			"name": "Brett Rypien"
+		},
+		{
+			"position": "RB1",
+			"name": "Cam Akers"
+		},
+		{
+			"position": "RB2",
+			"name": "Kyren Williams"
+		},
+		{
+			"position": "RB3",
+			"name": "Ronnie Rivers"
+		},      
+		{
+			"position": "RB4",
+			"name": "Zach Evans"
+		},  	
+		{
+			"position": "WR1",
+			"name": "Cooper Kupp"
+		},
+		{
+			"position": "WR2",
+			"name": "Puka Nacua"
+		},
+		{
+			"position": "WR3",
+			"name": "Tutu Atwell"
+		},
+		{
+			"position": "WR4",
+			"name": "Van Jefferson"
+		},
+		{
+			"position": "TE1",
+			"name": "Tyler Higbee"
+		},
+		{
+			"position": "TE2",
+			"name": "Brycen Hopkins"
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1",
+				"RB1"
+				
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"RB1"
+				
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

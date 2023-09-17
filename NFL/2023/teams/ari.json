@@ -1,0 +1,122 @@
+{
+	"teamAbbrev": "ARI",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Joshua Dobbs"
+		},
+		{
+			"position": "QB2",
+			"name": "Clayton Tune"
+		},
+		{
+			"position": "QB3",
+			"name": "Kyler Murray"
+		},
+		{
+			"position": "RB1",
+			"name": "James Conner"
+		},
+		{
+			"position": "RB2",
+			"name": "Keaontay Ingram"
+		},
+		{
+			"position": "RB3",
+			"name": "Corey Clement"
+		},      
+		{
+			"position": "WR1",
+			"name": "Marquise Brown"
+		},
+		{
+			"position": "WR2",
+			"name": "Rondale Moore"
+		},
+		{
+			"position": "WR3",
+			"name": "Michael Wilson"
+		},
+		{
+			"position": "WR4",
+			"name": "Greg Dortch"
+		},
+		{
+			"position": "TE1",
+			"name": "Zach Ertz"
+		},
+		{
+			"position": "TE2",
+			"name": "Trey McBride"
+		}
+	],
+	"positions": [
+		{			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1",
+				"RB1"
+				
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"RB1"
+				
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		},
+		{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

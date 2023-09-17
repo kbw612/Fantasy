@@ -1,0 +1,97 @@
+{
+	"teamAbbrev": "MIN",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Kirk Cousins"
+		},
+		{
+			"position": "QB2",
+			"name": "Nick Mullens"
+		},
+		{
+			"position": "RB1",
+			"name": "Alexander Mattison"
+		},
+		{
+			"position": "RB2",
+			"name": "Ty Chandler"
+		},
+		{
+			"position": "WR1",
+			"name": "Justin Jefferson"
+		},
+		{
+			"position": "WR2",
+			"name": "Jordan Addison"
+		},
+		{
+			"position": "WR3",
+			"name": "K.J. Osborn"
+		},
+		{
+			"position": "TE1",
+			"name": "T.J. Hockenson"
+		},
+		{
+			"position": "TE2",
+			"name": "Josh Oliver"
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

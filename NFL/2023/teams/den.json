@@ -1,0 +1,101 @@
+{
+	"teamAbbrev": "DEN",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Russell Wilson"
+		},
+		{
+			"position": "QB2",
+			"name": "Jarrett Stidham"
+		},
+		{
+			"position": "RB1",
+			"name": "Javonte Williams"
+		},
+		{
+			"position": "RB2",
+			"name": "Samaje Perine"
+		},
+		{
+			"position": "RB3",
+			"name": "Jaleel McLaughlin"
+		},
+		{
+			"position": "WR1",
+			"name": "Jerry Jeudy"
+		},
+		{
+			"position": "WR2",
+			"name": "Courtland Sutton"
+		},
+		{
+			"position": "WR3",
+			"name": "Marvin Mims Jr."
+		},
+		{
+			"position": "TE1",
+			"name": "Greg Dulcich"
+		},
+		{
+			"position": "TE2",
+			"name": "Adam Trautman"
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

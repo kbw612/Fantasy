@@ -1,0 +1,109 @@
+{
+	"teamAbbrev": "CIN",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Joe Burrow"
+		},
+		{
+			"position": "QB2",
+			"name": "Jake Browning"
+		},
+		{
+			"position": "RB1",
+			"name": "Joe Mixon"
+		},
+		{
+			"position": "RB2",
+			"name": "Trayveon Williams"
+		},
+		{
+			"position": "RB3",
+			"name": "Chris Evans"
+		},
+		{
+			"position": "RB4",
+			"name": "Chase Brown"
+		},
+		{
+			"position": "WR1",
+			"name": "Ja'Marr Chase"
+		},
+		{
+			"position": "WR2",
+			"name": "Tee Higgins"
+		},
+		{
+			"position": "WR3",
+			"name": "Tyler Boyd"
+		},
+		{
+			"position": "TE1",
+			"name": "Irv Smith Jr."
+		},
+		{
+			"position": "TE2",
+			"name": "Drew Sample"
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"WR1",
+				"WR2",
+				"TE1",
+				"WR3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"WR1",
+				"WR2",
+				"TE1",
+				"WR3"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [
+				"WR2",
+				"WR3",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3",
+				"RB1"
+				
+			]
+		}
+	]
+}

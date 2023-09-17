@@ -1,0 +1,121 @@
+{
+	"teamAbbrev": "LAC",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Justin Herbert"
+		},
+		{
+			"position": "QB2",
+			"name": "Easton Stick"
+		},
+		{
+			"position": "RB1",
+			"name": "Austin Ekeler"
+		},
+		{
+			"position": "RB2",
+			"name": "Joshua Kelley"
+		},
+		{
+			"position": "RB3",
+			"name": "Isaiah Spiller"
+		},
+		{
+			"position": "WR1",
+			"name": "Keenan Allen"
+		},
+		{
+			"position": "WR2",
+			"name": "Mike Williams"
+		},
+		{
+			"position": "WR3",
+			"name": "Joshua Palmer"
+		},
+		{
+			"position": "WR4",
+			"name": "Quentin Johnston"
+		},
+		{
+			"position": "TE1",
+			"name": "Gerald Everett"
+		},
+		{
+			"position": "TE2",
+			"name": "Donald Parham Jr."
+		}
+	],
+	"positions": [
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"RB1",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"RB1",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"RB1",
+				"WR4"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"RB1",
+				"WR3",
+				"WR4"				
+			]
+		},
+				{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR2",
+				"RB1",
+				"WR3",
+				"WR4"				
+			]
+		}
+	]
+}
