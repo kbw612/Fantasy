@@ -68,7 +68,8 @@
 			"position": "RB2",
 			"whenOutIncreaseUsagePositions": [
 				"RB1",
-				"RB3"
+				"RB3",
+				"RB4"
 			]
 		},
 		{
