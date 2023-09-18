@@ -106,6 +106,7 @@
 			"position": "TE1",
 			"whenOutIncreaseUsagePositions": [
 				"TE2",
+				"TE3",
 				"WR1",
 				"WR2",
 				"WR3",
@@ -115,6 +116,18 @@
 		{
 			"position": "TE2",
 			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"TE3",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		},
+		{
+			"position": "TE3",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
 				"TE1",
 				"WR1",
 				"WR2",
