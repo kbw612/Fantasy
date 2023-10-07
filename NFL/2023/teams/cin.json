@@ -48,7 +48,11 @@
 		{
 			"position": "TE2",
 			"name": "Drew Sample"
-		}
+		},
+		{
+			"position": "TE3",
+			"name": "Mitchell Wilcox"
+		}		
 	],
 	"positions": [
 		{
@@ -107,7 +111,7 @@
 		{
 			"position": "TE1",
 			"whenOutIncreaseUsagePositions": [
-				"TE2",
+				"TE3",
 				"WR1",
 				"WR2",
 				"WR3",

@@ -11,18 +11,14 @@
 		},
 		{
 			"position": "RB1",
-			"name": "Cam Akers"
-		},
-		{
-			"position": "RB2",
 			"name": "Kyren Williams"
 		},
 		{
-			"position": "RB3",
+			"position": "RB2",
 			"name": "Ronnie Rivers"
 		},      
 		{
-			"position": "RB4",
+			"position": "RB3",
 			"name": "Zach Evans"
 		},  	
 		{
@@ -48,6 +44,10 @@
 		{
 			"position": "TE2",
 			"name": "Brycen Hopkins"
+		},
+		{
+			"position": "TE3",
+			"name": "Davis Allen"
 		}
 	],
 	"positions": [

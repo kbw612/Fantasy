@@ -44,6 +44,10 @@
 		{
 			"position": "TE2",
 			"name": "Donald Parham Jr."
+		},
+		{
+			"position": "TE3",
+			"name": "Stone Smartt"
 		}
 	],
 	"positions": [
@@ -115,6 +119,7 @@
 				{
 			"position": "TE2",
 			"whenOutIncreaseUsagePositions": [
+				"TE3",
 				"TE1",
 				"WR1",
 				"WR2",

@@ -85,6 +85,7 @@
 		{
 			"position": "WR1",
 			"whenOutIncreaseUsagePositions": [			
+				"WR4",
 				"WR2",
 				"WR3",
 				"TE1",

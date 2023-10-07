@@ -26,6 +26,10 @@
 			"name": "Melvin Gordon III"
 		},
 		{
+			"position": "RB4",
+			"name": "Keaton Mitchell"
+		},
+		{
 			"position": "WR1",
 			"name": "Rashod Bateman"
 		},
@@ -36,6 +40,14 @@
 		{
 			"position": "WR3",
 			"name": "Zay Flowers"
+		},
+		{
+			"position": "WR4",
+			"name": "Nelson Agholor"
+		},
+		{
+			"position": "WR5",
+			"name": "Devin Duvernay"
 		},
 		{
 			"position": "TE1",
