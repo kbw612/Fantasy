@@ -1,17 +1,17 @@
 Week,Away,Home,Score,Game Summary
-4,DET,GB,Lions 34 -20,Lions 7 - 3 at half.  Packers scored 2 TDs and two 2 points conversions in 2nd half.  Lions scored rushing TD in 4th qtr.
-4,ATL,JAX,Jax 23 - 7,Jax 17 - 0 at half.  Jax pick 6 in first half.  Alt TD in 2nd half.  Jax defense dominated game.
-4,MIA,BUF,Buf 48 - 20,"1st Qtr: Buf 14-7.  Half: Buf 31-14.  3rd qtr: 41-20  4th qtr: 48-20.  Buff: 6 tds (2 rushing, 4 passing).  Allen and Diggs slate winning fantasy points."
-4,DEN,CHI,Den 31-28,1st qtr: Den 7-0  Half: Chi 21-7.  3rd qtr: 28-14.  Den scored last 24 points.
-4,BAL,CLE,Bal 28 - 3,1st qtr: Bal 7-3  Half: Bal 21-3.  2nd half: Bal passing TD to Andrews.  Desaun Watson didn't play.  Bal defense dominated.
-4,PIT,HOU,Hou 30-6,Half: Hou 16-0  4th qtr: Hou two passing TDs.  Picket knee injury.
-4,MIN,CAR,Min 21-13,1st qtr: Car 7-0.  Car defense pick 6.  Half: Car 13-7.  3rd qtr: Min defense fumble recovery TD.  Minn passing TD.  Addison no targets.
+4,DET,GB,DET 34 -20,Lions 7 - 3 at half.  Packers scored 2 TDs and two 2 points conversions in 2nd half.  Lions scored rushing TD in 4th qtr.
+4,ATL,JAX,JAX 23 - 7,Jax 17 - 0 at half.  Jax pick 6 in first half.  Alt TD in 2nd half.  Jax defense dominated game.
+4,MIA,BUF,BUF 48 - 20,"1st Qtr: Buf 14-7.  Half: Buf 31-14.  3rd qtr: 41-20  4th qtr: 48-20.  Buff: 6 tds (2 rushing, 4 passing).  Allen and Diggs slate winning fantasy points."
+4,DEN,CHI,DEN 31-28,1st qtr: Den 7-0  Half: Chi 21-7.  3rd qtr: 28-14.  Den scored last 24 points.
+4,BAL,CLE,BAL 28 - 3,1st qtr: Bal 7-3  Half: Bal 21-3.  2nd half: Bal passing TD to Andrews.  Desaun Watson didn't play.  Bal defense dominated.
+4,PIT,HOU,HOU 30-6,Half: Hou 16-0  4th qtr: Hou two passing TDs.  Picket knee injury.
+4,MIN,CAR,MiN 21-13,1st qtr: Car 7-0.  Car defense pick 6.  Half: Car 13-7.  3rd qtr: Min defense fumble recovery TD.  Minn passing TD.  Addison no targets.
 4,LAR,IND,LAR 29 - 23 OT,1st qtr: LAR 14-0.  K. Williams 2 rushing TDs  Half: LAR 20-0.  2nd half: Ind Down 23-0 scored 2 passing TDs and Richardson rushing TD.  Puka Nacua receiving TD in OT
 4,TB,NO,TB 26-9,Half: 14-3. 2nd half:  TB 12-6.  Carr played after shoulder injured previous week.  Kamara had 13 receptions on under 50 yards receiving.
-4,WAS],PHI,Phi 34-31 OT ,1st qtr: 7-7 Half: Was 17-10. 3rd qtr: 21-17. 4th qtr: Was 14-10.  Was scored TD as game expired. OT: Phi FG
-4,CIN,TEN,Ten 28-3,1st qtr: 3-3. Half: Ten 24-3. Henry 24ish fantasy points.
+4,WAS],PHI,PHI 34-31 OT ,1st qtr: 7-7 Half: Was 17-10. 3rd qtr: 21-17. 4th qtr: Was 14-10.  Was scored TD as game expired. OT: Phi FG
+4,CIN,TEN,TEN 28-3,1st qtr: 3-3. Half: Ten 24-3. Henry 24ish fantasy points.
 4,LV,LAC,LAC 24-17,1st qtr: 7-7  Half: 24-7.  2nd half LV 10-0.  Herbert 2 rushing TDs.  Adams shoulder injury. Eckler inactive.  Jimmy G inactive.  
-4,NE,DAL,Dal 38-3,Half: 28-3. Dal defense INT TD and fumble recovery TD
+4,NE,DAL,DAL 38-3,Half: 28-3. Dal defense INT TD and fumble recovery TD
 4,ARI,SF,SF 35-16,Half: 21-10. 2nd half: SF 14-3. CMC 4 TDs. Deebo zero targets. Elijah Mitchell inactive.
 4,KC,NYJ,KC 23-20,1st qtr: KC 17-0. Half: KC 20-12. 3rd qtr: 20-20.
 4,SEA,NYG,SEA 24-3,1st qtr: SEA 7-0. Half: SEA 14-3. 3rd qtr: SEA 21-3.  Final: 24-3.  SEA defense pick 6 INT.  SEA 10 sacks.
@@ -30,7 +30,7 @@ Week,Away,Home,Score,Game Summary
 6,GB,LV,LV 17-13,1st qtr: GB 3-0  2nd qtr: LV 10-3  3rd qtr: GB 13-10  4th qtr: LV 17-13
 6,DEN,KC,KC 19-8,1st qtr: KC 3-0  2nd qtr: KC 13-0  3rd qtr: KC 16-0  4th qtr: KC 19-8
 6,BAL,TEN,BAL 24-16,1st qtr: BAL 6-3  2nd qtr: BAL 18-3  3rd qtr: BAL 18-13  4th qtr: BAL 24-16
-6,WSH,ATL,WSH 24-16,1st qtr: ATL 7-3  2nd qtr: WSH 17-10  3rd qtr: WSH 24-10  4th qtr: WSH 24-16
+6,WAS,ATL,WAS 24-16,1st qtr: ATL 7-3  2nd qtr: WAS 17-10  3rd qtr: WAS 24-10  4th qtr: WAS 24-16
 6,SEA,CIN,CIN 17-13,1st qtr: 7-7  2nd qtr: CIN 14-10  3rd qtr: CIN 14-13  4th qtr: CIN 17-13
 6,IND,JAX,JAX 37-20,1st qtr: IND 3-0  2nd qtr: JAX 21-6  3rd qtr: JAX 31-6  4th qtr: JAX 37-20
 6,CAR,MIA,MIA 42-21,1st qtr: CAR 14-0  2nd qtr: MIA 21-14  3rd qtr: MIA 28-14  4th qtr: MIA 42-21  MIA Int TD return.
@@ -42,4 +42,4 @@ Week,Away,Home,Score,Game Summary
 6,ARI,LAR,LAR 26-9,1st qtr: 3-3  2nd qtr: ARI 9-6  3rd qtr: LAR 16-9  4th qtr: LAR 26-9
 6,PHI,NYJ,NYJ 20-14,1st qtr: PHI 7-0  2nd qtr: PHI 14-9  3rd qtr: PHI 14-12  4th qtr: NYJ 20-14
 6,NYG,BUF,BUF 14-9,1st qtr: NYG 3-0  2nd qtr: NYG 6-0  3rd qtr: NYG 6-0  4th qtr: BUF 14-9
-6,DAL,LAC,,
+6,DAL,LAC,DAL 20-17,1st qtr: 7-7  2nd qtr: DAL 10-7  3rd qtr: 10-10  4th qtr: DAL 20-17
