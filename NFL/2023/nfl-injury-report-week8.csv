@@ -1,5 +1,6 @@
 ﻿Player,Team,Pos,Injury,Status,Est. Return
 De'Von Achane,MIA,RB,Knee,IR,11/19/2023
+Jamal Adams,SEA,S,Knee,Questionable,10/29/2023
 Otaro Alaka,FA,LB,Undisclosed,Questionable,10/29/2023
 Christian Albright,FA,LB,Undisclosed,Questionable,10/29/2023
 Jaire Alexander,GB,CB,Back,Questionable,10/29/2023
@@ -10,13 +11,14 @@ Torrence Allen,FA,WR,Undisclosed,Questionable,10/29/2023
 Jaquan Amos,FA,S,Undisclosed,Questionable,10/29/2023
 Bradlee Anae,NYJ,DE,Undisclosed,IR,2/12/2024
 Troy Andersen,ATL,LB,Shoulder,IR,2/12/2024
-Calvin Anderson,NE,OT,Illness,Questionable,10/29/2023
+Alec Anderson,BUF,OT,Coach's Decision,Inactive,11/5/2023
+Calvin Anderson,NE,OT,Illness,Out,11/5/2023
 Darius Anderson,FA,RB,Knee,Questionable,10/29/2023
 Henry Anderson,CAR,DE,Foot,IR,2/12/2024
 Ezekiel Ansah,FA,DE,Biceps,Questionable,10/29/2023
 Troy Apke,WAS,CB,Shoulder,IR,2/12/2024
 Terron Armstead,MIA,OT,Knee,IR,11/5/2023
-Brian Asamoah,MIN,LB,Ankle,Questionable,10/29/2023
+Brian Asamoah,MIN,LB,Ankle,Out,11/5/2023
 Jaytlin Askew,FA,CB,Quadriceps,Questionable,10/29/2023
 C. J. Avery,FA,LB,Undisclosed,Questionable,10/29/2023
 Genard Avery,IND,DE,Knee - Meniscus,IR,2/12/2024
@@ -25,17 +27,15 @@ David Bada,WAS,DT,Triceps,IR,2/12/2024
 David Bakhtiari,GB,OT,Knee,IR,2/12/2024
 Daylen Baldwin,FA,WR,Hamstring,Questionable,10/29/2023
 Josh Ball,DAL,OT,Hip,IR,2/12/2024
-Saquon Barkley,NYG,RB,Elbow,Questionable,10/29/2023
 Christian Barmore,NE,DT,Knee,Questionable,10/29/2023
-Krys Barnes,ARI,LB,Hamstring,Questionable,10/29/2023
-Cody Barton,WAS,LB,Ankle,Questionable,10/29/2023
+Krys Barnes,ARI,LB,Hamstring,Out,11/5/2023
+Cody Barton,WAS,LB,Ankle,IR,11/23/2023
 Evan Baylis,FA,TE,Ankle,Questionable,10/29/2023
 Robert Beal,SF,DE,Hamstring,IR,10/29/2023
 Abraham Beauplan,FA,LB,Undisclosed,Questionable,10/29/2023
 Willie Beavers,FA,OG,Undisclosed,Questionable,10/29/2023
 Nate Becker,FA,TE,Undisclosed,Questionable,10/29/2023
-Mekhi Becton,NYJ,OT,Knee,Questionable,10/29/2023
-Vonn Bell,CAR,S,Quadriceps,Questionable,10/29/2023
+Vonn Bell,CAR,S,Quadriceps,Out,11/5/2023
 B.J. Bello,FA,LB,Ankle,Questionable,10/29/2023
 Eno Benjamin,NO,RB,Achilles,IR,2/12/2024
 Jakorian Bennett,LV,CB,Shoulder,Questionable,10/30/2023
@@ -47,7 +47,7 @@ Marquise Blair,FA,S,Undisclosed,Questionable,10/29/2023
 Amani Bledsoe,FA,DE,Suspension,Reserve-Sus,1/7/2024
 C.J. Board,FA,WR,Ribs,Questionable,10/29/2023
 Isaiah Bolden,NE,CB,Concussion,IR,2/12/2024
-Curtis Bolton,LV,LB,Knee,IR,10/30/2023
+Curtis Bolton,LV,LB,Knee,IR-R,10/30/2023
 Nick Bolton,KC,LB,Wrist,Out,12/25/2023
 Devante Bond,FA,LB,Knee,Questionable,10/29/2023
 Jon Bostic,FA,LB,Pectoral,Questionable,10/29/2023
@@ -55,25 +55,23 @@ Tyus Bowser,BAL,LB,Knee,NFI-R,10/29/2023
 Ja'Marcus Bradley,FA,WR,Undisclosed,Questionable,10/29/2023
 Shaun Bradley,PHI,LB,Achilles,IR,2/12/2024
 Christian Braswell,JAX,CB,Hamstring,IR,11/19/2023
-JuJu Brents,IND,CB,Quadriceps,Doubtful,10/29/2023
-Aaron Brewer,TEN,C,Neck,Questionable,10/29/2023
-Gary Brightwell,NYG,RB,Hamstring,Questionable,10/29/2023
+JuJu Brents,IND,CB,Quadriceps,Out,11/5/2023
+Gary Brightwell,NYG,RB,Hamstring,Out,11/5/2023
 Beau Brinkley,FA,C,Undisclosed,Questionable,10/29/2023
-Jaquan Brisker,CHI,S,Illness,Questionable,10/29/2023
+Jaquan Brisker,CHI,S,Illness,Out,11/5/2023
 Chris Brooks,MIA,RB,Ankle,IR,11/24/2023
 Curtis Brooks,WAS,DT,Undisclosed,IR,2/12/2024
-Jordyn Brooks,SEA,LB,Calf,Questionable,10/29/2023
 Bobby Brown,LAR,DT,Knee - MCL,IR,11/19/2023
 Brittain Brown,LV,RB,Undisclosed,IR,2/12/2024
+Chase Brown,CIN,RB,Hamstring,IR,11/26/2023
 Daniel Brown,FA,TE,Hip,Questionable,10/29/2023
 Duane Brown,NYJ,OT,Shoulder,IR,10/29/2023
-Evan Brown,SEA,C,Hip,Questionable,10/29/2023
 Jayon Brown,FA,LB,Hand,Questionable,10/29/2023
 Mike Brown,FA,OG,Undisclosed,Questionable,10/29/2023
 Mike Brown,TEN,S,Undisclosed,IR,11/2/2023
-Orlando Brown,CIN,OT,Groin,Questionable,10/29/2023
 Shakel Brown,TEN,DT,Ankle,IR,2/12/2024
 Shakur Brown,FA,CB,Undisclosed,Questionable,10/29/2023
+Tony Brown,IND,CB,Ribs,Questionable,10/29/2023
 Trent Brown,NE,OT,Ankle,Questionable,10/29/2023
 Troy Brown,FA,LB,Undisclosed,Questionable,10/29/2023
 Coby Bryant,SEA,CB,Toe,IR,11/12/2023
@@ -81,6 +79,7 @@ Hunter Bryant,FA,TE,Undisclosed,Questionable,10/29/2023
 Bryan Bulaga,FA,OT,Back,Questionable,10/29/2023
 LaTrell Bumphus,SEA,DT,Undisclosed,IR,2/12/2024
 Ian Bunting,FA,TE,Neck,Questionable,10/29/2023
+Brian Burns,CAR,LB,Elbow,Questionable,10/29/2023
 Darien Butler,LV,LB,Undisclosed,IR,2/12/2024
 Hakeem Butler,FA,WR,Undisclosed,Questionable,10/29/2023
 Vernon Butler,FA,DT,Undisclosed,Questionable,10/29/2023
@@ -92,14 +91,14 @@ Tyson Campbell,JAX,CB,Hamstring,Questionable,10/29/2023
 Marcus Cannon,FA,OT,Concussion,Questionable,10/29/2023
 Trenton Cannon,FA,RB,Knee,Questionable,10/29/2023
 Dylan Cantrell,FA,TE,Undisclosed,Questionable,10/29/2023
+Daniel Carlson,LV,K,Groin,Questionable,10/30/2023
 Patrick Carr,FA,RB,Undisclosed,Questionable,10/29/2023
 Jamal Carter,FA,S,Undisclosed,Questionable,10/29/2023
 Michael Carter,NYJ,CB,Hamstring,Questionable,10/29/2023
 Jerome Carvin,FA,C,Undisclosed,Questionable,10/29/2023
 Quintez Cephus,FA,WR,Suspension,Reserve-Sus,2/12/2024
-Zach Charbonnet,SEA,RB,Hamstring,Questionable,10/29/2023
-Irvin Charles,NYJ,WR,Shoulder,Questionable,10/29/2023
-Saahdiq Charles,WAS,OG,Calf,Questionable,10/29/2023
+Irvin Charles,NYJ,WR,Shoulder,Doubtful,10/29/2023
+Saahdiq Charles,WAS,OG,Calf,IR,11/23/2023
 Taco Charlton,FA,DE,Undisclosed,Questionable,10/29/2023
 Julius Chestnut,TEN,RB,Hamstring,IR,11/2/2023
 Jeremy Chinn,CAR,S,Quadriceps,IR,11/26/2023
@@ -107,10 +106,9 @@ Brady Christensen,CAR,OG,Biceps,IR,2/12/2024
 Cole Christiansen,FA,LB,Hamstring,Out,11/5/2023
 DeMarcus Christmas,FA,DT,Undisclosed,Questionable,10/29/2023
 Nick Chubb,CLE,RB,Knee - ACL + MCL,IR,2/12/2024
-Andre Cisco,JAX,S,Lower Body,Questionable,10/29/2023
+Andre Cisco,JAX,S,Hamstring,Questionable,10/29/2023
 Chuck Clark,NYJ,S,Knee - ACL,IR,2/12/2024
 Darius Clark,FA,RB,Knee,Questionable,10/29/2023
-Frank Clark,FA,LB,Illness,Questionable,10/29/2023
 Chris Claybrooks,JAX,CB,Undisclosed,Reserve-CEL,2/12/2024
 Ezra Cleveland,MIN,OG,Foot,Questionable,10/29/2023
 Randall Cobb,NYJ,WR,Shoulder,Questionable,10/29/2023
@@ -122,13 +120,12 @@ Jack Conklin,CLE,OT,Knee - ACL + MCL,IR,2/12/2024
 Gareon Conley,FA,CB,Ankle,Questionable,10/29/2023
 James Conner,ARI,RB,Knee,IR,11/12/2023
 Cody Conway,FA,OT,Knee - ACL,Questionable,10/29/2023
-Austin Corbett,CAR,OG,Knee - ACL,Questionable,10/29/2023
 Cody Core,FA,WR,Undisclosed,Questionable,10/29/2023
-Samuel Cosmi,WAS,OG,Hip,Questionable,10/29/2023
 Jeff Cotton,FA,WR,Undisclosed,Questionable,10/29/2023
 Nathan Cottrell,FA,RB,Undisclosed,Questionable,10/29/2023
 River Cracraft,MIA,WR,Shoulder,IR-R,10/29/2023
 Kekoa Crawford,FA,WR,Undisclosed,Questionable,10/29/2023
+Maxx Crosby,LV,DE,Knee,Questionable,10/30/2023
 Tyrell Crosby,FA,OT,Back,Questionable,10/29/2023
 Keion Crossen,MIA,CB,Undisclosed,IR,2/12/2024
 Isaiah Crowell,FA,RB,Achilles,Questionable,10/29/2023
@@ -142,14 +139,15 @@ Corey Davis,FA,WR,Personal,Reserve-Ret,2/12/2024
 Daewood Davis,FA,WR,Concussion,Questionable,10/29/2023
 Demario Davis,NO,LB,Knee,Questionable,10/29/2023
 Jarrad Davis,NYG,LB,Knee,IR,2/12/2024
+Jordan Davis,PHI,DT,Hamstring,Questionable,10/29/2023
 Nate Davis,CHI,OG,Ankle,Out,11/5/2023
 Quartney Davis,FA,WR,Shoulder,Questionable,10/29/2023
 Shaquan Davis,FA,WR,Undisclosed,Out,11/12/2023
 Shawn Davis,FA,S,Abdomen,Questionable,10/29/2023
-Tae Davis,ATL,LB,Concussion,Questionable,10/29/2023
+Tae Davis,ATL,LB,Concussion,Out,11/5/2023
 Tyler Davis,GB,TE,Knee,IR,2/12/2024
 Wyatt Davis,NYG,OG,Ankle,IR,2/12/2024
-Akeem Davis-Gaither,CIN,LB,Knee,Questionable,10/29/2023
+Akeem Davis-Gaither,CIN,LB,Knee,Out,11/5/2023
 Duke Dawson,FA,CB,Undisclosed,Questionable,10/29/2023
 Divine Deablo,LV,LB,Ankle,Questionable,10/30/2023
 Dylan Deatherage,FA,OT,Undisclosed,Questionable,10/29/2023
@@ -157,6 +155,7 @@ Dawson Deaton,CLE,OG,Knee - ACL,IR,2/12/2024
 Trevon Diggs,DAL,CB,Knee - ACL,IR,2/12/2024
 Brandon Dillon,WAS,TE,Undisclosed,IR,2/12/2024
 J.K. Dobbins,BAL,RB,Achilles,IR,2/12/2024
+Greg Dortch,ARI,WR,Ankle,Questionable,10/29/2023
 Andrew Dowell,NO,LB,Knee - ACL,IR,2/12/2024
 Tommy Doyle,BUF,OT,Knee,IR,2/12/2024
 Dakota Dozier,FA,OG,Knee - ACL,Questionable,10/29/2023
@@ -164,35 +163,35 @@ Josh Drayden,FA,CB,Undisclosed,Questionable,10/29/2023
 Greg Dulcich,DEN,TE,Hamstring,IR,11/26/2023
 Ashton Dulin,IND,WR,Knee - ACL,IR,2/12/2024
 Michael Dunn,CLE,OG,Calf,IR,11/19/2023
+Bud Dupree,ATL,LB,Groin,Questionable,10/29/2023
 Yasir Durant,FA,OG,Undisclosed,Questionable,10/29/2023
 David Durden,DAL,WR,Knee - ACL,IR,2/12/2024
 Nate Ebner,FA,S,Ankle,Questionable,10/29/2023
 Trestan Ebner,FA,RB,Concussion,Questionable,10/29/2023
 Duke Ejiofor,FA,LB,Undisclosed,Questionable,10/29/2023
 Daniel Ekuale,NE,DT,Biceps,IR,10/29/2023
+Kaiir Elam,BUF,CB,Coach's Decision,Inactive,11/5/2023
 Pat Elflein,ARI,C,Undisclosed,IR,2/12/2024
 Tino Ellis,FA,CB,Undisclosed,Questionable,10/29/2023
 Ikenna Enechukwu,ATL,LB,Undisclosed,IR,2/12/2024
 Donnie Ernsberger,FA,TE,Undisclosed,Questionable,10/29/2023
 Zach Ertz,ARI,TE,Quadriceps,IR,11/26/2023
 Tyler Ervin,FA,RB,Foot,Questionable,10/29/2023
-Dee Eskridge,SEA,WR,Knee,Questionable,10/29/2023
 Drew Estrada,FA,WR,Achilles,Questionable,10/29/2023
 Justin Evans,PHI,S,Knee,IR,11/20/2023
-Gerald Everett,LAC,TE,Quadriceps,Questionable,10/29/2023
+Gerald Everett,LAC,TE,Hip,Questionable,10/29/2023
 Joshua Ezeudu,NYG,OT,Toe,IR,11/19/2023
 Erik Ezukanma,MIA,WR,Neck,NFI-R,10/29/2023
 Jequez Ezzard,FA,WR,Undisclosed,Questionable,10/29/2023
 Brandon Facyson,LV,CB,Shin,IR,10/30/2023
 Diego Fagot,FA,LB,Undisclosed,Questionable,10/29/2023
-Noah Fant,SEA,TE,Toe,Questionable,10/29/2023
 Austin Faoliu,SEA,DT,Knee,PUP-R,10/29/2023
 Caleb Farley,TEN,CB,Back,PUP-R,10/29/2023
 Dan Feeney,CHI,C,Knee,Questionable,10/29/2023
-Matt Feiler,TB,OG,Knee,Out,11/5/2023
+Matt Feiler,TB,OG,Knee,Inactive,11/5/2023
 Rashad Fenton,ARI,CB,Undisclosed,IR,2/12/2024
 Ethan Fernea,FA,WR,Undisclosed,Questionable,10/29/2023
-Justin Fields,CHI,QB,Thumb,Doubtful,10/29/2023
+Justin Fields,CHI,QB,Thumb,Out,11/5/2023
 Sharif Finch,FA,LB,Undisclosed,Questionable,10/29/2023
 Eric Fisher,FA,OT,Calf,Questionable,10/29/2023
 Dallis Flowers,IND,CB,Achilles,IR,2/12/2024
@@ -200,7 +199,7 @@ Trey Flowers,FA,LB,Foot,Questionable,10/29/2023
 Drew Forbes,CLE,OG,Back,NFI-R,10/29/2023
 Dee Ford,FA,DE,Back,Questionable,10/29/2023
 Isaiah Ford,FA,WR,Undisclosed,Questionable,10/29/2023
-Jerome Ford,CLE,RB,Ankle,Doubtful,10/29/2023
+Jerome Ford,CLE,RB,Ankle,Questionable,10/29/2023
 Bryce Ford-Wheaton,NYG,WR,Knee,IR,2/12/2024
 Darrick Forrest,WAS,S,Shoulder,IR,11/12/2023
 L.J. Fort,FA,LB,Knee - ACL,Questionable,10/29/2023
@@ -213,18 +212,14 @@ Will Fuller,FA,WR,Finger,Questionable,10/29/2023
 Russell Gage,TB,WR,Knee,IR,2/12/2024
 Jon Gaines,ARI,C,Knee,IR,2/12/2024
 Tipa Galeai,FA,LB,Hamstring,Questionable,10/29/2023
-Graham Gano,NYG,K,Knee,Questionable,10/29/2023
+Max Garcia,NO,OG,Illness,Questionable,10/29/2023
 Jamell Garcia-Williams,FA,DE,Undisclosed,Questionable,10/29/2023
-Sauce Gardner,NYJ,CB,Concussion,Questionable,10/29/2023
 C.J. Gardner-Johnson,DET,S,Pectoral,IR,10/30/2023
 Ben Garland,FA,C,Calf,Questionable,10/29/2023
-Jimmy Garoppolo,LV,QB,Back,Questionable,10/30/2023
 Mark Gilbert,FA,CB,Undisclosed,Questionable,10/29/2023
 Cullen Gillaspia,FA,LB,Knee,Questionable,10/29/2023
 Alohi Gilman,LAC,S,Heel,Questionable,10/29/2023
 Jordan Glasgow,FA,LB,Undisclosed,Questionable,10/29/2023
-Davon Godchaux,NE,DT,Ankle,Questionable,10/29/2023
-Chris Godwin,TB,WR,Neck,Questionable,10/26/2023
 Eddie Goldman,ATL,DT,Undisclosed,Reserve-Ex,2/12/2024
 Matt Gono,FA,OT,Neck,Questionable,10/29/2023
 Christian Gonzalez,NE,CB,Shoulder - Labrum,IR,11/5/2023
@@ -234,8 +229,9 @@ Marquise Goodwin,CLE,WR,Back,Questionable,10/29/2023
 Tay Gowan,FA,CB,Undisclosed,Questionable,10/29/2023
 Alfonzo Graham,PIT,RB,Undisclosed,IR,2/12/2024
 Jaeden Graham,FA,TE,Undisclosed,Questionable,10/29/2023
+Jimmy Graham,NO,TE,Illness,Questionable,10/29/2023
 Thomas Graham,CLE,CB,Ankle,IR,2/12/2024
-Kylen Granson,IND,TE,Concussion,Questionable,10/29/2023
+Kylen Granson,IND,TE,Concussion,Out,11/5/2023
 Jakeem Grant,CLE,WR,Kneecap,IR,2/12/2024
 Danny Gray,SF,WR,Shoulder - AC Joint,IR,10/29/2023
 Eric Gray,NYG,RB,Calf,IR,11/26/2023
@@ -250,6 +246,7 @@ Jonas Griffith,DEN,LB,Knee - ACL,IR,2/12/2024
 Trevon Grimes,FA,WR,Undisclosed,Questionable,10/29/2023
 Yetur Gross-Matos,CAR,LB,Hamstring,IR,11/26/2023
 Ryan Groy,FA,OG,Triceps,Questionable,10/29/2023
+Kamu Grugier-Hill,CAR,LB,Illness,Questionable,10/29/2023
 Javelin Guidry,NYJ,CB,Knee,IR,2/12/2024
 Sebastian Gutierrez,FA,OT,Undisclosed,Questionable,10/29/2023
 Jalen Guyton,LAC,WR,Knee - ACL,PUP-R,10/29/2023
@@ -257,12 +254,13 @@ Troy Hairston,HOU,FB,Back,IR,2/12/2024
 Grant Haley,FA,CB,Knee - ACL,Questionable,10/29/2023
 Emanuel Hall,FA,WR,Achilles,Questionable,10/29/2023
 Kemon Hall,FA,CB,Undisclosed,Questionable,10/29/2023
+Logan Hall,TB,DE,Groin,Questionable,11/5/2023
 Maalik Hall,NYJ,LB,Undisclosed,IR,2/12/2024
 Terez Hall,NE,LB,Undisclosed,IR,2/12/2024
 Antonio Hamilton,ARI,CB,Groin,Questionable,10/29/2023
 DaeSean Hamilton,FA,WR,Undisclosed,Questionable,10/29/2023
-DaVon Hamilton,JAX,DT,Back,IR-R,10/29/2023
 Devery Hamilton,FA,OT,Lower Leg,Questionable,10/29/2023
+Damar Hamlin,BUF,S,Coach's Decision,Inactive,11/5/2023
 Malik Hamm,BAL,LB,Ankle,IR,10/29/2023
 Saquan Hampton,FA,S,Achilles,Questionable,10/29/2023
 Jake Hanson,FA,C,Shin,Questionable,10/29/2023
@@ -278,29 +276,26 @@ Kolby Harvell-Peel,FA,S,Hamstring,Questionable,10/29/2023
 Hassan Haskins,TEN,RB,Undisclosed,IR,2/12/2024
 J.C. Hassenauer,NYG,C,Triceps,IR,2/12/2024
 Broughton Hatcher,FA,C,Undisclosed,Questionable,10/29/2023
+Rob Havenstein,LAR,OT,Calf,Questionable,10/29/2023
 Jerald Hawkins,FA,OT,Undisclosed,Questionable,10/29/2023
 Daelin Hayes,FA,LB,Undisclosed,Questionable,10/29/2023
 Marquis Haynes,CAR,LB,Back,IR,10/29/2023
-Phil Haynes,SEA,OG,Calf,Questionable,10/29/2023
+Phil Haynes,SEA,OG,Calf,Doubtful,10/29/2023
 Joel Heath,FA,DE,Knee - ACL,Questionable,10/29/2023
 Charlie Heck,HOU,OT,Foot,PUP-R,10/29/2023
 Matt Hembrough,ARI,C,Back,IR,2/12/2024
 Peyton Hendershot,DAL,TE,Ankle,IR,11/19/2023
 Xavier Henderson,FA,S,Undisclosed,Questionable,10/29/2023
 Matt Hennessy,ATL,OG,Knee,IR,2/12/2024
-Hunter Henry,NE,TE,Ankle,Questionable,10/29/2023
 Ra'Shaun Henry,FA,WR,Undisclosed,Questionable,10/29/2023
 Khalil Herbert,CHI,RB,Ankle,IR,11/9/2023
-Nick Herbig,PIT,LB,Illness,Questionable,10/29/2023
 Chandon Herring,FA,OG,Undisclosed,Questionable,10/29/2023
 Parker Hesse,FA,TE,Undisclosed,Out,11/5/2023
-Cameron Heyward,PIT,DE,Groin,IR,11/12/2023
+Cameron Heyward,PIT,DE,Groin,IR-R,11/2/2023
 Taysom Hill,NO,QB,Chest,Questionable,10/29/2023
-Tyreek Hill,MIA,WR,Hip,Questionable,10/29/2023
 Dontrell Hilliard,FA,RB,Neck,Questionable,10/29/2023
 Nyheim Hines,BUF,RB,Knee,NFI-R,2/12/2024
 Nate Hobbs,LV,CB,Ankle,Questionable,10/30/2023
-T.J. Hockenson,MIN,TE,Foot,Questionable,10/29/2023
 Cooper Hodges,JAX,OT,Knee,IR,10/29/2023
 Will Holden,FA,OT,Calf,Questionable,10/29/2023
 Jevon Holland,MIA,S,Concussion,Questionable,10/29/2023
@@ -309,20 +304,21 @@ Jacob Hollister,FA,TE,Undisclosed,Questionable,10/29/2023
 Hendon Hooker,DET,QB,Knee - ACL,NFI-R,10/30/2023
 Jaycee Horn,CAR,CB,Hamstring,IR,10/29/2023
 James Houston,DET,LB,Ankle,IR,11/12/2023
+Tytus Howard,HOU,OG,Knee,Questionable,10/29/2023
 Xavien Howard,MIA,CB,Groin,Questionable,10/29/2023
 Hayden Howerton,FA,OG,Undisclosed,Out,10/29/2023
 Jonathan Hubbard,FA,OT,Undisclosed,Questionable,10/29/2023
 Rodney Hudson,FA,C,Knee,Questionable,10/29/2023
 Evan Hull,IND,RB,Knee,IR,2/12/2024
-Kareem Hunt,CLE,RB,Thigh,Questionable,10/29/2023
 Caleb Huntley,FA,RB,Achilles,Questionable,10/29/2023
 Jalen Hurd,FA,WR,Undisclosed,Reserve-Ret,2/12/2024
 Allen Hurns,FA,WR,Wrist,Questionable,10/29/2023
-James Hurst,NO,OT,Ankle,Questionable,10/29/2023
+James Hurst,NO,OT,Ankle,Out,11/5/2023
 John Hurst,FA,WR,Ankle,Questionable,10/29/2023
 Xavier Hutchinson,HOU,WR,Foot,Questionable,10/29/2023
 Ishmael Hyman,FA,WR,Undisclosed,Questionable,10/29/2023
 Mohamed Ibrahim,FA,RB,Hip,Out,12/3/2023
+Germain Ifedi,BUF,OG,Coach's Decision,Inactive,11/5/2023
 George Iloka,FA,S,Knee - ACL,Questionable,10/29/2023
 Alec Ingold,MIA,FB,Foot,Questionable,10/29/2023
 Mark Ingram,FA,RB,Knee - MCL,Questionable,10/29/2023
@@ -337,50 +333,47 @@ Jonah Jackson,DET,OG,Ankle,Questionable,10/30/2023
 Kareem Jackson,DEN,S,Suspension,Reserve-Sus,11/19/2023
 Kearis Jackson,TEN,WR,Ankle,IR,10/29/2023
 Warren Jackson,FA,WR,Undisclosed,Questionable,10/29/2023
-Jerry Jacobs,DET,CB,Knee,Questionable,10/30/2023
 Ja'Wuan James,FA,OT,Achilles,Questionable,10/29/2023
-Richie James,KC,WR,Knee - MCL,IR,10/29/2023
+Richie James,KC,WR,Knee - MCL,IR-R,11/5/2023
 Justin Jefferson,MIN,WR,Hamstring,IR,11/12/2023
 Jalen Jelks,FA,DE,Undisclosed,Questionable,10/29/2023
-Elgton Jenkins,GB,OG,Knee,Questionable,10/29/2023
 Jaray Jenkins,FA,WR,Undisclosed,Questionable,10/29/2023
 Jordan Jenkins,FA,DE,Knee - ACL,Questionable,10/29/2023
 Ryan Jensen,TB,C,Knee,IR,2/12/2024
 Bisi Johnson,FA,WR,Knee - ACL,Questionable,10/29/2023
+Brandon Johnson,DEN,WR,Hamstring,Questionable,10/29/2023
 Dontae Johnson,FA,CB,Knee - ACL,Questionable,10/29/2023
 Eric Johnson,IND,DT,Ankle,Questionable,10/29/2023
 Jahmir Johnson,FA,OT,Undisclosed,Questionable,10/29/2023
 Josh Johnson,FA,RB,Undisclosed,Questionable,10/29/2023
-Juwan Johnson,NO,TE,Calf,Questionable,10/29/2023
 Nazeeh Johnson,KC,S,Knee - ACL,IR,2/12/2024
 Roderick Johnson,PHI,OT,Undisclosed,IR,2/12/2024
-Roschon Johnson,CHI,RB,Concussion,Questionable,10/29/2023
 Willie Johnson,FA,WR,Undisclosed,Questionable,10/29/2023
-Aaron Jones,GB,RB,Hamstring,Questionable,10/29/2023
 Ben Jones,FA,C,Undisclosed,Questionable,10/29/2023
-Braxton Jones,CHI,OT,Neck,IR-R,10/29/2023
+Benito Jones,DET,DT,Ankle,Questionable,10/29/2023
+Braxton Jones,CHI,OT,Neck,IR-R,11/5/2023
 Brett Jones,FA,C,Biceps,Questionable,10/29/2023
 Byron Jones,FA,CB,Achilles,Questionable,10/29/2023
 Chandler Jones,FA,DE,Personal,Questionable,10/29/2023
 Charlie Jones,CIN,WR,Thumb,IR,11/5/2023
 Chris Jones,FA,P,Abdomen,Questionable,10/29/2023
-Daniel Jones,NYG,QB,Neck,Questionable,10/29/2023
+Daniel Jones,NYG,QB,Neck,Out,11/5/2023
 DaQuan Jones,BUF,DT,Pectoral,IR,11/13/2023
 Devin Jones,FA,CB,Undisclosed,Questionable,10/29/2023
 Ernest Jones,LAR,LB,Knee,Questionable,10/29/2023
 Jonathan Jones,NE,CB,Knee,Questionable,10/29/2023
 Josh Jones,FA,S,Hamstring,Questionable,10/29/2023
-Marcus Jones,NE,CB,Shoulder,IR,10/29/2023
+Marcus Jones,NE,CB,Shoulder,IR,11/5/2023
+Naquan Jones,TEN,DT,Illness,Questionable,10/29/2023
 Xavier Jones,FA,RB,Achilles,Questionable,10/29/2023
-Zay Jones,JAX,WR,Knee,Questionable,10/29/2023
-Brevin Jordan,HOU,TE,Foot,Questionable,10/29/2023
+Zay Jones,JAX,WR,Knee,Out,11/12/2023
+Brevin Jordan,HOU,TE,Foot,Out,11/5/2023
 Dion Jordan,FA,DE,Knee,Questionable,10/29/2023
 Karl Joseph,FA,S,Ankle,Questionable,10/29/2023
 Lamarcus Joyner,FA,S,Hip,Questionable,10/29/2023
 Matthew Judon,NE,LB,Biceps,IR,12/7/2023
-Gregory Junior,JAX,CB,Hamstring,IR-R,10/29/2023
+Gregory Junior,JAX,CB,Hamstring,IR-R,11/12/2023
 Cam Jurgens,PHI,OG,Foot,IR,11/5/2023
-Alvin Kamara,NO,RB,Illness,Questionable,10/29/2023
 Khalid Kareem,CHI,DE,Hip,IR-R,10/29/2023
 Matt Kaskey,FA,OT,Undisclosed,Questionable,10/29/2023
 Silas Kelly,FA,LB,Undisclosed,Questionable,10/29/2023
@@ -389,8 +382,7 @@ Dre Kirkpatrick,FA,CB,Ankle,Questionable,10/29/2023
 Micah Kiser,FA,LB,Leg,Questionable,10/29/2023
 Zonovan Knight,DET,RB,Shoulder,IR,2/12/2024
 Malik Knowles,MIN,WR,Undisclosed,NFI-R,10/29/2023
-Dawson Knox,BUF,TE,Wrist,Out,11/5/2023
-Kader Kohou,MIA,CB,Neck,Questionable,10/29/2023
+Dawson Knox,BUF,TE,Wrist,IR,11/26/2023
 Jake Kumerow,FA,WR,Back,Questionable,10/29/2023
 Jordan Kunaszyk,CLE,LB,Knee - MCL,IR,10/29/2023
 William Kwenkeu,MIN,LB,Undisclosed,IR,2/12/2024
@@ -419,9 +411,10 @@ Greg Little,FA,OT,Back,Questionable,10/29/2023
 Walker Little,JAX,OG,Knee,Questionable,10/29/2023
 Tyler Lockett,SEA,WR,Hamstring,Questionable,10/29/2023
 Greg Long,FA,OT,Undisclosed,Questionable,10/29/2023
-Hunter Long,LAR,TE,Hamstring,IR-R,10/29/2023
+Hunter Long,LAR,TE,Hamstring,IR-R,11/5/2023
 Bryce Love,FA,RB,Knee,Questionable,10/29/2023
 John Lovett,FA,FB,Undisclosed,Questionable,10/29/2023
+Vederian Lowe,NE,OT,Ankle,Out,11/5/2023
 Abraham Lucas,SEA,OT,Knee,IR,10/29/2023
 Darrell Luter,SF,CB,Knee,PUP-R,10/29/2023
 Frankie Luvu,CAR,LB,Hip,Questionable,10/29/2023
@@ -437,13 +430,12 @@ Koda Martin,FA,OG,Undisclosed,Questionable,10/29/2023
 Marcus Martin,FA,C,Undisclosed,Questionable,10/29/2023
 Wes Martin,FA,OG,Concussion,Questionable,10/29/2023
 Tyrann Mathieu,NO,S,Foot,Questionable,10/29/2023
-Phidarian Mathis,WAS,DT,Calf,IR-R,10/29/2023
 Jesse Matthews,HOU,WR,Knee - ACL,IR,2/12/2024
 Devonnsha Maxwell,CIN,DT,Knee,IR,2/12/2024
-Marcus Maye,NO,S,Hamstring,Questionable,10/29/2023
-Baker Mayfield,TB,QB,Knee,Questionable,10/26/2023
+Marcus Maye,NO,S,Illness,Questionable,10/29/2023
 Mac McCain,FA,CB,Undisclosed,Questionable,10/29/2023
-Roger McCreary,TEN,CB,Hamstring,Questionable,10/29/2023
+Roger McCreary,TEN,CB,Hamstring,Out,11/5/2023
+Will McDonald,NYJ,DE,Back,Questionable,10/29/2023
 Codey McElroy,FA,TE,Foot,Questionable,10/29/2023
 Anthony McFarland,PIT,RB,Knee,IR-R,10/29/2023
 Kenny McIntosh,SEA,RB,Knee,IR-R,10/29/2023
@@ -459,7 +451,7 @@ Steven Means,FA,LB,Achilles,Questionable,10/29/2023
 Obi Melifonwu,FA,S,Undisclosed,Questionable,10/29/2023
 Nicolas Melsop,FA,OG,Undisclosed,Questionable,10/29/2023
 Forrest Merrill,FA,DT,Undisclosed,Questionable,10/29/2023
-Kaevon Merriweather,TB,S,Ankle,Out,11/5/2023
+Kaevon Merriweather,TB,S,Ankle,Inactive,11/5/2023
 Sony Michel,LAR,RB,Undisclosed,Reserve-Ret,2/12/2024
 Matt Milano,BUF,LB,Leg,IR,12/10/2023
 Ventrell Miller,JAX,LB,Achilles,IR,2/12/2024
@@ -471,15 +463,13 @@ Jovante Moffatt,FA,S,Undisclosed,Questionable,10/29/2023
 Donte Moncrief,FA,WR,Undisclosed,Questionable,10/29/2023
 Bryan Mone,SEA,DT,Knee - ACL,PUP-R,10/29/2023
 David Montgomery,DET,RB,Ribs,Questionable,10/30/2023
-Ty Montgomery,NE,RB,Knee,Questionable,10/29/2023
 C.J. Moore,FA,S,Suspension,Reserve-Sus,2/12/2024
-Chris Moore,TEN,WR,Concussion,Questionable,10/29/2023
 J'Mon Moore,FA,WR,Undisclosed,Questionable,10/29/2023
 Jalin Moore,FA,RB,Ankle,Reserve-Ret,10/29/2023
 Jaylon Moore,JAX,WR,Undisclosed,IR,2/12/2024
 Nick Moore,BAL,C,Achilles,NFI-R,2/12/2024
 Mike Morris,SEA,DE,Shoulder,IR,2/12/2024
-Quintin Morris,BUF,TE,Ankle,Out,11/5/2023
+Quintin Morris,BUF,TE,Ankle,Inactive,11/5/2023
 Emmanuel Moseley,DET,CB,Knee - ACL,IR,2/12/2024
 Jordan Mosley,FA,S,Undisclosed,Questionable,10/29/2023
 Zack Moss,IND,RB,Elbow,Questionable,10/29/2023
@@ -488,11 +478,10 @@ Taylor Moton,CAR,OT,Knee,Questionable,10/29/2023
 T.D. Moultry,FA,LB,Undisclosed,Questionable,10/29/2023
 Trayvon Mullen,BAL,CB,Toe,NFI-R,10/29/2023
 Nick Mullens,MIN,QB,Back,IR,11/12/2023
-Larrell Murchison,LAR,DT,Knee,Questionable,10/29/2023
 Kyle Murphy,FA,OG,Ankle,Questionable,10/29/2023
 Chris Murray,FA,C,Undisclosed,Questionable,10/29/2023
 Eric Murray,HOU,S,Knee,IR,11/26/2023
-Kyler Murray,ARI,QB,Knee - ACL,PUP-R,11/12/2023
+Kyler Murray,ARI,QB,Knee - ACL,PUP-R,10/29/2023
 Luke Musgrave,GB,TE,Ankle,Questionable,10/29/2023
 Chris Myarick,NYG,FB,Hand,IR,2/12/2024
 Josh Myers,GB,C,Ankle,Questionable,10/29/2023
@@ -507,69 +496,67 @@ Nik Needham,MIA,CB,Achilles,Questionable,10/29/2023
 Matt Nelson,DET,OT,Ankle,IR,10/30/2023
 Nick Nelson,FA,CB,Undisclosed,Questionable,10/29/2023
 Hardy Nickerson,FA,LB,Concussion,Questionable,10/29/2023
-Yosh Nijman,GB,OT,Knee,Questionable,10/29/2023
 Tre Nixon,NE,WR,Shoulder,IR,2/12/2024
-David Njoku,CLE,TE,Knee,Questionable,10/29/2023
 Elijah Nkansah,FA,OT,Undisclosed,Questionable,10/29/2023
 Desmond Noel,FA,OG,Undisclosed,Questionable,10/29/2023
 Quinn Nordin,FA,K,Undisclosed,Questionable,10/29/2023
 Jared Norris,FA,LB,Shoulder,Questionable,10/29/2023
 Andrew Norwell,FA,OG,Hip,Questionable,10/29/2023
-Uchenna Nwosu,SEA,LB,Pectoral,Out,2/12/2024
+Kene Nwangwu,MIN,RB,Illness,Questionable,10/29/2023
+Uchenna Nwosu,SEA,LB,Pectoral,IR,2/12/2024
+Patrick O'Connor,TB,DE,Coach's Decision,Inactive,11/5/2023
 Nick O'Leary,FA,TE,Chest,Questionable,10/29/2023
 Leon O'Neal,FA,S,Undisclosed,Questionable,10/29/2023
 Ifeadi Odenigbo,NYJ,DE,Undisclosed,IR,2/12/2024
 Chris Odom,FA,DE,Knee - ACL,Questionable,10/29/2023
 Otito Ogbonnia,LAC,DT,Kneecap,PUP-R,10/29/2023
 Adetokunbo Ogundeji,ATL,LB,Foot,IR,2/12/2024
-David Ojabo,BAL,LB,Ankle,IR,10/29/2023
+David Ojabo,BAL,LB,Ankle,IR,11/12/2023
 Azeez Ojulari,NYG,LB,Ankle,IR,11/12/2023
-Ogbonnia Okoronkwo,CLE,DE,Ribs,Questionable,10/29/2023
-Ed Oliver,BUF,DT,Toe,Questionable,10/26/2023
 Sewo Olonilua,FA,FB,Neck,Questionable,10/29/2023
 Joshua Onujiogu,SEA,LB,Elbow,IR,2/12/2024
 Joe Ostman,FA,DE,Undisclosed,Questionable,10/29/2023
 DeMarvion Overshown,DAL,LB,Knee - ACL,IR,2/12/2024
+Odafe Oweh,BAL,LB,Ankle,Questionable,10/29/2023
 Tanner Owen,FA,OT,Illness,Questionable,10/29/2023
 Alex Palczewski,DEN,OT,Hand,IR,10/29/2023
 Joshua Palmer,LAC,WR,Knee,Questionable,10/29/2023
 Andrew Parchment,FA,WR,Undisclosed,Questionable,10/29/2023
 Brandon Parker,FA,OT,Undisclosed,Questionable,10/29/2023
-Zach Pascal,ARI,WR,Neck,Questionable,10/29/2023
 Tim Patrick,DEN,WR,Achilles,IR,2/12/2024
 Matt Peart,NYG,OT,Shoulder,IR,11/26/2023
+Andrus Peat,NO,OG,Ankle,Questionable,10/29/2023
 John Penisini,FA,DT,Undisclosed,Questionable,10/29/2023
 Jordan Perryman,FA,CB,Undisclosed,Questionable,10/29/2023
 Tautala Pesefea,FA,DT,Undisclosed,Questionable,10/29/2023
+Marcus Peters,LV,CB,Back,Questionable,10/30/2023
 Dante Pettis,FA,WR,Undisclosed,Questionable,10/29/2023
 La'Michael Pettway,FA,TE,Undisclosed,Questionable,10/29/2023
 Jacob Phillips,CLE,LB,Pectoral,IR,2/12/2024
+James Pierre,PIT,CB,Ankle,Questionable,10/29/2023
 Kevin Pierre-Louis,FA,LB,Groin,Questionable,10/29/2023
 Jared Pinkney,FA,TE,Undisclosed,Questionable,10/29/2023
 Danny Pinter,IND,C,Ankle,IR,2/12/2024
-Trey Pipkins,LAC,OT,Ankle,Questionable,10/29/2023
 Quentin Poling,FA,LB,Undisclosed,Questionable,10/29/2023
 Elijah Ponder,FA,LB,Undisclosed,Questionable,10/29/2023
 Troymaine Pope,FA,RB,Undisclosed,Questionable,10/29/2023
+Joey Porter,PIT,CB,Calf,Questionable,10/29/2023
 Monte Pottebaum,FA,FB,Undisclosed,Reserve-Ret,2/12/2024
 Adam Prentice,NO,FB,Knee,IR,11/12/2023
 Austin Proehl,FA,WR,Undisclosed,Questionable,10/29/2023
-Brock Purdy,SF,QB,Concussion,Questionable,10/29/2023
 Scott Quessenberry,HOU,C,Knee - ACL + MCL,IR,2/12/2024
 Brent Qvale,FA,OT,Undisclosed,Questionable,10/29/2023
 Trey Ragas,FA,RB,Undisclosed,Questionable,10/29/2023
 Reggie Ragland,FA,LB,Shoulder,Questionable,10/29/2023
+Frank Ragnow,DET,C,Toe,Questionable,10/29/2023
 Charleston Rambo,FA,WR,Undisclosed,Questionable,10/29/2023
-Ryan Ramczyk,NO,OT,Concussion,Questionable,10/29/2023
 Jalen Ramsey,MIA,CB,Knee - Meniscus,IR-R,10/29/2023
-Sheldon Rankins,HOU,DT,Knee,Questionable,10/29/2023
+Sheldon Rankins,HOU,DT,Knee,Out,11/5/2023
 Shane Ray,FA,DE,Hamstring,Questionable,10/29/2023
-Kalif Raymond,DET,WR,Hamstring,Questionable,10/30/2023
 Jeremy Reaves,WAS,S,Knee - ACL,IR,2/1/2024
 Alex Redmond,FA,OG,Undisclosed,Questionable,10/29/2023
 Jalen Redmond,FA,DT,Undisclosed,Questionable,10/29/2023
 Chris Reed,MIN,OG,Lower Leg,NFI-R,10/29/2023
-D.J. Reed,NYJ,CB,Concussion,Questionable,10/29/2023
 Joe Reed,CHI,WR,Undisclosed,IR,2/12/2024
 Riley Reiff,NE,OG,Knee,IR,11/26/2023
 Nikko Remigio,KC,WR,Wrist,IR,2/12/2024
@@ -578,7 +565,6 @@ Sammis Reyes,JAX,TE,Concussion,Reserve-Ret,2/12/2024
 Ross Reynolds,FA,OG,Undisclosed,Questionable,10/29/2023
 Giovanni Ricci,CAR,TE,Shoulder,IR,11/26/2023
 Anthony Richardson,IND,QB,Shoulder - AC Joint,IR,2/12/2024
-Hassan Ridgeway,HOU,DT,Calf,IR-R,10/29/2023
 Curtis Riley,FA,S,Achilles,Questionable,10/29/2023
 Chauncey Rivers,FA,LB,Knee - ACL,Questionable,10/29/2023
 Ronnie Rivers,LAR,RB,Knee - PCL,IR,11/26/2023
@@ -586,7 +572,7 @@ Tre Roberson,FA,CB,Concussion,Questionable,10/29/2023
 Aaron Robinson,NYG,CB,Knee - ACL + MCL,PUP-R,10/29/2023
 Rashard Robinson,FA,CB,Undisclosed,Questionable,10/29/2023
 Reggie Robinson,FA,CB,Undisclosed,Questionable,10/29/2023
-Bradley Roby,PHI,CB,Shoulder,Questionable,10/29/2023
+Bradley Roby,PHI,CB,Shoulder,Out,11/5/2023
 Aaron Rodgers,NYJ,QB,Achilles,IR,1/7/2024
 Bryce Rodgers,FA,DT,Undisclosed,Questionable,10/29/2023
 Isaiah Rodgers,PHI,CB,Suspension,Reserve-Sus,2/12/2024
@@ -596,6 +582,7 @@ Armani Rogers,WAS,TE,Achilles,IR,2/12/2024
 Aldrick Rosas,FA,K,Undisclosed,Questionable,10/29/2023
 Daniel Ross,FA,DT,Undisclosed,Questionable,10/29/2023
 John Ross,FA,WR,Undisclosed,Reserve-Ret,2/12/2024
+Justyn Ross,KC,WR,Personal,Reserve-CEL,11/5/2023
 Bunmi Rotimi,FA,DE,Foot,Questionable,10/29/2023
 Chapelle Russell,PIT,LB,Undisclosed,IR,2/12/2024
 Christian Sam,FA,LB,Undisclosed,Questionable,10/29/2023
@@ -611,29 +598,27 @@ Anthony Schwartz,FA,WR,Hamstring,Questionable,9/24/2024
 Daniel Scott,IND,S,Knee - ACL,IR,2/12/2024
 Juice Scruggs,HOU,C,Hamstring,IR,10/29/2023
 Ricky Seals-Jones,FA,TE,Foot,Questionable,10/29/2023
-Kevon Seymour,BAL,CB,Ankle,Questionable,10/29/2023
 Adam Shaheen,FA,TE,Knee,Questionable,10/29/2023
 Liam Shanahan,FA,C,Undisclosed,Questionable,10/29/2023
 Tajae Sharpe,FA,WR,Undisclosed,Questionable,10/29/2023
 Brandon Shell,BUF,OT,Undisclosed,Reserve-Ret,2/12/2024
 Tyler Shelvin,FA,DT,Undisclosed,Questionable,10/29/2023
-Laviska Shenault,CAR,WR,Ankle,Questionable,10/29/2023
+Laviska Shenault,CAR,WR,Ankle,Out,11/5/2023
 Darrius Shepherd,FA,WR,Undisclosed,Questionable,10/29/2023
 A.Q. Shipley,FA,C,Neck,Questionable,10/29/2023
-Justin Shorter,BUF,WR,Hamstring,IR,10/26/2023
-Justin Simmons,DEN,S,Hip,Questionable,10/29/2023
+Justin Shorter,BUF,WR,Hamstring,IR,11/5/2023
 Tuzar Skipper,FA,LB,Undisclosed,Questionable,10/29/2023
 Ben Skowronek,LAR,WR,Achilles,Questionable,10/29/2023
 Ryan Smenda,FA,LB,Undisclosed,Questionable,10/29/2023
-Braden Smith,IND,OT,Hip,Questionable,10/29/2023
+Braden Smith,IND,OT,Hip,Out,11/5/2023
 Cam Smith,MIA,CB,Foot,Questionable,10/29/2023
 Maurice Smith,FA,S,Undisclosed,Questionable,10/29/2023
-Roquan Smith,BAL,LB,Shoulder,Questionable,10/29/2023
 Ryan Smith,FA,CB,Suspension,Reserve-Sus,12/17/2023
 Saivion Smith,FA,S,Undisclosed,Questionable,10/29/2023
-Terell Smith,CHI,CB,Illness,Questionable,10/29/2023
+Terell Smith,CHI,CB,Illness,Out,11/5/2023
+Tyron Smith,DAL,OT,Neck,Questionable,10/29/2023
 Dylan Soehner,FA,TE,Undisclosed,Questionable,10/29/2023
-Baylon Spector,BUF,LB,Hamstring,Out,11/5/2023
+Baylon Spector,BUF,LB,Hamstring,Inactive,11/5/2023
 Diontae Spencer,FA,WR,Undisclosed,Questionable,10/29/2023
 Jeremy Sprinkle,FA,TE,Achilles,Questionable,10/29/2023
 DeAndre Square,FA,LB,Undisclosed,Questionable,10/29/2023
@@ -649,17 +634,17 @@ Derek Stingley,HOU,CB,Hamstring,IR,11/5/2023
 Eric Stokes,GB,CB,Hamstring,IR,11/23/2023
 Eli Stove,FA,WR,Knee - ACL,Questionable,10/29/2023
 Chris Streveler,FA,QB,Thumb,Questionable,10/29/2023
-Kevin Strong,ARI,DE,Shoulder,Questionable,10/29/2023
+Kevin Strong,ARI,DE,Shoulder,Out,11/5/2023
 Nate Sudfeld,DET,QB,Knee - ACL,IR,2/12/2024
-Stephen Sullivan,CAR,TE,Illness,Questionable,10/29/2023
 Nick Sundberg,FA,C,Elbow,Questionable,10/29/2023
 Keaton Sutherland,FA,OG,Abdomen,Questionable,10/29/2023
 Jordan Swann,FA,CB,Undisclosed,Questionable,10/29/2023
 Tommy Sweeney,NYG,TE,Undisclosed,NFI-R,10/29/2023
 Donte Sylencieux,FA,WR,Undisclosed,Questionable,10/29/2023
 Sione Takitaki,CLE,LB,Hamstring,Questionable,10/29/2023
-Ryan Tannehill,TEN,QB,Ankle,Questionable,10/29/2023
+Ryan Tannehill,TEN,QB,Ankle,Out,11/2/2023
 Jonah Tavai,FA,DT,Undisclosed,Questionable,10/29/2023
+Alontae Taylor,NO,CB,Hip,Questionable,10/29/2023
 Calvin Taylor,FA,DE,Undisclosed,Questionable,10/29/2023
 Demetrius Taylor,FA,DT,Suspension,Reserve-Sus,2/12/2024
 Jason Taylor,LAR,S,Groin,IR,10/29/2023
@@ -671,7 +656,7 @@ Marvell Tell,FA,CB,Undisclosed,Questionable,10/29/2023
 Luke Tenuta,GB,OT,Ankle,IR,10/29/2023
 Sam Tevi,FA,OT,Knee - ACL,Questionable,10/29/2023
 Kayvon Thibodeaux,NYG,LB,Knee,Questionable,10/29/2023
-Andrew Thomas,NYG,OT,Hamstring,Questionable,10/29/2023
+Andrew Thomas,NYG,OT,Hamstring,Doubtful,10/29/2023
 Ian Thomas,CAR,TE,Calf,IR,11/19/2023
 Isaiah Thomas,FA,DE,Knee,Doubtful,10/29/2023
 Mike Thomas,FA,WR,Shoulder - Labrum,Questionable,10/29/2023
@@ -680,37 +665,33 @@ DeAndre Thompkins,FA,WR,Undisclosed,Questionable,10/29/2023
 Chris Thompson,FA,WR,Undisclosed,Questionable,10/29/2023
 Jalen Thompson,ARI,S,Hamstring,Questionable,10/29/2023
 Shaq Thompson,CAR,LB,Lower Leg,IR,2/12/2024
-Joe Tippmann,NYJ,OG,Thigh,Questionable,10/29/2023
+Joe Tippmann,NYJ,OG,Quadriceps,Out,11/6/2023
 Noah Togiai,FA,TE,Undisclosed,Questionable,10/29/2023
 Levine Toilolo,FA,TE,Achilles,Questionable,10/29/2023
 Shaka Toney,WAS,DE,Suspension,Reserve-Sus,2/12/2024
 Andrew Trainer,LAC,OT,Undisclosed,IR,2/12/2024
 Cory Trice,PIT,CB,Knee - ACL,IR,2/12/2024
+Sean Tucker,TB,RB,Coach's Decision,Inactive,11/5/2023
 Jacob Tuioti-Mariner,FA,LB,Knee,Questionable,10/29/2023
-Laremy Tunsil,HOU,OT,Knee,Questionable,10/29/2023
-Cole Turner,WAS,TE,Ankle,Questionable,10/29/2023
 Payton Turner,NO,DE,Toe,IR,10/29/2023
 Trai Turner,NO,OG,Quadriceps,IR,2/12/2024
 Michael Tutsie,FA,S,Undisclosed,Questionable,10/29/2023
-Josh Uche,NE,LB,Foot,Questionable,10/29/2023
+Josh Uche,NE,LB,Foot,Out,11/5/2023
 Olisaemeka Udoh,MIN,OT,Quadriceps,IR,2/12/2024
 John Ursua,FA,WR,Knee - ACL,Questionable,10/29/2023
 Eyioma Uwazurike,DEN,DT,Suspension,Reserve-Sus,2/12/2024
 AJ Uzodinma,LAC,CB,Undisclosed,IR,2/12/2024
+Halapoulivaati Vaitai,DET,OG,Back,Questionable,10/29/2023
 Zeke Vandenburgh,MIA,LB,Undisclosed,IR,2/12/2024
 Leighton Vander Esch,DAL,LB,Neck,IR,11/19/2023
-Vita Vea,TB,DT,Groin,Questionable,10/26/2023
+Vita Vea,TB,DT,Groin,Inactive,11/5/2023
 Alijah Vera-Tucker,NYJ,OG,Achilles,IR,2/12/2024
 Olivier Vernon,FA,DE,Achilles,Questionable,10/29/2023
 Jalen Virgil,DEN,WR,Knee - Meniscus,IR,2/12/2024
 Andrew Vorhees,BAL,OG,Knee - ACL,NFI-R,10/29/2023
-Jaylen Waddle,MIA,WR,Back,Questionable,10/29/2023
 Shaun Wade,NE,CB,Shoulder,Questionable,10/29/2023
-Bobby Wagner,SEA,LB,Ankle,Questionable,10/29/2023
 Dalton Wagner,LV,OT,Undisclosed,IR,2/12/2024
 Matt Waletzko,DAL,OT,Shoulder,IR,10/29/2023
-Anthony Walker,CLE,LB,Shoulder,Questionable,10/29/2023
-Kenneth Walker,SEA,RB,Calf,Questionable,10/29/2023
 Michael Walker,FA,WR,Undisclosed,Questionable,10/29/2023
 Levi Wallace,PIT,CB,Foot,Questionable,10/29/2023
 Tylan Wallace,BAL,WR,Hamstring,IR-R,10/29/2023
@@ -718,17 +699,18 @@ Darren Waller,NYG,TE,Hamstring,Questionable,10/29/2023
 Austin Walter,LV,RB,Undisclosed,IR,2/12/2024
 Prince Tega Wanogho,KC,OT,Quadriceps,IR,10/29/2023
 Ar'Darius Washington,BAL,CB,Chest,IR,10/29/2023
-Dwayne Washington,DEN,RB,Knee,Questionable,10/29/2023
 Keith Washington,FA,CB,Wrist,Questionable,10/29/2023
 Parker Washington,JAX,WR,Knee,IR,11/12/2023
 Carlos Watkins,ARI,DT,Biceps,IR,10/29/2023
 Quez Watkins,PHI,WR,Hamstring,IR,11/20/2023
-Deshaun Watson,CLE,QB,Shoulder,Questionable,10/29/2023
+Deshaun Watson,CLE,QB,Shoulder,Out,11/5/2023
 Armani Watts,FA,S,Ankle,Questionable,10/29/2023
+Markees Watts,TB,LB,Coach's Decision,Inactive,11/5/2023
 Sterling Weatherford,FA,LB,Undisclosed,Questionable,10/29/2023
 Stephen Weatherly,FA,DE,Knee,Questionable,10/29/2023
 Marcus Webb,FA,DE,Undisclosed,Questionable,10/29/2023
 Ken Webster,FA,CB,Undisclosed,Questionable,10/29/2023
+David Wells,TB,TE,Coach's Decision,Inactive,11/5/2023
 Josh Wells,FA,OT,Hip,Questionable,10/29/2023
 Barry Wesley,FA,OT,Undisclosed,Out,10/29/2023
 Isaiah Weston,FA,WR,Undisclosed,Reserve-Ret,2/12/2024
@@ -740,8 +722,8 @@ Javin White,FA,LB,Knee - ACL,Questionable,10/29/2023
 Keion White,NE,DE,Concussion,Questionable,10/29/2023
 Tre'Davious White,BUF,CB,Achilles,IR,2/12/2024
 Kedrick Whitehead,FA,S,Undisclosed,Questionable,10/29/2023
-Josh Whyle,TEN,TE,Concussion,Questionable,10/29/2023
-Elijah Wilkinson,ARI,OG,Neck,Questionable,10/29/2023
+Josh Whyle,TEN,TE,Concussion,Out,11/2/2023
+Elijah Wilkinson,ARI,OG,Neck,Out,11/5/2023
 Avery Williams,ATL,RB,Knee - ACL,IR,2/12/2024
 Chad Williams,FA,WR,Undisclosed,Questionable,10/29/2023
 Connor Williams,MIA,C,Groin,Questionable,10/29/2023
@@ -749,11 +731,10 @@ Damarion Williams,BAL,CB,Ankle,IR,10/29/2023
 Duke Williams,FA,WR,Hamstring,Questionable,10/29/2023
 Jarren Williams,FA,CB,Lower Body,Questionable,10/29/2023
 Jonathan Williams,FA,RB,Undisclosed,Questionable,10/29/2023
-K'Waun Williams,DEN,CB,Ankle,IR,1/7/2024
+K'Waun Williams,DEN,CB,Ankle,IR,2/12/2024
 Kyren Williams,LAR,RB,Ankle,IR,11/26/2023
-Marcus Williams,BAL,S,Hamstring,Questionable,10/29/2023
+Marcus Williams,BAL,S,Hamstring,Out,11/5/2023
 Mike Williams,LAC,WR,Knee - ACL,IR,2/12/2024
-Milton Williams,PHI,DT,Heel,Questionable,10/29/2023
 Trent Williams,SF,OT,Ankle,Questionable,10/29/2023
 Tyrell Williams,FA,WR,Concussion,Questionable,10/29/2023
 Chris Williamson,FA,CB,Undisclosed,Questionable,10/29/2023
@@ -765,22 +746,17 @@ Deatrich Wise,NE,DE,Shoulder,Questionable,10/29/2023
 Anthony Witherstone,FA,CB,Toe,Questionable,10/29/2023
 Jake Witt,IND,OT,Hip,IR,2/12/2024
 Samuel Womack,SF,CB,Knee,IR,10/29/2023
-Jelani Woods,IND,TE,Hamstring,IR,10/29/2023
+Jelani Woods,IND,TE,Hamstring,IR,11/5/2023
 JT Woods,LAC,S,Illness,NFI-R,11/6/2023
 Michael Woods,CLE,WR,Achilles,NFI-R,2/12/2024
-Robert Woods,HOU,WR,Foot,Questionable,10/29/2023
+Robert Woods,HOU,WR,Foot,Out,11/5/2023
 Xavier Woods,CAR,S,Hamstring,Questionable,10/29/2023
 Daryl Worley,BAL,S,Shoulder,IR,11/5/2023
 Renell Wren,PIT,DT,Undisclosed,IR,2/12/2024
-Darnell Wright,CHI,OT,Shoulder,Questionable,10/29/2023
 Milton Wright,FA,WR,Undisclosed,Questionable,10/29/2023
-Devonte Wyatt,GB,DE,Knee,Questionable,10/29/2023
 Isaiah Wynn,MIA,OT,Quadriceps,IR,12/3/2023
-Russ Yeast,LAR,S,Hip,Questionable,10/29/2023
 Kenny Yeboah,NYJ,TE,Hamstring,IR,10/29/2023
-Byron Young,LAR,LB,Knee,Questionable,10/29/2023
-Dareke Young,SEA,WR,Groin,IR,10/29/2023
-Landon Young,NO,OT,Hip,Questionable,10/29/2023
+Dareke Young,SEA,WR,Groin,IR,11/5/2023
 Tavon Young,FA,CB,Undisclosed,Questionable,10/29/2023
 Kilian Zierer,HOU,OT,Ankle,IR,2/12/2024
 Justin Zimmer,FA,DT,Undisclosed,Questionable,10/29/2023
