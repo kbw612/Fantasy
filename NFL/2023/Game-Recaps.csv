@@ -1,74 +1,75 @@
-Week,Away,Home,Score,Game Summary
-4,DET,GB,DET 34 -20,Lions 7 - 3 at half.  Packers scored 2 TDs and two 2 points conversions in 2nd half.  Lions scored rushing TD in 4th qtr.
-4,ATL,JAX,JAX 23 - 7,Jax 17 - 0 at half.  Jax pick 6 in first half.  Alt TD in 2nd half.  Jax defense dominated game.
-4,MIA,BUF,BUF 48 - 20,"1st Qtr: Buf 14-7.  Half: Buf 31-14.  3rd qtr: 41-20  4th qtr: 48-20.  Buff: 6 tds (2 rushing, 4 passing).  Allen and Diggs slate winning fantasy points."
-4,DEN,CHI,DEN 31-28,1st qtr: Den 7-0  Half: Chi 21-7.  3rd qtr: 28-14.  Den scored last 24 points.
-4,BAL,CLE,BAL 28 - 3,1st qtr: Bal 7-3  Half: Bal 21-3.  2nd half: Bal passing TD to Andrews.  Desaun Watson didn't play.  Bal defense dominated.
-4,PIT,HOU,HOU 30-6,Half: Hou 16-0  4th qtr: Hou two passing TDs.  Picket knee injury.
-4,MIN,CAR,MiN 21-13,1st qtr: Car 7-0.  Car defense pick 6.  Half: Car 13-7.  3rd qtr: Min defense fumble recovery TD.  Minn passing TD.  Addison no targets.
-4,LAR,IND,LAR 29 - 23 OT,1st qtr: LAR 14-0.  K. Williams 2 rushing TDs  Half: LAR 20-0.  2nd half: Ind Down 23-0 scored 2 passing TDs and Richardson rushing TD.  Puka Nacua receiving TD in OT
-4,TB,NO,TB 26-9,Half: 14-3. 2nd half:  TB 12-6.  Carr played after shoulder injured previous week.  Kamara had 13 receptions on under 50 yards receiving.
-4,WAS],PHI,PHI 34-31 OT ,1st qtr: 7-7 Half: Was 17-10. 3rd qtr: 21-17. 4th qtr: Was 14-10.  Was scored TD as game expired. OT: Phi FG
-4,CIN,TEN,TEN 28-3,1st qtr: 3-3. Half: Ten 24-3. Henry 24ish fantasy points.
-4,LV,LAC,LAC 24-17,1st qtr: 7-7  Half: 24-7.  2nd half LV 10-0.  Herbert 2 rushing TDs.  Adams shoulder injury. Eckler inactive.  Jimmy G inactive.  
-4,NE,DAL,DAL 38-3,Half: 28-3. Dal defense INT TD and fumble recovery TD
-4,ARI,SF,SF 35-16,Half: 21-10. 2nd half: SF 14-3. CMC 4 TDs. Deebo zero targets. Elijah Mitchell inactive.
-4,KC,NYJ,KC 23-20,1st qtr: KC 17-0. Half: KC 20-12. 3rd qtr: 20-20.
-4,SEA,NYG,SEA 24-3,1st qtr: SEA 7-0. Half: SEA 14-3. 3rd qtr: SEA 21-3.  Final: 24-3.  SEA defense pick 6 INT.  SEA 10 sacks.
-5,CHI,WAS,CHI 40-20,1st qtr: CHI 17-0. Half: CHI 27-3. 3rd qtr: CHI 27-14. Final: CHI 40-20.  DJ Moore 230 receiving yards and 3 TDs
-5,JAX,BUF,JAX 25-20,1st qtr: JAX 11-0. Half: JAX 11-7. 4th qtr: JAX 25-20.  
-5,NYG,MIA,MIA 31-16,1st qtr: MIA 7-0. Half: MIA 17-10. 3rd qtr: MIA 31-13.  NYG pick 6 INT TD.
-5,CAR,DET,DET 42-24,1st qtr: DET 14-0. Half: DET 28-10. 4th qtr: DET 42-24.
-5,HOU,ATL,ATL 21-19,1st qtr: ATL 7-3. Half: HOU 9-7. 3rd qtr: HOU 12-7 4th qtr: ATL 21-19.
-5,BAL,PIT,PIT 17-10,1st qtr: BAL 7-0. Half: BAL 10-3. 4th qtr: PIT 17-10.  
-5,NO,NE,NO 34-0,1st qtr: NO 7-0.  Pick 6 INT TD. Half: NO 21-0. 3rd qtr: NO 24-0.  4th qtr: NO 34-0.  
-5,TEN,IND,IND 23-16,1st qtr: IND 7-3. Half: IND 10-6. 3rd qtr: IND 17-16. 4th qtr: IND 23-16.  
-5,CIN,ARI,CIN 34-20,1st qtr: CIN 10-0. Half: CIN 17-14. 3rd qtr: CIN 24-20. 4th qtr: CIN 34-20.  Chase 3 TDs
-5,PHI,LAR,PHI 23-14,1st qtr: 7-7. Half: PHI 17-14. 4th qtr: CIN 23-14.
-5,NYJ,DEN,NYJ 31-21,1st qtr: DEN 7-5. Half: DEN 13-8. 3rd qtr: NYJ 18-13. 4th qtr: NYJ 31-21.
-5,KC,MIN,KC 27-10,1st qtr: KC 7-3. Half: 13-13. 3rd qtr: KC 27-13. 4th qtr: KC 27-20.
-6,GB,LV,LV 17-13,1st qtr: GB 3-0  2nd qtr: LV 10-3  3rd qtr: GB 13-10  4th qtr: LV 17-13
-6,DEN,KC,KC 19-8,1st qtr: KC 3-0  2nd qtr: KC 13-0  3rd qtr: KC 16-0  4th qtr: KC 19-8
-6,BAL,TEN,BAL 24-16,1st qtr: BAL 6-3  2nd qtr: BAL 18-3  3rd qtr: BAL 18-13  4th qtr: BAL 24-16
-6,WAS,ATL,WAS 24-16,1st qtr: ATL 7-3  2nd qtr: WAS 17-10  3rd qtr: WAS 24-10  4th qtr: WAS 24-16
-6,SEA,CIN,CIN 17-13,1st qtr: 7-7  2nd qtr: CIN 14-10  3rd qtr: CIN 14-13  4th qtr: CIN 17-13
-6,IND,JAX,JAX 37-20,1st qtr: IND 3-0  2nd qtr: JAX 21-6  3rd qtr: JAX 31-6  4th qtr: JAX 37-20
-6,CAR,MIA,MIA 42-21,1st qtr: CAR 14-0  2nd qtr: MIA 21-14  3rd qtr: MIA 28-14  4th qtr: MIA 42-21  MIA Int TD return.
-6,MIN,CHI,MIN 19-13,1st qtr: MIN 3-0  2nd qtr: MIN 12-6  3rd qtr: MIN 19-6  4th qtr: MIN 19-13  MIN fumble TD return.
-6,SF,CLE,CLE 19-17,1st qtr: SF 7-0  2nd qtr: SF 10-7  3rd qtr: CLE 13-10  4th qtr: CLE 19-17  CMC and Samuel left game.
-6,NO,HOU,HOU 20-13,1st qtr: 7-7  2nd qtr: HOU 17-10  3rd qtr: HOU 20-13  4th qtr: HOU 20-13
-6,NE,LV,LV 21-17,1st qtr: LV 3-0  2nd qtr: LV 13-3  3rd qtr: LV 16-10  4th qtr: LV 21-17
-6,DET,TB,DET 20-6,1st qtr: DET 3-0  2nd qtr: DET 10-3  3rd qtr: DET 17-6  4th qtr: DET 20-6
-6,ARI,LAR,LAR 26-9,1st qtr: 3-3  2nd qtr: ARI 9-6  3rd qtr: LAR 16-9  4th qtr: LAR 26-9
-6,PHI,NYJ,NYJ 20-14,1st qtr: PHI 7-0  2nd qtr: PHI 14-9  3rd qtr: PHI 14-12  4th qtr: NYJ 20-14
-6,NYG,BUF,BUF 14-9,1st qtr: NYG 3-0  2nd qtr: NYG 6-0  3rd qtr: NYG 6-0  4th qtr: BUF 14-9
-6,DAL,LAC,DAL 20-17,1st qtr: 7-7  2nd qtr: DAL 10-7  3rd qtr: 10-10  4th qtr: DAL 20-17
-7,JAX,NO,JAX 31-24,1st qtr: JAX 7-3  2nd qtr: JAX 17-6  3rd qtr: JAX 24-9  4th qtr: JAX 31-24.  JAX defense pick 6 INT TD.
-7,CLE,IND,CLE 39-38,1st qtr: IND 14-7  2nd qtr: CLE 27-21  3rd qtr: CLE 30-28  4th qtr: CLE 39-38.  CLE defese fumble recovery TD.
-7,BUF,NE,NE 29-25,1st qtr: NE 10-0  2nd qtr: NE 13-3  3rd qtr: NE 16-10  4th qtr: NE 29-25
-7,WSH,NYG,NYG 14-7,1st qtr: 0-0  2nd qtr: NYG 14-0  3rd qtr: NYG 14-7  4th qtr: NYG 14-7
-7,DET,BAL,BAL 38-6,1st qtr: BAL 14-0  2nd qtr: BAL 28-0  3rd qtr: BAL 35-0  4th qtr: BAL 38-6
-7,LV,CHI,CHI 30-12,1st qtr: CHI 7-0  2nd qtr: CHI 14-3  3rd qtr: CHI 21-3  4th qtr: CHI 30-12.  CHI defense INT TD return.  Bagent first career start.
-7,ATL,TB,ATL 16-13,1st qtr: 7-7  2nd qtr: 10-10  3rd qtr: ATL 13-10  4th qtr: ATL 16-13
-7,PIT,LAR,PIT 24-17,1st qtr: 0-0  2nd qtr: LAR 9-3  3rd qtr: LAR 17-10  4th qtr: PIT 24-17
-7,ARI,SEA,SEA 20-10,1st qtr: SEA 7-3  2nd qtr: SEA 14-10  3rd qtr: SEA 17-10  4th qtr: SEA 20-10
-7,GB,DEN,DEN 19-17,1st qtr: DEN 3-0  2nd qtr: DEN 9-0  3rd qtr: DEN 16-10  4th qtr: DEN 19-17
-7,LAC,KC,KC 31-17,1st qtr: 3-3  2nd qtr: KC 24-17  3rd qtr: KC 24-17  4th qtr: KC 31-17
-7,MIA,PHI,PHI 31-17,1st qtr: 3-3  2nd qtr: PHI 17-10  3rd qtr: PHI 24-17  4th qtr: PHI 31-17.  MIA INT TD return.
-7,SF,MIN,MIN 22-17,1st qtr: MIN 7-0  2nd qtr: MIN 16-7  3rd qtr: MIN 22-14  4th qtr: MIN 22-17
-8,TB,BUF,BUF 24-18,1st qtr: BUF 3-0  2nd qtr: BUF 17-10  3rd qtr: BUF 24-10  4th qtr: BUF 24-18
-8,HOU,CAR,CAR 15-13,1st qtr: 0-0  2nd qtr: HOU 7-6  3rd qtr: HOU 13-12  4th qtr: CAR 15-13
-8,NE,MIA,MIA 31-17,1st qtr: 7-7  2nd qtr: MIA 17-7  3rd qtr: MIA 24-10  4th qtr: MIA 31-17
-8,NYJ,NYG,NYJ 3-0,1st qtr: NYJ 7-3  2nd qtr: NYJ 7-3  3rd qtr: NYG 10-7  4th qtr: 10-10.  OT: NYJ 13-10
-8,JAX,PIT,JAX 20-10,1st qtr: JAX 6-0  2nd qtr: JAX 9-3  3rd qtr: JAX 17-10  4th qtr: JAX 20-10
-8,ATL,TEN,TEN 28-23,1st qtr: TEN 7-3  2nd qtr: TEN 14-3  3rd qtr: TEN 21-9  4th qtr: TEN 28-23
-8,LAR,DAL,DAL 43-20,1st qtr: DAL 17-3  2nd qtr: DAL 33-9  3rd qtr: DAL 36-17  4th qtr: DAL 43-20.  DAL INT return TD and safety.
-8,MIN,GB,MIN 24-10,1st qtr: MIN 7-0  2nd qtr: MIN 10-3  3rd qtr: MIN 24-10  4th qtr: MIN 24-10.  Cousins tore achilles.
-8,NO,IND,NO 38-27,1st qtr: 7-7  2nd qtr: NO 21-20  3rd qtr: NO 28-20  4th qtr: NO 38-27
-8,PHI,WSH,PHI 38-31,1st qtr: WSH 7-3  2nd qtr: WSH 17-10  3rd qtr: 17-17  4th qtr: PHI 38-31
-8,CLE,SEA,SEA 24-20,1st qtr: SEA 17-7  2nd qtr: SEA 17-14  3rd qtr: CLE 20-17  4th qtr: SEA 24-20
-8,BAL,ARI,BAL 31-24,1st qtr: 7-7  2nd qtr: BAL 14-7  3rd qtr: BAL 21-7  4th qtr: BAL 31-24
-8,KC,DEN,DEN 24-9,1st qtr: DEN 7-3  2nd qtr: DEN 14-9  3rd qtr: DEN 14-9  4th qtr: DEN 24-9
-8,CIN,SF,CIN 31-17,1st qtr: CIN 14-7  2nd qtr: CIN 14-10  3rd qtr: CIN 17-10  4th qtr: CIN 31-17
-8,CHI,LAC,LAC 30-13,1st qtr: LAC 14-0  2nd qtr: LAC 24-7  3rd qtr: LAC 30-7  4th qtr: LAC 30-13
-8,LV,DET,DET 26-14,1st qtr: DET 3-0  2nd qtr: DET 16-7  3rd qtr: DET 23-14  4th qtr: DET 26-14.  LV INT TD return.
+Week,Away,Home,Score,Game Summary,,,,,,,,,,,,,,,,,,,,
+4,DET,GB,DET 34 -20,Lions 7 - 3 at half.  Packers scored 2 TDs and two 2 points conversions in 2nd half.  Lions scored rushing TD in 4th qtr.,,,,,,,,,,,,,,,,,,,,
+4,ATL,JAX,JAX 23 - 7,Jax 17 - 0 at half.  Jax pick 6 in first half.  Alt TD in 2nd half.  Jax defense dominated game.,,,,,,,,,,,,,,,,,,,,
+4,MIA,BUF,BUF 48 - 20,"1st Qtr: Buf 14-7.  Half: Buf 31-14.  3rd qtr: 41-20  4th qtr: 48-20.  Buff: 6 tds (2 rushing, 4 passing).  Allen and Diggs slate winning fantasy points.",,,,,,,,,,,,,,,,,,,,
+4,DEN,CHI,DEN 31-28,1st qtr: Den 7-0  Half: Chi 21-7.  3rd qtr: 28-14.  Den scored last 24 points.,,,,,,,,,,,,,,,,,,,,
+4,BAL,CLE,BAL 28 - 3,1st qtr: Bal 7-3  Half: Bal 21-3.  2nd half: Bal passing TD to Andrews.  Desaun Watson didn't play.  Bal defense dominated.,,,,,,,,,,,,,,,,,,,,
+4,PIT,HOU,HOU 30-6,Half: Hou 16-0  4th qtr: Hou two passing TDs.  Picket knee injury.,,,,,,,,,,,,,,,,,,,,
+4,MIN,CAR,MiN 21-13,1st qtr: Car 7-0.  Car defense pick 6.  Half: Car 13-7.  3rd qtr: Min defense fumble recovery TD.  Minn passing TD.  Addison no targets.,,,,,,,,,,,,,,,,,,,,
+4,LAR,IND,LAR 29 - 23 OT,1st qtr: LAR 14-0.  K. Williams 2 rushing TDs  Half: LAR 20-0.  2nd half: Ind Down 23-0 scored 2 passing TDs and Richardson rushing TD.  Puka Nacua receiving TD in OT,,,,,,,,,,,,,,,,,,,,
+4,TB,NO,TB 26-9,Half: 14-3. 2nd half:  TB 12-6.  Carr played after shoulder injured previous week.  Kamara had 13 receptions on under 50 yards receiving.,,,,,,,,,,,,,,,,,,,,
+4,WAS],PHI,PHI 34-31 OT ,1st qtr: 7-7 Half: Was 17-10. 3rd qtr: 21-17. 4th qtr: Was 14-10.  Was scored TD as game expired. OT: Phi FG,,,,,,,,,,,,,,,,,,,,
+4,CIN,TEN,TEN 28-3,1st qtr: 3-3. Half: Ten 24-3. Henry 24ish fantasy points.,,,,,,,,,,,,,,,,,,,,
+4,LV,LAC,LAC 24-17,1st qtr: 7-7  Half: 24-7.  2nd half LV 10-0.  Herbert 2 rushing TDs.  Adams shoulder injury. Eckler inactive.  Jimmy G inactive.  ,,,,,,,,,,,,,,,,,,,,
+4,NE,DAL,DAL 38-3,Half: 28-3. Dal defense INT TD and fumble recovery TD,,,,,,,,,,,,,,,,,,,,
+4,ARI,SF,SF 35-16,Half: 21-10. 2nd half: SF 14-3. CMC 4 TDs. Deebo zero targets. Elijah Mitchell inactive.,,,,,,,,,,,,,,,,,,,,
+4,KC,NYJ,KC 23-20,1st qtr: KC 17-0. Half: KC 20-12. 3rd qtr: 20-20.,,,,,,,,,,,,,,,,,,,,
+4,SEA,NYG,SEA 24-3,1st qtr: SEA 7-0. Half: SEA 14-3. 3rd qtr: SEA 21-3.  Final: 24-3.  SEA defense pick 6 INT.  SEA 10 sacks.,,,,,,,,,,,,,,,,,,,,
+5,CHI,WAS,CHI 40-20,1st qtr: CHI 17-0. Half: CHI 27-3. 3rd qtr: CHI 27-14. Final: CHI 40-20.  DJ Moore 230 receiving yards and 3 TDs,,,,,,,,,,,,,,,,,,,,
+5,JAX,BUF,JAX 25-20,1st qtr: JAX 11-0. Half: JAX 11-7. 4th qtr: JAX 25-20.  ,,,,,,,,,,,,,,,,,,,,
+5,NYG,MIA,MIA 31-16,1st qtr: MIA 7-0. Half: MIA 17-10. 3rd qtr: MIA 31-13.  NYG pick 6 INT TD.,,,,,,,,,,,,,,,,,,,,
+5,CAR,DET,DET 42-24,1st qtr: DET 14-0. Half: DET 28-10. 4th qtr: DET 42-24.,,,,,,,,,,,,,,,,,,,,
+5,HOU,ATL,ATL 21-19,1st qtr: ATL 7-3. Half: HOU 9-7. 3rd qtr: HOU 12-7 4th qtr: ATL 21-19.,,,,,,,,,,,,,,,,,,,,
+5,BAL,PIT,PIT 17-10,1st qtr: BAL 7-0. Half: BAL 10-3. 4th qtr: PIT 17-10.  ,,,,,,,,,,,,,,,,,,,,
+5,NO,NE,NO 34-0,1st qtr: NO 7-0.  Pick 6 INT TD. Half: NO 21-0. 3rd qtr: NO 24-0.  4th qtr: NO 34-0.  ,,,,,,,,,,,,,,,,,,,,
+5,TEN,IND,IND 23-16,1st qtr: IND 7-3. Half: IND 10-6. 3rd qtr: IND 17-16. 4th qtr: IND 23-16.  ,,,,,,,,,,,,,,,,,,,,
+5,CIN,ARI,CIN 34-20,1st qtr: CIN 10-0. Half: CIN 17-14. 3rd qtr: CIN 24-20. 4th qtr: CIN 34-20.  Chase 3 TDs,,,,,,,,,,,,,,,,,,,,
+5,PHI,LAR,PHI 23-14,1st qtr: 7-7. Half: PHI 17-14. 4th qtr: CIN 23-14.,,,,,,,,,,,,,,,,,,,,
+5,NYJ,DEN,NYJ 31-21,1st qtr: DEN 7-5. Half: DEN 13-8. 3rd qtr: NYJ 18-13. 4th qtr: NYJ 31-21.,,,,,,,,,,,,,,,,,,,,
+5,KC,MIN,KC 27-10,1st qtr: KC 7-3. Half: 13-13. 3rd qtr: KC 27-13. 4th qtr: KC 27-20.,,,,,,,,,,,,,,,,,,,,
+5,DAL,SF,SF 42-10,1st qtr: SF 7-0  2nd qtr: SF 21-7  3rd qtr: SF 28-10  4th qtr: SF 42-10,8,DAL,SF,SF 42-10,1st qtr: SF 7-0  2nd qtr: SF 21-7  3rd qtr: SF 28-10  4th qtr: SF 42-10,8,DAL,SF,SF 42-10,1st qtr: SF 7-0  2nd qtr: SF 21-7  3rd qtr: SF 28-10  4th qtr: SF 42-10,8,DAL,SF,SF 42-10,1st qtr: SF 7-0  2nd qtr: SF 21-7  3rd qtr: SF 28-10  4th qtr: SF 42-10,8,DAL,SF,SF 42-10,1st qtr: SF 7-0  2nd qtr: SF 21-7  3rd qtr: SF 28-10  4th qtr: SF 42-10
+5,GB,LV,LV 17-13,1st qtr: GB 3-0  2nd qtr: LV 10-3  3rd qtr: GB 13-10  4th qtr: LV 17-13,,,,,,,,,,,,,,,,,,,,
+6,DEN,KC,KC 19-8,1st qtr: KC 3-0  2nd qtr: KC 13-0  3rd qtr: KC 16-0  4th qtr: KC 19-8,,,,,,,,,,,,,,,,,,,,
+6,BAL,TEN,BAL 24-16,1st qtr: BAL 6-3  2nd qtr: BAL 18-3  3rd qtr: BAL 18-13  4th qtr: BAL 24-16,,,,,,,,,,,,,,,,,,,,
+6,WAS,ATL,WAS 24-16,1st qtr: ATL 7-3  2nd qtr: WAS 17-10  3rd qtr: WAS 24-10  4th qtr: WAS 24-16,,,,,,,,,,,,,,,,,,,,
+6,SEA,CIN,CIN 17-13,1st qtr: 7-7  2nd qtr: CIN 14-10  3rd qtr: CIN 14-13  4th qtr: CIN 17-13,,,,,,,,,,,,,,,,,,,,
+6,IND,JAX,JAX 37-20,1st qtr: IND 3-0  2nd qtr: JAX 21-6  3rd qtr: JAX 31-6  4th qtr: JAX 37-20,,,,,,,,,,,,,,,,,,,,
+6,CAR,MIA,MIA 42-21,1st qtr: CAR 14-0  2nd qtr: MIA 21-14  3rd qtr: MIA 28-14  4th qtr: MIA 42-21  MIA Int TD return.,,,,,,,,,,,,,,,,,,,,
+6,MIN,CHI,MIN 19-13,1st qtr: MIN 3-0  2nd qtr: MIN 12-6  3rd qtr: MIN 19-6  4th qtr: MIN 19-13  MIN fumble TD return.,,,,,,,,,,,,,,,,,,,,
+6,SF,CLE,CLE 19-17,1st qtr: SF 7-0  2nd qtr: SF 10-7  3rd qtr: CLE 13-10  4th qtr: CLE 19-17  CMC and Samuel left game.,,,,,,,,,,,,,,,,,,,,
+6,NO,HOU,HOU 20-13,1st qtr: 7-7  2nd qtr: HOU 17-10  3rd qtr: HOU 20-13  4th qtr: HOU 20-13,,,,,,,,,,,,,,,,,,,,
+6,NE,LV,LV 21-17,1st qtr: LV 3-0  2nd qtr: LV 13-3  3rd qtr: LV 16-10  4th qtr: LV 21-17,,,,,,,,,,,,,,,,,,,,
+6,DET,TB,DET 20-6,1st qtr: DET 3-0  2nd qtr: DET 10-3  3rd qtr: DET 17-6  4th qtr: DET 20-6,,,,,,,,,,,,,,,,,,,,
+6,ARI,LAR,LAR 26-9,1st qtr: 3-3  2nd qtr: ARI 9-6  3rd qtr: LAR 16-9  4th qtr: LAR 26-9,,,,,,,,,,,,,,,,,,,,
+6,PHI,NYJ,NYJ 20-14,1st qtr: PHI 7-0  2nd qtr: PHI 14-9  3rd qtr: PHI 14-12  4th qtr: NYJ 20-14,,,,,,,,,,,,,,,,,,,,
+6,NYG,BUF,BUF 14-9,1st qtr: NYG 3-0  2nd qtr: NYG 6-0  3rd qtr: NYG 6-0  4th qtr: BUF 14-9,,,,,,,,,,,,,,,,,,,,
+6,DAL,LAC,DAL 20-17,1st qtr: 7-7  2nd qtr: DAL 10-7  3rd qtr: 10-10  4th qtr: DAL 20-17,,,,,,,,,,,,,,,,,,,,
+7,JAX,NO,JAX 31-24,1st qtr: JAX 7-3  2nd qtr: JAX 17-6  3rd qtr: JAX 24-9  4th qtr: JAX 31-24.  JAX defense pick 6 INT TD.,,,,,,,,,,,,,,,,,,,,
+7,CLE,IND,CLE 39-38,1st qtr: IND 14-7  2nd qtr: CLE 27-21  3rd qtr: CLE 30-28  4th qtr: CLE 39-38.  CLE defese fumble recovery TD.,,,,,,,,,,,,,,,,,,,,
+7,BUF,NE,NE 29-25,1st qtr: NE 10-0  2nd qtr: NE 13-3  3rd qtr: NE 16-10  4th qtr: NE 29-25,,,,,,,,,,,,,,,,,,,,
+7,WAS,NYG,NYG 14-7,1st qtr: 0-0  2nd qtr: NYG 14-0  3rd qtr: NYG 14-7  4th qtr: NYG 14-7,,,,,,,,,,,,,,,,,,,,
+7,DET,BAL,BAL 38-6,1st qtr: BAL 14-0  2nd qtr: BAL 28-0  3rd qtr: BAL 35-0  4th qtr: BAL 38-6,,,,,,,,,,,,,,,,,,,,
+7,LV,CHI,CHI 30-12,1st qtr: CHI 7-0  2nd qtr: CHI 14-3  3rd qtr: CHI 21-3  4th qtr: CHI 30-12.  CHI defense INT TD return.  Bagent first career start.,,,,,,,,,,,,,,,,,,,,
+7,ATL,TB,ATL 16-13,1st qtr: 7-7  2nd qtr: 10-10  3rd qtr: ATL 13-10  4th qtr: ATL 16-13,,,,,,,,,,,,,,,,,,,,
+7,PIT,LAR,PIT 24-17,1st qtr: 0-0  2nd qtr: LAR 9-3  3rd qtr: LAR 17-10  4th qtr: PIT 24-17,,,,,,,,,,,,,,,,,,,,
+7,ARI,SEA,SEA 20-10,1st qtr: SEA 7-3  2nd qtr: SEA 14-10  3rd qtr: SEA 17-10  4th qtr: SEA 20-10,,,,,,,,,,,,,,,,,,,,
+7,GB,DEN,DEN 19-17,1st qtr: DEN 3-0  2nd qtr: DEN 9-0  3rd qtr: DEN 16-10  4th qtr: DEN 19-17,,,,,,,,,,,,,,,,,,,,
+7,LAC,KC,KC 31-17,1st qtr: 3-3  2nd qtr: KC 24-17  3rd qtr: KC 24-17  4th qtr: KC 31-17,,,,,,,,,,,,,,,,,,,,
+7,MIA,PHI,PHI 31-17,1st qtr: 3-3  2nd qtr: PHI 17-10  3rd qtr: PHI 24-17  4th qtr: PHI 31-17.  MIA INT TD return.,,,,,,,,,,,,,,,,,,,,
+7,SF,MIN,MIN 22-17,1st qtr: MIN 7-0  2nd qtr: MIN 16-7  3rd qtr: MIN 22-14  4th qtr: MIN 22-17,,,,,,,,,,,,,,,,,,,,
+8,TB,BUF,BUF 24-18,1st qtr: BUF 3-0  2nd qtr: BUF 17-10  3rd qtr: BUF 24-10  4th qtr: BUF 24-18,,,,,,,,,,,,,,,,,,,,
+8,HOU,CAR,CAR 15-13,1st qtr: 0-0  2nd qtr: HOU 7-6  3rd qtr: HOU 13-12  4th qtr: CAR 15-13,,,,,,,,,,,,,,,,,,,,
+8,NE,MIA,MIA 31-17,1st qtr: 7-7  2nd qtr: MIA 17-7  3rd qtr: MIA 24-10  4th qtr: MIA 31-17,,,,,,,,,,,,,,,,,,,,
+8,NYJ,NYG,NYJ 3-0,1st qtr: NYJ 7-3  2nd qtr: NYJ 7-3  3rd qtr: NYG 10-7  4th qtr: 10-10.  OT: NYJ 13-10,,,,,,,,,,,,,,,,,,,,
+8,JAX,PIT,JAX 20-10,1st qtr: JAX 6-0  2nd qtr: JAX 9-3  3rd qtr: JAX 17-10  4th qtr: JAX 20-10,,,,,,,,,,,,,,,,,,,,
+8,ATL,TEN,TEN 28-23,1st qtr: TEN 7-3  2nd qtr: TEN 14-3  3rd qtr: TEN 21-9  4th qtr: TEN 28-23,,,,,,,,,,,,,,,,,,,,
+8,LAR,DAL,DAL 43-20,1st qtr: DAL 17-3  2nd qtr: DAL 33-9  3rd qtr: DAL 36-17  4th qtr: DAL 43-20.  DAL INT return TD and safety.,,,,,,,,,,,,,,,,,,,,
+8,MIN,GB,MIN 24-10,1st qtr: MIN 7-0  2nd qtr: MIN 10-3  3rd qtr: MIN 24-10  4th qtr: MIN 24-10.  Cousins tore achilles.,,,,,,,,,,,,,,,,,,,,
+8,NO,IND,NO 38-27,1st qtr: 7-7  2nd qtr: NO 21-20  3rd qtr: NO 28-20  4th qtr: NO 38-27,,,,,,,,,,,,,,,,,,,,
+8,PHI,WAS,PHI 38-31,1st qtr: WAS 7-3  2nd qtr: WAS 17-10  3rd qtr: 17-17  4th qtr: PHI 38-31,,,,,,,,,,,,,,,,,,,,
+8,CLE,SEA,SEA 24-20,1st qtr: SEA 17-7  2nd qtr: SEA 17-14  3rd qtr: CLE 20-17  4th qtr: SEA 24-20,,,,,,,,,,,,,,,,,,,,
+8,BAL,ARI,BAL 31-24,1st qtr: 7-7  2nd qtr: BAL 14-7  3rd qtr: BAL 21-7  4th qtr: BAL 31-24,,,,,,,,,,,,,,,,,,,,
+8,KC,DEN,DEN 24-9,1st qtr: DEN 7-3  2nd qtr: DEN 14-9  3rd qtr: DEN 14-9  4th qtr: DEN 24-9,,,,,,,,,,,,,,,,,,,,
+8,CIN,SF,CIN 31-17,1st qtr: CIN 14-7  2nd qtr: CIN 14-10  3rd qtr: CIN 17-10  4th qtr: CIN 31-17,,,,,,,,,,,,,,,,,,,,
+8,CHI,LAC,LAC 30-13,1st qtr: LAC 14-0  2nd qtr: LAC 24-7  3rd qtr: LAC 30-7  4th qtr: LAC 30-13,,,,,,,,,,,,,,,,,,,,
+8,LV,DET,DET 26-14,1st qtr: DET 3-0  2nd qtr: DET 16-7  3rd qtr: DET 23-14  4th qtr: DET 26-14.  LV INT TD return.,,,,,,,,,,,,,,,,,,,,
