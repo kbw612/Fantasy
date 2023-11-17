@@ -159,3 +159,35 @@ Week,Rank,Team_ID,Name,Time To Throw,Time To Throw Rank,Hurry Rate,Hurry Rate Ra
 10,30,NYJ,New York Jets,2.425,10,13.58,16,37.14,9,24
 10,31,ARI,Arizona Cardinals,2.413,12,13.38,13,37.7,8,17
 10,32,NYG,New York Giants,2.043,32,20.63,31,14.36,29,40
+11,1,DET,Detroit Lions,2.354,20,10.53,6,39.3,4,16
+11,2,PHI,Philadelphia Eagles,2.662,1,14.68,20,42.15,3,22
+11,3,MIN,Minnesota Vikings,2.641,3,12.75,14,15.14,31,23
+11,4,BAL,Baltimore Ravens,2.399,15,15.58,24,35.19,9,23
+11,5,DEN,Denver Broncos,2.425,10,20.21,31,30.15,13,30
+11,6,LV,Las Vegas Raiders,2.43,9,11.5,8,18.64,28,24
+11,7,IND,Indianapolis Colts,2.367,18,16.85,27,23.77,21,21
+11,8,ATL,Atlanta Falcons,2.297,25,10.51,5,25.83,20,30
+11,9,BUF,Buffalo Bills,2.61,4,12.95,17,50.76,1,13
+11,10,KC,Kansas City Chiefs,2.649,2,11.65,9,22.68,24,12
+11,11,TB,Tampa Bay Buccaneers,2.385,16,13.98,19,9.89,32,16
+11,12,DAL,Dallas Cowboys,2.358,19,12.35,12,27.51,17,23
+11,13,CLE,Cleveland Browns,2.493,8,17.37,28,17.76,29,27
+11,14,GB,Green Bay Packers,2.402,13,8.44,2,26.3,19,19
+11,15,HOU,Houston Texans,2.54,7,15.09,21,16.07,30,19
+11,16,LAR,Los Angeles Rams,2.315,23,15.43,23,21.15,26,21
+11,17,WAS,Washington Commanders,2.315,24,11.04,7,22.41,25,47
+11,18,TEN,Tennessee Titans,2.2,27,8.52,4,38.76,5,33
+11,19,NO,New Orleans Saints,2.285,26,12.32,11,29.83,15,24
+11,20,SEA,Seattle Seahawks,2.567,6,20.92,32,37.31,7,19
+11,21,MIA,Miami Dolphins,2.138,30,11.96,10,38.3,6,15
+11,22,SF,San Francisco 49ers,2.324,22,15.61,25,35.58,8,15
+11,23,LAC,Los Angeles Chargers,2.401,14,15.16,22,26.81,18,20
+11,24,NE,New England Patriots,2.144,29,12.9,16,30.92,12,23
+11,25,CIN,Cincinnati Bengals,2.174,28,8.09,1,28.39,16,22
+11,26,CHI,Chicago Bears,2.579,5,17.61,29,47.66,2,30
+11,27,CAR,Carolina Panthers,2.406,12,12.86,15,19.02,27,32
+11,28,PIT,Pittsburgh Steelers,2.349,21,16.07,26,30.14,14,20
+11,29,JAX,Jacksonville Jaguars,2.081,32,8.46,3,22.85,23,24
+11,30,NYJ,New York Jets,2.407,11,12.57,13,34.11,11,34
+11,31,ARI,Arizona Cardinals,2.37,17,13.04,18,34.19,10,26
+11,32,NYG,New York Giants,2.112,31,19.15,30,23.1,22,53
