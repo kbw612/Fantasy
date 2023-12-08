@@ -191,3 +191,67 @@ Week,Rank,Team_ID,Name,Time To Throw,Time To Throw Rank,Hurry Rate,Hurry Rate Ra
 11,30,NYJ,New York Jets,2.407,11,12.57,13,34.11,11,34
 11,31,ARI,Arizona Cardinals,2.37,17,13.04,18,34.19,10,26
 11,32,NYG,New York Giants,2.112,31,19.15,30,23.1,22,53
+13,1,DET,Detroit Lions,2.373,19,10.09,5,44.08,3,21
+13,2,PHI,Philadelphia Eagles,2.621,4,15.5,25,47.53,1,29
+13,3,DEN,Denver Broncos,2.498,8,18.47,31,27.08,22,33
+13,4,BAL,Baltimore Ravens,2.418,12,14.82,21,37.82,6,28
+13,5,ATL,Atlanta Falcons,2.319,24,10.46,6,30.42,15,30
+13,6,LV,Las Vegas Raiders,2.458,10,10.79,7,15.49,32,27
+13,7,IND,Indianapolis Colts,2.364,20,16.05,28,28.05,19,23
+13,8,MIN,Minnesota Vikings,2.68,1,11.97,13,15.79,31,27
+13,9,BUF,Buffalo Bills,2.587,5,11.83,11,42.77,4,15
+13,10,DAL,Dallas Cowboys,2.404,16,12.59,17,29.06,17,23
+13,11,KC,Kansas City Chiefs,2.654,2,11.83,12,30.55,14,14
+13,12,CLE,Cleveland Browns,2.485,9,15.33,24,20.22,26,32
+13,13,WAS,Washington Commanders,2.349,22,12.38,16,26.77,23,55
+13,14,TB,Tampa Bay Buccaneers,2.33,23,12.25,15,16.81,30,26
+13,15,LAR,Los Angeles Rams,2.424,11,14.93,22,29.92,16,22
+13,16,MIA,Miami Dolphins,2.122,31,12.06,14,37.86,5,18
+13,17,GB,Green Bay Packers,2.417,13,9.37,2,26.23,24,22
+13,18,NE,New England Patriots,2.131,30,12.71,18,32.69,12,25
+13,19,NO,New Orleans Saints,2.309,26,11.69,8,34.25,9,25
+13,20,HOU,Houston Texans,2.557,6,15.95,27,17.89,27,27
+13,21,SF,San Francisco 49ers,2.395,17,15.76,26,34.16,10,20
+13,22,CIN,Cincinnati Bengals,2.155,28,7.32,1,31.6,13,31
+13,23,SEA,Seattle Seahawks,2.504,7,17.25,29,35.71,8,27
+13,24,LAC,Los Angeles Chargers,2.406,15,12.85,19,27.77,20,25
+13,25,TEN,Tennessee Titans,2.225,27,9.92,3,36.5,7,36
+13,26,CHI,Chicago Bears,2.63,3,20.5,32,45.26,2,35
+13,27,PIT,Pittsburgh Steelers,2.353,21,15.09,23,28.71,18,25
+13,28,JAX,Jacksonville Jaguars,2.153,29,9.95,4,17.02,28,25
+13,29,ARI,Arizona Cardinals,2.377,18,11.71,9,33.88,11,32
+13,30,CAR,Carolina Panthers,2.413,14,13.5,20,16.96,29,42
+13,31,NYG,New York Giants,2.112,32,17.58,30,23.38,25,68
+13,32,NYJ,New York Jets,2.316,25,11.82,10,27.65,21,47
+14,1,DET,Detroit Lions,2.373,19,10.09,5,44.08,3,21
+14,2,PHI,Philadelphia Eagles,2.621,4,15.5,25,47.53,1,29
+14,3,DEN,Denver Broncos,2.498,8,18.47,31,27.08,22,33
+14,4,BAL,Baltimore Ravens,2.418,12,14.82,21,37.82,6,28
+14,5,ATL,Atlanta Falcons,2.319,24,10.46,6,30.42,15,30
+14,6,LV,Las Vegas Raiders,2.458,10,10.79,7,15.49,32,27
+14,7,IND,Indianapolis Colts,2.364,20,16.05,28,28.05,19,23
+14,8,MIN,Minnesota Vikings,2.68,1,11.97,13,15.79,31,27
+14,9,BUF,Buffalo Bills,2.587,5,11.83,11,42.77,4,15
+14,10,DAL,Dallas Cowboys,2.404,16,12.59,17,29.06,17,23
+14,11,KC,Kansas City Chiefs,2.654,2,11.83,12,30.55,14,14
+14,12,CLE,Cleveland Browns,2.485,9,15.33,24,20.22,26,32
+14,13,WAS,Washington Commanders,2.349,22,12.38,16,26.77,23,55
+14,14,TB,Tampa Bay Buccaneers,2.33,23,12.25,15,16.81,30,26
+14,15,LAR,Los Angeles Rams,2.424,11,14.93,22,29.92,16,22
+14,16,MIA,Miami Dolphins,2.122,31,12.06,14,37.86,5,18
+14,17,GB,Green Bay Packers,2.417,13,9.37,2,26.23,24,22
+14,18,NE,New England Patriots,2.131,30,12.71,18,32.69,12,25
+14,19,NO,New Orleans Saints,2.309,26,11.69,8,34.25,9,25
+14,20,HOU,Houston Texans,2.557,6,15.95,27,17.89,27,27
+14,21,SF,San Francisco 49ers,2.395,17,15.76,26,34.16,10,20
+14,22,CIN,Cincinnati Bengals,2.155,28,7.32,1,31.6,13,31
+14,23,SEA,Seattle Seahawks,2.504,7,17.25,29,35.71,8,27
+14,24,LAC,Los Angeles Chargers,2.406,15,12.85,19,27.77,20,25
+14,25,TEN,Tennessee Titans,2.225,27,9.92,3,36.5,7,36
+14,26,CHI,Chicago Bears,2.63,3,20.5,32,45.26,2,35
+14,27,PIT,Pittsburgh Steelers,2.353,21,15.09,23,28.71,18,25
+14,28,JAX,Jacksonville Jaguars,2.153,29,9.95,4,17.02,28,25
+14,29,ARI,Arizona Cardinals,2.377,18,11.71,9,33.88,11,32
+14,30,CAR,Carolina Panthers,2.413,14,13.5,20,16.96,29,42
+14,31,NYG,New York Giants,2.112,32,17.58,30,23.38,25,68
+14,32,NYJ,New York Jets,2.316,25,11.82,10,27.65,21,47
