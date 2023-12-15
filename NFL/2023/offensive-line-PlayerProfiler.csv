@@ -255,3 +255,35 @@ Week,Rank,Team_ID,Name,Time To Throw,Time To Throw Rank,Hurry Rate,Hurry Rate Ra
 14,30,CAR,Carolina Panthers,2.413,14,13.5,20,16.96,29,42
 14,31,NYG,New York Giants,2.112,32,17.58,30,23.38,25,68
 14,32,NYJ,New York Jets,2.316,25,11.82,10,27.65,21,47
+15,1,DET,Detroit Lions,2.375,19,9.57,4,44.44,3,26
+15,2,PHI,Philadelphia Eagles,2.671,1,17.13,30,47.81,1,33
+15,3,DEN,Denver Broncos,2.514,7,17.07,29,25.07,24,38
+15,4,BAL,Baltimore Ravens,2.48,9,14.66,23,39.23,6,30
+15,5,MIN,Minnesota Vikings,2.657,2,11.41,10,16.31,30,32
+15,6,IND,Indianapolis Colts,2.346,24,14.43,22,25.8,21,29
+15,7,DAL,Dallas Cowboys,2.418,16,12.4,13,28.7,16,30
+15,8,LV,Las Vegas Raiders,2.439,13,11.04,6,15.22,31,31
+15,9,ATL,Atlanta Falcons,2.323,26,11.43,11,26.87,20,36
+15,10,KC,Kansas City Chiefs,2.611,4,11.35,9,34.61,8,18
+15,11,BUF,Buffalo Bills,2.602,5,13.39,20,45.51,2,18
+15,12,LAR,Los Angeles Rams,2.43,14,13.07,17,29.9,14,24
+15,13,GB,Green Bay Packers,2.441,12,9.49,3,28.41,17,26
+15,14,CLE,Cleveland Browns,2.504,8,14.34,21,19.59,28,35
+15,15,MIA,Miami Dolphins,2.132,32,12.8,15,36.37,7,23
+15,16,TB,Tampa Bay Buccaneers,2.365,21,13.25,18,25.03,25,28
+15,17,NE,New England Patriots,2.153,30,12.79,14,29.24,15,32
+15,18,WAS,Washington Commanders,2.362,22,13.05,16,27.26,18,58
+15,19,SF,San Francisco 49ers,2.368,20,14.91,25,39.69,5,25
+15,20,CIN,Cincinnati Bengals,2.197,28,6.96,1,30.27,13,33
+15,21,TEN,Tennessee Titans,2.283,27,10.44,5,33.38,9,43
+15,22,NO,New Orleans Saints,2.327,25,11.13,7,31.83,11,28
+15,23,PIT,Pittsburgh Steelers,2.383,17,15.37,26,26.97,19,27
+15,24,HOU,Houston Texans,2.578,6,15.43,27,19.44,29,36
+15,25,CHI,Chicago Bears,2.627,3,19.5,32,43.69,4,38
+15,26,SEA,Seattle Seahawks,2.456,11,16.77,28,31.28,12,32
+15,27,LAC,Los Angeles Chargers,2.465,10,13.26,19,24.46,26,31
+15,28,ARI,Arizona Cardinals,2.382,18,11.28,8,32.23,10,34
+15,29,CAR,Carolina Panthers,2.421,15,14.8,24,25.22,23,49
+15,30,JAX,Jacksonville Jaguars,2.177,29,9.02,2,12.97,32,33
+15,31,NYJ,New York Jets,2.353,23,12.08,12,22.68,27,55
+15,32,NYG,New York Giants,2.144,31,17.19,31,25.26,22,68
