@@ -113,7 +113,7 @@ Week,Away,Home,Score,Game Summary
 11,NYJ,BUF,BUF 32-6,1st qtr: BUF 6-0  2nd qtr: BUF 16-6  3rd qtr: BUF 29-6  4th qtr: BUF 32-6
 11,TB,SF,SF 27-14,1st qtr: SF 7-0  2nd qtr: SF 13-7  3rd qtr: SF 27-7  4th qtr: SF 27-14
 11,SEA,LAR,LAR 17-16,1st qtr: SEA 7-0  2nd qtr: SEA 13-7  3rd qtr: SEA 16-7  4th qtr: LAR 17-16
-11,MIN,DEN,MIN 20-2,1st qtr: DEN 3-0  2nd qtr: MIN 10-9  3rd qtr: MIN 17-9  4th qtr: DEN 21-20
+11,MIN,DEN,DEN 21-20,1st qtr: DEN 3-0  2nd qtr: MIN 10-9  3rd qtr: MIN 17-9  4th qtr: DEN 21-20
 11,PHI,KC,PHI 21-17,1st qtr: 7-7  2nd qtr: KC 17-7  3rd qtr: KC 17-14  4th qtr: PHI 21-17
 12,GB,DET,GB 29-22,1st qtr: GB 20-6  2nd qtr: GB 23-6  3rd qtr: GB 29-14  4th qtr: GB 29-22
 12,WSH,DAL,DAL 45-10,1st qtr: DAL 7-0  2nd qtr: DAL 20-10  3rd qtr: DAL 20-10  4th qtr: DAL 45-10.  DAL pick 6 INT.  Close game until 4th qtr.
@@ -157,3 +157,19 @@ Week,Away,Home,Score,Game Summary
 14,BUF,KC,BUF 20-17,1st qtr: BUF 7-0  2nd qtr: BUF 14-7  3rd qtr: BUF 17-14  4th qtr: BUF 20-17
 14,DEN,LAC,DEN 24-7,1st qtr: DEN 7-0  2nd qtr: DEN 10-0  3rd qtr: DEN 17-0  4th qtr: DEN 24-7
 14,PHI,DAL,DAL 33-13,1st qtr: DAL 10-0  2nd qtr: DAL 24-6  3rd qtr: DAL 27-13  4th qtr: DAL 33-13
+15,LAC,LV,LV 63-21,1st qtr: LV 21-0  2nd qtr: LV 42-0  3rd qtr: LV 56-7  4th qtr: LV 63-21.  LV DEF fumble and INT return TDs.
+15,MIN,CIN,CIN 3-0,1st qtr: MIN 7-3  2nd qtr: MIN 7-3  3rd qtr: MIN 17-3  4th qtr: TIED 24-24.  OT: CIN: 27-24
+15,PIT,IND,IND 30-13,1st qtr: PIT 6-0  2nd qtr: IND 14-13  3rd qtr: IND 24-13  4th qtr: IND 30-13
+15,DEN,DET,DET 42-17,1st qtr: 0-0  2nd qtr: DET 21-0  3rd qtr: DET 28-10  4th qtr: DET 42-17
+15,NYJ,MIA,MIA 30-0,1st qtr: MIA 7-0  2nd qtr: MIA 24-0  3rd qtr: MIA 27-0  4th qtr: MIA 30-0
+15,HOU,TEN,HOU 3-0,1st qtr: TEN 6-0  2nd qtr: TEN 13-3  3rd qtr: TEN 13-9  4th qtr: TIED 16-16.  OT: 19-16
+15,TB,GB,TB 34-20,1st qtr: GB 7-3  2nd qtr: TB 13-10  3rd qtr: TB 27-17  4th qtr: TB 34-20
+15,NYG,NO,NO 24-6,1st qtr: NO 7-3  2nd qtr: NO 7-6  3rd qtr: NO 17-6  4th qtr: NO 24-6
+15,ATL,CAR,CAR 9-7,1st qtr: 0-0  2nd qtr: ATL 7-3  3rd qtr: ATL 7-3  4th qtr: CAR 9-7
+15,CHI,CLE,CLE 20-17,1st qtr: 0-0  2nd qtr: 7-7  3rd qtr: CHI 17-7  4th qtr: CLE 20-17.  CHI DEF INT return TD.
+15,KC,NE,KC 27-17,1st qtr: KC 7-0  2nd qtr: KC 14-10  3rd qtr: KC 27-10  4th qtr: KC 27-17
+15,SF,ARI,SF 45-29,1st qtr: SF 14-7  2nd qtr: SF 21-13  3rd qtr: SF 35-16  4th qtr: SF 45-29.  SF DEF INT return TD.
+15,WSH,LAR,LAR 28-20,1st qtr: LAR 3-0  2nd qtr: LAR 13-0  3rd qtr: LAR 20-7  4th qtr: LAR 28-20
+15,DAL,BUF,BUF 31-10,1st qtr: BUF 7-0  2nd qtr: BUF 21-3  3rd qtr: BUF 24-3  4th qtr: BUF 31-10
+15,BAL,JAX,BAL 23-7,1st qtr: BAL 3-0  2nd qtr: BAL 10-0  3rd qtr: BAL 10-7  4th qtr: BAL 23-7
+15,PHI,SEA,SEA 20-17,1st qtr: PHI 7-0  2nd qtr: PHI 10-3  3rd qtr: PHI 17-10  4th qtr: SEA 20-17
