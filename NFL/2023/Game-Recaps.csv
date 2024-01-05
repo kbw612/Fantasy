@@ -81,7 +81,7 @@ Week,Away,Home,Score,Game Summary
 9,CHI,NO,NO 24-17,1st qtr: 7-7  2nd qtr: 14-14  3rd qtr: 17-17  4th qtr: NO 24-17
 9,MIN,ATL,MIN 31-28,1st qtr: 3-3  2nd qtr: ATL 11-10  3rd qtr: 21-21  4th qtr: MIN 31-28
 9,LAR,GB,GB 20-3,1st qtr: 0-0  2nd qtr: GB 7-3  3rd qtr: GB 10-3  4th qtr: GB 20-3
-9,WAS,NE,WSH 20-17,1st qtr: WSH 3-0  2nd qtr: NE 14-10  3rd qtr: WSH 20-17  4th qtr: WSH 20-17
+9,WAS,NE,WAS 20-17,1st qtr: WAS 3-0  2nd qtr: NE 14-10  3rd qtr: WAS 20-17  4th qtr: WAS 20-17
 9,IND,CAR,IND 27-13,1st qtr: 0-0  2nd qtr: IND 20-3  3rd qtr: IND 20-10  4th qtr: IND 27-13.  IND DEF had 2 INT Return TDs.
 9,NYG,LV,LV 30-6,1st qtr: LV 7-0  2nd qtr: LV 24-0  3rd qtr: LV 27-0  4th qtr: LV 30-6
 9,DAL,PHI,PHI 28-23,1st qtr: 7-7  2nd qtr: DAL 17-14  3rd qtr: PHI 28-17  4th qtr: PHI 28-23
@@ -98,7 +98,7 @@ Week,Away,Home,Score,Game Summary
 10,ATL,ARI,ARI 25-23,1st qtr: ARI 3-0  2nd qtr: ATL 14-12  3rd qtr: ARI 22-17  4th qtr: ARI 25-23
 10,DET,LAC,DET 41-38,1st qtr: DET 10-3  2nd qtr: DET 24-17  3rd qtr: DET 31-24  4th qtr: DET 41-38
 10,NYG,DAL,DAL 49-17,1st qtr: DAL 7-0  2nd qtr: DAL 28-0  3rd qtr: DAL 42-7  4th qtr: DAL 49-17
-10,WSH,SEA,SEA 29-26,1st qtr: WSH 6-3  2nd qtr: 9-9  3rd qtr: SEA 16-12  4th qtr: SEA 29-26
+10,WAS,SEA,SEA 29-26,1st qtr: WAS 6-3  2nd qtr: 9-9  3rd qtr: SEA 16-12  4th qtr: SEA 29-26
 10,NYJ,LV,LV 16-12,1st qtr: NYJ 6-3  2nd qtr: NYJ 9-6  3rd qtr: 9-9  4th qtr: LV 16-12
 10,DEN,BUF,DEN 24-22,1st qtr: DEN 3-0  2nd qtr: DEN 15-8  3rd qtr: 15-15  4th qtr: DEN 24-22
 11,CIN,BAL,BAL 34-20,1st qtr: BAL 7-3  2nd qtr: BAL 21-10  3rd qtr: BAL 27-13  4th qtr: BAL 34-20
@@ -109,14 +109,14 @@ Week,Away,Home,Score,Game Summary
 11,DAL,CAR,DAL 33-10,1st qtr: DAL 7-0  2nd qtr: DAL 17-3  3rd qtr: DAL 17-10  4th qtr: DAL 33-10.  DAL defense INT TD return.
 11,CHI,DET,DET 31-26,1st qtr: CHI 7-0  2nd qtr: DET 14-10  3rd qtr: CHI 20-14  4th qtr: DET 31-26
 11,LAC,GB,GB 23-20,1st qtr: LAC 3-0  2nd qtr: 10-10  3rd qtr: GB 16-13  4th qtr: GB 23-20
-11,NYG,WSH,NYG 31-19,1st qtr: NYG 7-3  2nd qtr: NYG 14-9  3rd qtr: NYG 14-12  4th qtr: NYG 31-19.  NYG INT TD return.
+11,NYG,WAS,NYG 31-19,1st qtr: NYG 7-3  2nd qtr: NYG 14-9  3rd qtr: NYG 14-12  4th qtr: NYG 31-19.  NYG INT TD return.
 11,NYJ,BUF,BUF 32-6,1st qtr: BUF 6-0  2nd qtr: BUF 16-6  3rd qtr: BUF 29-6  4th qtr: BUF 32-6
 11,TB,SF,SF 27-14,1st qtr: SF 7-0  2nd qtr: SF 13-7  3rd qtr: SF 27-7  4th qtr: SF 27-14
 11,SEA,LAR,LAR 17-16,1st qtr: SEA 7-0  2nd qtr: SEA 13-7  3rd qtr: SEA 16-7  4th qtr: LAR 17-16
 11,MIN,DEN,DEN 21-20,1st qtr: DEN 3-0  2nd qtr: MIN 10-9  3rd qtr: MIN 17-9  4th qtr: DEN 21-20
 11,PHI,KC,PHI 21-17,1st qtr: 7-7  2nd qtr: KC 17-7  3rd qtr: KC 17-14  4th qtr: PHI 21-17
 12,GB,DET,GB 29-22,1st qtr: GB 20-6  2nd qtr: GB 23-6  3rd qtr: GB 29-14  4th qtr: GB 29-22
-12,WSH,DAL,DAL 45-10,1st qtr: DAL 7-0  2nd qtr: DAL 20-10  3rd qtr: DAL 20-10  4th qtr: DAL 45-10.  DAL pick 6 INT.  Close game until 4th qtr.
+12,WAS,DAL,DAL 45-10,1st qtr: DAL 7-0  2nd qtr: DAL 20-10  3rd qtr: DAL 20-10  4th qtr: DAL 45-10.  DAL pick 6 INT.  Close game until 4th qtr.
 12,SF,SEA,SF 31-13,1st qtr: SF 7-3  2nd qtr: SF 24-3  3rd qtr: SF 24-13  4th qtr: SF 31-13.  SEA pick 6 INT TD return.
 12,MIA,NYJ,MIA 34-13,1st qtr: MIA 3-0  2nd qtr: MIA 17-6  3rd qtr: MIA 20-6  4th qtr: MIA 34-13.  MIA pick 6 INT TD.  NYJ pick 6 INT TD.
 12,PIT,CIN,PIT 16-10,1st qtr: 0-0  2nd qtr: CIN 7-3  3rd qtr: PIT 10-7  4th qtr: PIT 16-10.  PIT first game over 400 yards offensive in 45 games.
@@ -134,11 +134,11 @@ Week,Away,Home,Score,Game Summary
 13,SEA,DAL,DAL 41-35,1st qtr: DAL 10-7  2nd qtr: SEA 21-20  3rd qtr: SEA 28-27  4th qtr: DAL 41-35
 13,LAC,NE,LAC 6-0,1st qtr: 0-0  2nd qtr: LAC 6-0  3rd qtr: LAC 6-0  4th qtr: LAC 6-0
 13,ARI,PIT,ARI 24-10,1st qtr: 3-3  2nd qtr: ARI 10-3  3rd qtr: ARI 17-3  4th qtr: ARI 24-10
-13,IND,TEN,IND 6-3,1st qtr: TEN 10-7  2nd qtr: TEN 17-13  3rd qtr: IND 22-19  4th qtr: 25-25.  OT: IND 6-3.  IND blocked punt TD return.  TEN 2 point defense conversion return.
+13,IND,TEN,IND 31-28,1st qtr: TEN 10-7  2nd qtr: TEN 17-13  3rd qtr: IND 22-19  4th qtr: 25-25.  OT: IND 31-28.  IND blocked punt TD return.  TEN 2 point defense conversion return.
 13,DEN,HOU,HOU 22-17,1st qtr: HOU 10-0  2nd qtr: HOU 13-3  3rd qtr: HOU 16-10  4th qtr: HOU 22-17
 13,DET,NO,DET 33-28,1st qtr: DET 21-0  2nd qtr: DET 24-7  3rd qtr: DET 27-21  4th qtr: DET 33-28
 13,ATL,NYJ,ATL 13-8,1st qtr: NYJ 2-0  2nd qtr: ATL 10-5  3rd qtr: ATL 13-8  4th qtr: ATL 13-8
-13,MIA,WSH,MIA 45-15,1st qtr: MIA 17-0  2nd qtr: MIA 31-7  3rd qtr: MIA 38-15  4th qtr: MIA 45-15
+13,MIA,WAS,MIA 45-15,1st qtr: MIA 17-0  2nd qtr: MIA 31-7  3rd qtr: MIA 38-15  4th qtr: MIA 45-15
 13,CAR,TB,TB 21-18,1st qtr: TB 7-0  2nd qtr: TB 7-3  3rd qtr: TB 14-10  4th qtr: TB 21-18
 13,SF,PHI,SF 42-19,1st qtr: PHI 6-0  2nd qtr: SF 14-6  3rd qtr: SF 28-13  4th qtr: SF 42-19
 13,CLE,LAR,LAR 36-19,1st qtr: LAR 10-7  2nd qtr: LAR 13-10  3rd qtr: LAR 20-13  4th qtr: LAR 36-19
@@ -149,7 +149,7 @@ Week,Away,Home,Score,Game Summary
 14,IND,CIN,CIN 34-14,1st qtr: CIN 7-0  2nd qtr: 14-14  3rd qtr: CIN 28-14  4th qtr: CIN 34-14.  IND DEF pick 6 INT.
 14,JAX,CLE,CLE 31-27,1st qtr: CLE 7-0  2nd qtr: CLE 14-7  3rd qtr: CLE 21-14  4th qtr: CLE 31-27
 14,HOU,NYJ,NYJ 30-6,1st qtr: 0-0  2nd qtr: 0-0  3rd qtr: NYJ 14-6  4th qtr: NYJ 30-6
-14,LAR,BAL,BAL 6-0,1st qtr: BAL 7-3  2nd qtr: LAR 20-17  3rd qtr: LAR 22-20  4th qtr: 31-31.  OT: 37-31. BAL punt return TD win in OT.  LAR DEF safety in 3rd qtr.
+14,LAR,BAL,BAL 37-31,1st qtr: BAL 7-3  2nd qtr: LAR 20-17  3rd qtr: LAR 22-20  4th qtr: 31-31.  OT: 37-31. BAL punt return TD win in OT.  LAR DEF safety in 3rd qtr.
 14,DET,CHI,CHI 28-13,1st qtr: CHI 10-0  2nd qtr: DET 13-10  3rd qtr: CHI 19-13  4th qtr: CHI 28-13
 14,CAR,NO,NO 28-6,1st qtr: 0-0  2nd qtr: NO 14-3  3rd qtr: NO 14-6  4th qtr: NO 28-6.  NO DEF fumble return TD.
 14,MIN,LV,MIN 3-0,1st qtr: 0-0  2nd qtr: 0-0  3rd qtr: 0-0  4th qtr: MIN 3-0
@@ -158,18 +158,50 @@ Week,Away,Home,Score,Game Summary
 14,DEN,LAC,DEN 24-7,1st qtr: DEN 7-0  2nd qtr: DEN 10-0  3rd qtr: DEN 17-0  4th qtr: DEN 24-7
 14,PHI,DAL,DAL 33-13,1st qtr: DAL 10-0  2nd qtr: DAL 24-6  3rd qtr: DAL 27-13  4th qtr: DAL 33-13
 15,LAC,LV,LV 63-21,1st qtr: LV 21-0  2nd qtr: LV 42-0  3rd qtr: LV 56-7  4th qtr: LV 63-21.  LV DEF fumble and INT return TDs.
-15,MIN,CIN,CIN 3-0,1st qtr: MIN 7-3  2nd qtr: MIN 7-3  3rd qtr: MIN 17-3  4th qtr: TIED 24-24.  OT: CIN: 27-24
+15,MIN,CIN,CIN 27-20,1st qtr: MIN 7-3  2nd qtr: MIN 7-3  3rd qtr: MIN 17-3  4th qtr: TIED 24-24.  OT: CIN: 27-24
 15,PIT,IND,IND 30-13,1st qtr: PIT 6-0  2nd qtr: IND 14-13  3rd qtr: IND 24-13  4th qtr: IND 30-13
 15,DEN,DET,DET 42-17,1st qtr: 0-0  2nd qtr: DET 21-0  3rd qtr: DET 28-10  4th qtr: DET 42-17
 15,NYJ,MIA,MIA 30-0,1st qtr: MIA 7-0  2nd qtr: MIA 24-0  3rd qtr: MIA 27-0  4th qtr: MIA 30-0
-15,HOU,TEN,HOU 3-0,1st qtr: TEN 6-0  2nd qtr: TEN 13-3  3rd qtr: TEN 13-9  4th qtr: TIED 16-16.  OT: 19-16
+15,HOU,TEN,HOU 19-16,1st qtr: TEN 6-0  2nd qtr: TEN 13-3  3rd qtr: TEN 13-9  4th qtr: TIED 16-16.  OT: 19-16
 15,TB,GB,TB 34-20,1st qtr: GB 7-3  2nd qtr: TB 13-10  3rd qtr: TB 27-17  4th qtr: TB 34-20
 15,NYG,NO,NO 24-6,1st qtr: NO 7-3  2nd qtr: NO 7-6  3rd qtr: NO 17-6  4th qtr: NO 24-6
 15,ATL,CAR,CAR 9-7,1st qtr: 0-0  2nd qtr: ATL 7-3  3rd qtr: ATL 7-3  4th qtr: CAR 9-7
 15,CHI,CLE,CLE 20-17,1st qtr: 0-0  2nd qtr: 7-7  3rd qtr: CHI 17-7  4th qtr: CLE 20-17.  CHI DEF INT return TD.
 15,KC,NE,KC 27-17,1st qtr: KC 7-0  2nd qtr: KC 14-10  3rd qtr: KC 27-10  4th qtr: KC 27-17
 15,SF,ARI,SF 45-29,1st qtr: SF 14-7  2nd qtr: SF 21-13  3rd qtr: SF 35-16  4th qtr: SF 45-29.  SF DEF INT return TD.
-15,WSH,LAR,LAR 28-20,1st qtr: LAR 3-0  2nd qtr: LAR 13-0  3rd qtr: LAR 20-7  4th qtr: LAR 28-20
+15,WAS,LAR,LAR 28-20,1st qtr: LAR 3-0  2nd qtr: LAR 13-0  3rd qtr: LAR 20-7  4th qtr: LAR 28-20
 15,DAL,BUF,BUF 31-10,1st qtr: BUF 7-0  2nd qtr: BUF 21-3  3rd qtr: BUF 24-3  4th qtr: BUF 31-10
 15,BAL,JAX,BAL 23-7,1st qtr: BAL 3-0  2nd qtr: BAL 10-0  3rd qtr: BAL 10-7  4th qtr: BAL 23-7
 15,PHI,SEA,SEA 20-17,1st qtr: PHI 7-0  2nd qtr: PHI 10-3  3rd qtr: PHI 17-10  4th qtr: SEA 20-17
+16,NO,LAR,LAR 30-22,1st qtr: LAR 7-0  2nd qtr: LAR 17-7  3rd qtr: LAR 27-7  4th qtr: LAR 30-22
+16,CIN,PIT,PIT 34-11,1st qtr: PIT 7-0  2nd qtr: PIT 24-0  3rd qtr: PIT 31-11  4th qtr: PIT 34-11
+16,BUF,LAC,BUF 24-22,1st qtr: LAC 3-0  2nd qtr: BUF 14-10  3rd qtr: BUF 21-13  4th qtr: BUF 24-22
+16,IND,ATL,ATL 29-10,1st qtr: 7-7  2nd qtr: ATL 13-7  3rd qtr: ATL 20-10  4th qtr: ATL 29-10
+16,SEA,TEN,SEA 20-17,1st qtr: 0-0  2nd qtr: TEN 10-3  3rd qtr: TEN 10-6  4th qtr: SEA 20-17
+16,DET,MIN,DET 30-24,1st qtr: 7-7  2nd qtr: DET 17-14  3rd qtr: DET 23-21  4th qtr: DET 30-24
+16,WSH,NYJ,NYJ 30-28,1st qtr: NYJ 17-0  2nd qtr: NYJ 27-7  3rd qtr: NYJ 27-14  4th qtr: NYJ 30-28
+16,GB,CAR,GB 33-30,1st qtr: GB 7-3  2nd qtr: GB 23-10  3rd qtr: GB 23-16  4th qtr: GB 33-30
+16,JAX,TB,TB 30-12,1st qtr: TB 3-0  2nd qtr: TB 20-0  3rd qtr: TB 30-6  4th qtr: TB 30-12
+16,CLE,HOU,CLE 36-22,1st qtr: CLE 7-0  2nd qtr: CLE 22-7  3rd qtr: CLE 28-7  4th qtr: CLE 36-22.  HOU kickoff return TD.
+16,ARI,CHI,CHI 27-16,1st qtr: CHI 7-0  2nd qtr: CHI 21-7  3rd qtr: CHI 24-10  4th qtr: CHI 27-16
+16,DAL,MIA,MIA 22-20,1st qtr: DAL 7-3  2nd qtr: MIA 13-7  3rd qtr: MIA 19-10  4th qtr: MIA 22-20
+16,NE,DEN,NE 26-23,1st qtr: DEN 7-0  2nd qtr: DEN 7-3  3rd qtr: NE 23-7  4th qtr: NE 26-23
+16,LV,KC,LV 20-14,1st qtr: LV 3-0  2nd qtr: LV 17-7  3rd qtr: LV 20-7  4th qtr: LV 20-14.  LV defense fumble and INT TD.
+16,NYG,PHI,PHI 33-25,1st qtr: PHI 7-3  2nd qtr: PHI 20-3  3rd qtr: PHI 20-18  4th qtr: PHI 33-25.  NYG defense INT return TD.
+16,BAL,SF,BAL 33-19,1st qtr: SF 5-3  2nd qtr: BAL 16-12  3rd qtr: BAL 33-12  4th qtr: BAL 33-19.  SF defense safety.
+17,NYJ,CLE,CLE 37-20,1st qtr: CLE 20-7  2nd qtr: CLE 34-17  3rd qtr: CLE 34-17  4th qtr: CLE 37-20.  CLE defense INT return TD and NYJ defense INT return TD.
+17,DET,DAL,DAL 20-19,1st qtr: DAL 7-3  2nd qtr: DAL 7-3  3rd qtr: 10-10  4th qtr: DAL 20-19
+17,NE,BUF,BUF 27-21,1st qtr: BUF 13-7  2nd qtr: BUF 20-14  3rd qtr: BUF 27-14  4th qtr: BUF 27-21.  NE opening kickoff return TD.  BUF defense INT return TD.
+17,ATL,CHI,CHI 37-17,1st qtr: CHI 7-0  2nd qtr: CHI 21-7  3rd qtr: CHI 27-10  4th qtr: CHI 37-17
+17,LV,IND,IND 23-20,1st qtr: IND 7-3  2nd qtr: IND 14-3  3rd qtr: IND 17-10  4th qtr: IND 23-20
+17,ARI,PHI,ARI 35-31,1st qtr: PHI 7-3  2nd qtr: PHI 21-6  3rd qtr: 21-21  4th qtr: ARI 35-31.  PHI INT return TD.
+17,LAR,NYG,LAR 26-25,1st qtr: LAR 7-0  2nd qtr: LAR 14-10  3rd qtr: LAR 20-16  4th qtr: LAR 26-25.  NYG punt return TD.
+17,NO,TB,NO 23-13,1st qtr: NO 7-0  2nd qtr: NO 17-0  3rd qtr: NO 20-0  4th qtr: NO 23-13
+17,SF,WSH,SF 27-10,1st qtr: SF 10-0  2nd qtr: SF 13-10  3rd qtr: SF 20-10  4th qtr: SF 27-10
+17,CAR,JAX,JAX 26-0,1st qtr: JAX 3-0  2nd qtr: JAX 9-0  3rd qtr: JAX 19-0  4th qtr: JAX 26-0
+17,MIA,BAL,BAL 56-19,1st qtr: MIA 10-7  2nd qtr: BAL 28-13  3rd qtr: BAL 35-13  4th qtr: BAL 56-19
+17,TEN,HOU,HOU 26-3,1st qtr: HOU 3-0  2nd qtr: HOU 20-3  3rd qtr: HOU 23-3  4th qtr: HOU 26-3.  HOU fumble return TD.
+17,PIT,SEA,PIT 30-23,1st qtr: PIT 7-0  2nd qtr: PIT 17-14  3rd qtr: PIT 24-17  4th qtr: PIT 30-23
+17,LAC,DEN,DEN 16-9,1st qtr: DEN 3-0  2nd qtr: DEN 13-3  3rd qtr: DEN 13-6  4th qtr: DEN 16-9
+17,CIN,KC,KC 25-17,1st qtr: KC 7-3  2nd qtr: CIN 17-13  3rd qtr: CIN 17-16  4th qtr: KC 25-17
+17,GB,MIN,GB 33-10,1st qtr: GB 10-0  2nd qtr: GB 23-3  3rd qtr: GB 30-3  4th qtr: GB 33-10
