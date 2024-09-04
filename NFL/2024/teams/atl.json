@@ -1,49 +1,53 @@
 {
-	"teamAbbrev": "ARI",
+	"teamAbbrev": "ATL",
 	"players": [
 		{
 			"position": "QB1",
-			"name": "Kyler Murray"
+			"name": "Kirk Cousins"
 		},
 		{
 			"position": "QB2",
-			"name": "Clayton Tune"
+			"name": "Michael Penix Jr."
 		},
 		{
 			"position": "RB1",
-			"name": "James Conner"
+			"name": "Bijan Robinson"
 		},
 		{
 			"position": "RB2",
-			"name": "Trey Benson"
+			"name": "Tyler Allgeier"
 		},
 		{
 			"position": "RB3",
-			"name": "Emari Demercado"
-		},      
+			"name": "Avery Williams"
+		},	
+		{
+			"position": "RB4",
+			"name": "Jase McClellan"
+		},	
 		{
 			"position": "WR1",
-			"name": "Marvin Harrison Jr."
+			"name": "Drake London"
 		},
 		{
 			"position": "WR2",
-			"name": "Michael Wilson"
+			"name": "Darnell Mooney"
 		},
 		{
 			"position": "WR3",
-			"name": "Greg Dortch"
+			"name": "Ray-Ray McCloud III"
 		},
 		{
 			"position": "WR4",
-			"name": "Zach Pascal" 
+			"name": "KhaDarel Hodge"
 		},
 		{
 			"position": "TE1",
-			"name": "Trey McBride"
+			"name": "Kyle Pitts"
 		},
 		{
 			"position": "TE2",
-			"name": "Elijah Higgins"
+			"name": "Charlie Woerner"
 		}
 	],
 	"positions": [
@@ -53,8 +57,8 @@
 				"QB2"
 			]
 		},
-		{	
-			"position": "RB1",		
+		{
+			"position": "RB1",
 			"whenOutIncreaseUsagePositions": [
 				"RB2",
 				"RB3"
@@ -64,7 +68,8 @@
 			"position": "RB2",
 			"whenOutIncreaseUsagePositions": [
 				"RB1",
-				"RB3"
+				"RB3",
+				"RB4"
 			]
 		},
 		{
@@ -79,8 +84,7 @@
 			"whenOutIncreaseUsagePositions": [			
 				"WR2",
 				"WR3",
-				"TE1",
-				"RB1"
+				"WR4"
 			]
 		},
 		{
@@ -88,9 +92,7 @@
 			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"WR3",
-				"TE1",
-				"RB1"
-				
+				"WR4"
 			]
 		},
 		{
@@ -98,9 +100,15 @@
 			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"WR2",
-				"TE1",
-				"RB1"
-				
+				"WR4"
+			]
+		},
+		{
+			"position": "WR4",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR3"
 			]
 		},
 		{
@@ -109,7 +117,8 @@
 				"TE2",
 				"WR1",
 				"WR2",
-				"WR3"				
+				"WR3",
+				"WR4"				
 			]
 		},
 		{
@@ -118,7 +127,8 @@
 				"TE1",
 				"WR1",
 				"WR2",
-				"WR3"				
+				"WR3",
+				"WR4"				
 			]
 		}
 	]

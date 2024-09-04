@@ -1,49 +1,49 @@
 {
-	"teamAbbrev": "ARI",
+	"teamAbbrev": "BUF",
 	"players": [
 		{
 			"position": "QB1",
-			"name": "Kyler Murray"
+			"name": "Josh Allen"
 		},
 		{
 			"position": "QB2",
-			"name": "Clayton Tune"
+			"name": "Mitchell Trubisky"
 		},
 		{
 			"position": "RB1",
-			"name": "James Conner"
+			"name": "James Cook"
 		},
 		{
 			"position": "RB2",
-			"name": "Trey Benson"
+			"name": "Ray Davis"
 		},
 		{
 			"position": "RB3",
-			"name": "Emari Demercado"
-		},      
+			"name": "Ty Johnson"
+		},	
 		{
 			"position": "WR1",
-			"name": "Marvin Harrison Jr."
+			"name": "Khalil Shakir"
 		},
 		{
 			"position": "WR2",
-			"name": "Michael Wilson"
+			"name": "Curtis Samuel"
 		},
 		{
 			"position": "WR3",
-			"name": "Greg Dortch"
+			"name": "Mack Hollins"
 		},
 		{
 			"position": "WR4",
-			"name": "Zach Pascal" 
+			"name": "Keon Coleman"
 		},
 		{
 			"position": "TE1",
-			"name": "Trey McBride"
+			"name": "Dalton Kincaid"
 		},
 		{
 			"position": "TE2",
-			"name": "Elijah Higgins"
+			"name": "Dawson Knox"
 		}
 	],
 	"positions": [
@@ -53,8 +53,8 @@
 				"QB2"
 			]
 		},
-		{	
-			"position": "RB1",		
+		{
+			"position": "RB1",
 			"whenOutIncreaseUsagePositions": [
 				"RB2",
 				"RB3"
@@ -79,8 +79,8 @@
 			"whenOutIncreaseUsagePositions": [			
 				"WR2",
 				"WR3",
-				"TE1",
-				"RB1"
+				"WR4",
+				"WR5"
 			]
 		},
 		{
@@ -88,9 +88,8 @@
 			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"WR3",
-				"TE1",
-				"RB1"
-				
+				"WR4",
+				"WR5"
 			]
 		},
 		{
@@ -98,9 +97,17 @@
 			"whenOutIncreaseUsagePositions": [
 				"WR1",
 				"WR2",
-				"TE1",
-				"RB1"
-				
+				"WR4",
+				"WR5"
+			]
+		},
+		{
+			"position": "WR4",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR5"
 			]
 		},
 		{
@@ -109,7 +116,8 @@
 				"TE2",
 				"WR1",
 				"WR2",
-				"WR3"				
+				"WR3",
+				"WR4"				
 			]
 		},
 		{
@@ -118,7 +126,8 @@
 				"TE1",
 				"WR1",
 				"WR2",
-				"WR3"				
+				"WR3",
+				"WR4"				
 			]
 		}
 	]
