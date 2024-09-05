@@ -1,0 +1,124 @@
+{
+	"teamAbbrev": "CLE",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Deshaun Watson"
+		},
+		{
+			"position": "QB2",
+			"name": "Jameis Winston"
+		},
+		{
+			"position": "QB2",
+			"name": "Dorian Thompson-Robinson"
+		},
+		{
+			"position": "RB1",
+			"name": "Nick Chubb"
+		},
+		{
+			"position": "RB2",
+			"name": "Jerome Ford"
+		},
+		{
+			"position": "RB3",
+			"name": "Pierre Strong Jr."
+		},      
+		{
+			"position": "RB4",
+			"name": "D'Onta Foreman"
+		},     		
+		{
+			"position": "WR1",
+			"name": "Amari Cooper"
+		},
+		{
+			"position": "WR2",
+			"name": "Jerry Jeudy"
+		},
+		{
+			"position": "WR3",
+			"name": "Elijah Moore"
+		},
+		{
+			"position": "WR4",
+			"name": "Cedric Tillman"
+		},
+		{
+			"position": "TE1",
+			"name": "David Njoku"
+		},
+		{
+			"position": "TE2",
+			"name": "Harrison Bryant"
+		}
+	],
+	"positions": [
+		{
+			"position": "QB1",
+			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1",
+				"RB1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1",
+				"RB1"
+				
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1",
+				"RB1"
+				
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

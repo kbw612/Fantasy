@@ -1,0 +1,138 @@
+{
+	"teamAbbrev": "CAR",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Bryce Young"
+		},
+		{
+			"position": "QB2",
+			"name": "Andy Dalton"
+		},
+		{
+			"position": "RB1",
+			"name": "Jonathon Brooks"
+		},
+		{
+			"position": "RB2",
+			"name": "Chuba Hubbard"
+		},
+		{
+			"position": "RB3",
+			"name": "Miles Sanders"
+		},
+		{
+			"position": "RB4",
+			"name": "Raheem Blackshear"
+		},	
+		{
+			"position": "WR1",
+			"name": "Diontae Johnson"
+		},
+		{
+			"position": "WR2",
+			"name": "Adam Thielen"
+		},
+		{
+			"position": "WR3",
+			"name": "Xavier Legette"
+		},
+		{
+			"position": "WR4",
+			"name": "Jonathan Mingo"
+		},
+		{
+			"position": "TE1",
+			"name": "Ian Thomas"
+		},
+		{
+			"position": "TE2",
+			"name": "Tommy Tremble"
+		},
+		{
+			"position": "TE3",
+			"name": "Ja'Tavion Sanders"
+		}
+	],
+	"positions": [
+		{
+			"position": "QB1",
+			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR4",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR3"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		},
+		{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"teamAbbrev": "CHI",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Caleb Williams"
+		},
+		{
+			"position": "QB2",
+			"name": "Tyson Bagent"
+		},
+		{
+			"position": "RB3",
+			"name": "D'Andre Swift"
+		},
+		{
+			"position": "RB2",
+			"name": "Khalil Herbert"
+		},
+		{
+			"position": "RB3",
+			"name": "Roschon Johnson"
+		},      
+		{
+			"position": "RB4",
+			"name": "Travis Homer"
+		},  	
+		{
+			"position": "WR1",
+			"name": "DJ Moore"
+		},
+		{
+			"position": "WR2",
+			"name": "Rome Odunze"
+		},
+		{
+			"position": "WR3",
+			"name": "Keenan Allen"
+		},
+		{
+			"position": "TE1",
+			"name": "Cole Kmet"
+		},
+		{
+			"position": "TE2",
+			"name": "Gerald Everett"
+		}
+	],
+	"positions": [
+		{
+			"position": "QB1",
+			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1"
+				
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1"
+				
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}
