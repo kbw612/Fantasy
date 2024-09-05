@@ -3,23 +3,27 @@
 	"players": [
 		{
 			"position": "QB1",
-			"name": "Jimmy Garoppolo"
+			"name": "Gardner Minshew II"
 		},
 		{
 			"position": "QB2",
-			"name": "Brian Hoyer"
+			"name": "Aidan O'Connell"
 		},
 		{
 			"position": "RB1",
-			"name": "Josh Jacobs"
+			"name": "Zamir White"
 		},
 		{
 			"position": "RB2",
-			"name": "Zamir White"
+			"name": "Alexander Mattison"
 		},
 		{
 			"position": "RB3",
 			"name": "Ameer Abdullah"
+		},
+		{
+			"position": "RB4",
+			"name": "Dylan Laube"
 		},
 		{
 			"position": "WR1",
@@ -31,11 +35,11 @@
 		},
 		{
 			"position": "WR3",
-			"name": "Hunter Renfrow"
+			"name": "Tre Tucker"
 		},
 		{
 			"position": "TE1",
-			"name": "Austin Hooper"
+			"name": "Brock Bowers"
 		},
 		{
 			"position": "TE2",
