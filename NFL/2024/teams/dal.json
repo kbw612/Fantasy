@@ -1,0 +1,127 @@
+{
+	"teamAbbrev": "DAL",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Dak Prescott"
+		},
+		{
+			"position": "QB2",
+			"name": "Cooper Rush"
+		},
+		{
+			"position": "RB1",
+			"name": "Rico Dowdle"
+		},
+		{
+			"position": "RB2",
+			"name": "Ezekiel Elliott"
+		},
+		{
+			"position": "RB3",
+			"name": "Deuce Vaughn"
+		},	
+		{
+			"position": "WR1",
+			"name": "CeeDee Lamb"
+		},
+		{
+			"position": "WR2",
+			"name": "Brandin Cooks"
+		},
+		{
+			"position": "WR3",
+			"name": "Jalen Tolbert"
+		},
+		{
+			"position": "WR4",
+			"name": "KaVontae Turpin"
+		},
+		{
+			"position": "TE1",
+			"name": "Jake Ferguson"
+		},
+		{
+			"position": "TE2",
+			"name": "Luke Schoonmaker"
+		}		
+	],
+	"positions": [
+		{
+			"position": "QB1",
+			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"WR4",
+				"RB1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"WR4",
+				"RB1"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR4",
+				"RB1"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3",
+				"RB1",
+				"WR4"				
+			]
+		},
+		{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR2",
+				"WR3",
+				"RB1",
+				"WR4"				
+			]
+		}
+	]
+}

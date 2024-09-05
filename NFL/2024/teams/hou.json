@@ -1,0 +1,138 @@
+{
+	"teamAbbrev": "HOU",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "C.J. Stroud"
+		},
+		{
+			"position": "QB2",
+			"name": "Davis Mills"
+		},
+		{
+			"position": "RB1",
+			"name": "Joe Mixon"
+		},
+		{
+			"position": "RB2",
+			"name": "Dameon Pierce"
+		},
+		{
+			"position": "RB3",
+			"name": "Dare Ogunbowale"
+		},
+		{
+			"position": "RB4",
+			"name": "Cam Akers"
+		},
+		{
+			"position": "WR1",
+			"name": "Nico Collins"
+		},
+		{
+			"position": "WR2",
+			"name": "Stefon Diggs"
+		},
+		{
+			"position": "WR3",
+			"name": "Tank Dell"
+		},
+		{
+			"position": "WR4",
+			"name": "Robert Woods"
+		},
+		{
+			"position": "WR5",
+			"name": "John Metchie III"
+		},
+		{
+			"position": "TE1",
+			"name": "Dalton Schultz"
+		},
+		{
+			"position": "TE2",
+			"name": "Brevin Jordan"
+		}
+	],
+	"positions": [
+		{
+			"position": "QB1",
+			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR4",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR3"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		},
+		{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		}
+	]
+}

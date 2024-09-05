@@ -1,0 +1,130 @@
+{
+	"teamAbbrev": "JAX",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Trevor Lawrence"
+		},
+		{
+			"position": "QB2",
+			"name": "Mac Jones"
+		},
+		{
+			"position": "RB1",
+			"name": "Travis Etienne Jr."
+		},
+		{
+			"position": "RB2",
+			"name": "Tank Bigsby"
+		},
+		{
+			"position": "RB3",
+			"name": "D'Ernest Johnson"
+		},	
+		{
+			"position": "WR1",
+			"name": "Christian Kirk"
+		},
+		{
+			"position": "WR2",
+			"name": "Gabe Davis"
+		},
+		{
+			"position": "WR3",
+			"name": "Brian Thomas Jr"
+		},
+		{
+			"position": "WR4",
+			"name": "Jamal Agnew"
+		},
+		{
+			"position": "TE1",
+			"name": "Evan Engram"
+		},
+		{
+			"position": "TE2",
+			"name": "Luke Farrell"
+		}
+	],
+	"positions": [
+		{
+			"position": "QB1",
+			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR4",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR3"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		},
+		{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		}
+	]
+}

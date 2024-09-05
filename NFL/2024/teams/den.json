@@ -1,0 +1,111 @@
+{
+	"teamAbbrev": "DEN",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Bo Nix"
+		},
+		{
+			"position": "QB2",
+			"name": "Jarrett Stidham"
+		},
+		{
+			"position": "RB1",
+			"name": "Javonte Williams"
+		},
+		{
+			"position": "RB2",
+			"name": "Jaleel McLaughlin"
+		},
+		{
+			"position": "RB3",
+			"name": "Audric Estime"
+		},
+		{
+			"position": "WR1",
+			"name": "Courtland Sutton"
+		},
+		{
+			"position": "WR2",
+			"name": "Josh Reynolds"
+		},
+		{ 
+			"position": "WR3",
+			"name": "Marvin Mims Jr."
+		},
+		{ 
+			"position": "WR4",
+			"name": "Devaughn Vele"
+		},
+		{
+			"position": "TE1",
+			"name": "Greg Dulcich"
+		},
+		{
+			"position": "TE2",
+			"name": "Adam Trautman"
+		}
+	],
+	"positions": [
+		{
+			"position": "QB1",
+			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"TE1"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"TE1"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"TE1"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3"				
+			]
+		}
+	]
+}

@@ -1,0 +1,150 @@
+{
+	"teamAbbrev": "IND",
+	"players": [
+		{
+			"position": "QB1",
+			"name": "Anthony Richardson"
+		},
+		{
+			"position": "QB2",
+			"name": "Joe Flacco"
+		},
+		{
+			"position": "RB1",
+			"name": "Jonathan Taylor"
+		},
+		{
+			"position": "RB2",
+			"name": "Trey Sermon"
+		},
+		{
+			"position": "RB3",
+			"name": "Tyler Goodson"
+		},	
+		{
+			"position": "WR1",
+			"name": "Michael Pittman Jr."
+		},
+		{
+			"position": "WR2",
+			"name": "Josh Downs"
+		},
+		{
+			"position": "WR3",
+			"name": "Alec Pierce"
+		},
+		{
+			"position": "WR4",
+			"name": "Adonai Mitchell"
+		},
+		{
+			"position": "TE1",
+			"name": "Kylen Granson"
+		},
+		{
+			"position": "TE2",
+			"name": "Mo Alie-Cox"
+		},
+		{
+			"position": "TE3",
+			"name": "Drew Ogletree"
+		},
+		{
+			"position": "TE4",
+			"name": "Will Mallory"
+		}
+	],
+	"positions": [
+		{
+			"position": "QB1",
+			"whenOutIncreaseUsagePositions": [
+				"QB2"
+			]
+		},
+		{
+			"position": "RB1",
+			"whenOutIncreaseUsagePositions": [
+				"RB2",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB2",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB3"
+			]
+		},
+		{
+			"position": "RB3",
+			"whenOutIncreaseUsagePositions": [
+				"RB1",
+				"RB2"
+			]
+		},
+		{
+			"position": "WR1",
+			"whenOutIncreaseUsagePositions": [			
+				"WR2",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR2",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR3",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR3",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR4"
+			]
+		},
+		{
+			"position": "WR4",
+			"whenOutIncreaseUsagePositions": [
+				"WR1",
+				"WR2",
+				"WR3"
+			]
+		},
+		{
+			"position": "TE1",
+			"whenOutIncreaseUsagePositions": [
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		},
+		{
+			"position": "TE2",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		},
+		{
+			"position": "TE3",
+			"whenOutIncreaseUsagePositions": [
+				"TE1",
+				"TE2",
+				"WR1",
+				"WR2",
+				"WR3",
+				"WR4"				
+			]
+		}
+
+	]
+}
