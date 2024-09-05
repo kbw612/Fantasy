@@ -7,31 +7,35 @@
 		},
 		{
 			"position": "QB2",
-			"name": "Easton Stick"
+			"name": "Taylor Heinicke"
 		},
 		{
+			"position": "QB3",
+			"name": "Easton Stick"
+		},
+		{		
 			"position": "RB1",
-			"name": "Austin Ekeler"
+			"name": "Gus Edwards"
 		},
 		{
 			"position": "RB2",
-			"name": "Joshua Kelley"
+			"name": "J.K. Dobbins"
 		},
 		{
 			"position": "RB3",
-			"name": "Isaiah Spiller"
+			"name": "Kimani Vidal"
 		},
 		{
 			"position": "WR1",
-			"name": "Keenan Allen"
+			"name": "Joshua Palmer"
 		},
 		{
 			"position": "WR2",
-			"name": "Mike Williams"
+			"name": "Ladd McConkey"
 		},
 		{
 			"position": "WR3",
-			"name": "Joshua Palmer"
+			"name": "DJ Chark"
 		},
 		{
 			"position": "WR4",
@@ -39,11 +43,11 @@
 		},
 		{
 			"position": "TE1",
-			"name": "Gerald Everett"
+			"name": "Will Dissly"
 		},
 		{
 			"position": "TE2",
-			"name": "Donald Parham Jr."
+			"name": "Hayden Hurst"
 		},
 		{
 			"position": "TE3",
