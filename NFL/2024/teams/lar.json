@@ -7,7 +7,7 @@
 		},
 		{
 			"position": "QB2",
-			"name": "Brett Rypien"
+			"name": "Jimmy Garoppolo"
 		},
 		{
 			"position": "RB1",
@@ -15,11 +15,11 @@
 		},
 		{
 			"position": "RB2",
-			"name": "Ronnie Rivers"
+			"name": "Blake Corum"
 		},      
 		{
 			"position": "RB3",
-			"name": "Zach Evans"
+			"name": "Ronnie Rivers"
 		},  	
 		{
 			"position": "WR1",
@@ -31,22 +31,22 @@
 		},
 		{
 			"position": "WR3",
-			"name": "Tutu Atwell"
+			"name": "Demarcus Robinson"
 		},
 		{
 			"position": "WR4",
-			"name": "Van Jefferson"
+			"name": "Tutu Atwell"
+		},
+		{
+			"position": "WR5",
+			"name": "Jordan Whittington"
 		},
 		{
 			"position": "TE1",
-			"name": "Tyler Higbee"
+			"name": "Colby Parkinson"
 		},
 		{
 			"position": "TE2",
-			"name": "Brycen Hopkins"
-		},
-		{
-			"position": "TE3",
 			"name": "Davis Allen"
 		}
 	],
