@@ -1434,282 +1434,282 @@ Saints,DST,DST,NO,2,2400,2.00%,8.0,0.0,0.0
 Vikings,DST,DST,MIN,2,2400,2.00%,13.0,0.0,0.0
 Panthers,DST,DST,CAR,2,2300,3.00%,5.0,0.0,0.0
 Cardinals,DST,DST,ARI,2,2300,5.50%,11.0,0.0,0.0
-CeeDee Lamb,WR,WR/FLEX,DAL,3,8800,0.0,0.0,0.0,0.0
-Justin Jefferson,WR,WR/FLEX,MIN,3,8600,0.0,0.0,0.0,0.0
+CeeDee Lamb,WR,WR/FLEX,DAL,3,8800,5.11%,9.7,9.7,0.0
+Justin Jefferson,WR,WR/FLEX,MIN,3,8600,1.93%,20.1,14.1,6.0
 Christian McCaffrey,RB,RB/FLEX,SF,3,8500,0.0,0.0,0.0,0.0
-Tyreek Hill,WR,WR/FLEX,MIA,3,8400,0.0,0.0,0.0,0.0
-Amon-Ra St. Brown,WR,WR/FLEX,DET,3,8200,0.0,0.0,0.0,0.0
-Cooper Kupp,WR,WR/FLEX,LAR,3,8000,0.0,0.0,0.0,0.0
-Josh Allen,QB,QB,BUF,3,8000,0.0,0.0,0.0,0.0
+Tyreek Hill,WR,WR/FLEX,MIA,3,8400,1.41%,7.0,7.0,0.0
+Amon-Ra St. Brown,WR,WR/FLEX,DET,3,8200,3.73%,20.5,14.5,6.0
+Cooper Kupp,WR,WR/FLEX,LAR,3,8000,0.01%,0.0,0.0,0.0
+Josh Allen,QB,QB,BUF,3,8000,6.54%,30.92,14.92,16.0
 A.J. Brown,WR,WR/FLEX,PHI,3,7800,0.0,0.0,0.0,0.0
-Saquon Barkley,RB,RB/FLEX,PHI,3,7700,0.0,0.0,0.0,0.0
-Davante Adams,WR,WR/FLEX,LV,3,7600,0.0,0.0,0.0,0.0
-Bijan Robinson,RB,RB/FLEX,ATL,3,7600,0.0,0.0,0.0,0.0
-Alvin Kamara,RB,RB/FLEX,NO,3,7500,0.0,0.0,0.0,0.0
-Lamar Jackson,QB,QB,BAL,3,7500,0.0,0.0,0.0,0.0
-Ja'Marr Chase,WR,WR/FLEX,CIN,3,7500,0.0,0.0,0.0,0.0
-Breece Hall,RB,RB/FLEX,NYJ,3,7400,0.0,0.0,0.0,0.0
-Marvin Harrison Jr.,WR,WR/FLEX,ARI,3,7400,0.0,0.0,0.0,0.0
-Jonathan Taylor,RB,RB/FLEX,IND,3,7300,0.0,0.0,0.0,0.0
-Nico Collins,WR,WR/FLEX,HOU,3,7300,0.0,0.0,0.0,0.0
-Jalen Hurts,QB,QB,PHI,3,7300,0.0,0.0,0.0,0.0
-Mike Evans,WR,WR/FLEX,TB,3,7200,0.0,0.0,0.0,0.0
-Garrett Wilson,WR,WR/FLEX,NYJ,3,7100,0.0,0.0,0.0,0.0
-C.J. Stroud,QB,QB,HOU,3,7100,0.0,0.0,0.0,0.0
-Kyren Williams,RB,RB/FLEX,LAR,3,7100,0.0,0.0,0.0,0.0
-Deebo Samuel Sr.,WR,WR/FLEX,SF,3,7100,0.0,0.0,0.0,0.0
-De'Von Achane,RB,RB/FLEX,MIA,3,7000,0.0,0.0,0.0,0.0
+Saquon Barkley,RB,RB/FLEX,PHI,3,7700,4.76%,36.6,24.6,12.0
+Davante Adams,WR,WR/FLEX,LV,3,7600,7.15%,8.0,8.0,0.0
+Bijan Robinson,RB,RB/FLEX,ATL,3,7600,4.68%,13.2,7.2,6.0
+Alvin Kamara,RB,RB/FLEX,NO,3,7500,27.18%,15.7,15.7,0.0
+Lamar Jackson,QB,QB,BAL,3,7500,3.78%,25.98,15.98,10.0
+Ja'Marr Chase,WR,WR/FLEX,CIN,3,7500,16.41%,32.8,20.8,12.0
+Breece Hall,RB,RB/FLEX,NYJ,3,7400,16.13%,18.3,12.3,6.0
+Marvin Harrison Jr.,WR,WR/FLEX,ARI,3,7400,9.42%,17.4,11.4,6.0
+Jonathan Taylor,RB,RB/FLEX,IND,3,7300,2.31%,29.5,17.5,12.0
+Nico Collins,WR,WR/FLEX,HOU,3,7300,5.86%,12.6,12.6,0.0
+Jalen Hurts,QB,QB,PHI,3,7300,3.15%,15.94,15.94,0.0
+Mike Evans,WR,WR/FLEX,TB,3,7200,2.88%,3.7,3.7,0.0
+Garrett Wilson,WR,WR/FLEX,NYJ,3,7100,6.29%,14.3,8.3,6.0
+C.J. Stroud,QB,QB,HOU,3,7100,1.85%,11.8,7.8,4.0
+Kyren Williams,RB,RB/FLEX,LAR,3,7100,1.61%,31.6,13.6,18.0
+Deebo Samuel Sr.,WR,WR/FLEX,SF,3,7100,0.01%,0.0,0.0,0.0
+De'Von Achane,RB,RB/FLEX,MIA,3,7000,14.09%,8.8,8.8,0.0
 Puka Nacua,WR,WR/FLEX,LAR,3,7000,0.0,0.0,0.0,0.0
-Patrick Mahomes,QB,QB,KC,3,7000,0.0,0.0,0.0,0.0
-Rashee Rice,WR,WR/FLEX,KC,3,7000,0.0,0.0,0.0,0.0
-Travis Etienne Jr.,RB,RB/FLEX,JAX,3,7000,0.0,0.0,0.0,0.0
-Joe Mixon,RB,RB/FLEX,HOU,3,6900,0.0,0.0,0.0,0.0
-DeVonta Smith,WR,WR/FLEX,PHI,3,6900,0.0,0.0,0.0,0.0
-Kyler Murray,QB,QB,ARI,3,6900,0.0,0.0,0.0,0.0
+Patrick Mahomes,QB,QB,KC,3,7000,4.84%,17.38,9.38,8.0
+Rashee Rice,WR,WR/FLEX,KC,3,7000,10.42%,32.1,26.1,6.0
+Travis Etienne Jr.,RB,RB/FLEX,JAX,3,7000,2.88%,12.5,12.5,0.0
+Joe Mixon,RB,RB/FLEX,HOU,3,6900,0.04%,0.0,0.0,0.0
+DeVonta Smith,WR,WR/FLEX,PHI,3,6900,11.16%,14.9,14.9,0.0
+Kyler Murray,QB,QB,ARI,3,6900,8.06%,15.78,11.78,4.0
 Isiah Pacheco,RB,RB/FLEX,KC,3,6900,0.0,0.0,0.0,0.0
-Jahmyr Gibbs,RB,RB/FLEX,DET,3,6800,0.0,0.0,0.0,0.0
-Zay Flowers,WR,WR/FLEX,BAL,3,6800,0.0,0.0,0.0,0.0
-James Cook,RB,RB/FLEX,BUF,3,6800,0.0,0.0,0.0,0.0
-Anthony Richardson,QB,QB,IND,3,6700,0.0,0.0,0.0,0.0
-DJ Moore,WR,WR/FLEX,CHI,3,6700,0.0,0.0,0.0,0.0
-Josh Jacobs,RB,RB/FLEX,GB,3,6700,0.0,0.0,0.0,0.0
-Stefon Diggs,WR,WR/FLEX,HOU,3,6600,0.0,0.0,0.0,0.0
-James Conner,RB,RB/FLEX,ARI,3,6600,0.0,0.0,0.0,0.0
-Dak Prescott,QB,QB,DAL,3,6600,0.0,0.0,0.0,0.0
-Chris Godwin,WR,WR/FLEX,TB,3,6500,0.0,0.0,0.0,0.0
-Jared Goff,QB,QB,DET,3,6500,0.0,0.0,0.0,0.0
-Derrick Henry,RB,RB/FLEX,BAL,3,6500,0.0,0.0,0.0,0.0
-Malik Nabers,WR,WR/FLEX,NYG,3,6400,0.0,0.0,0.0,0.0
-J.K. Dobbins,RB,RB/FLEX,LAC,3,6400,0.0,0.0,0.0,0.0
+Jahmyr Gibbs,RB,RB/FLEX,DET,3,6800,5.14%,16.3,10.3,6.0
+Zay Flowers,WR,WR/FLEX,BAL,3,6800,3.17%,5.3,5.3,0.0
+James Cook,RB,RB/FLEX,BUF,3,6800,10.50%,18.7,12.7,6.0
+Anthony Richardson,QB,QB,IND,3,6700,1.19%,7.08,7.08,0.0
+DJ Moore,WR,WR/FLEX,CHI,3,6700,1.61%,15.2,15.2,0.0
+Josh Jacobs,RB,RB/FLEX,GB,3,6700,3.09%,5.8,5.8,0.0
+Stefon Diggs,WR,WR/FLEX,HOU,3,6600,2.85%,19.92,19.92,0.0
+James Conner,RB,RB/FLEX,ARI,3,6600,3.98%,3.5,3.5,0.0
+Dak Prescott,QB,QB,DAL,3,6600,1.63%,32.86,18.86,14.0
+Chris Godwin,WR,WR/FLEX,TB,3,6500,13.38%,17.3,11.3,6.0
+Jared Goff,QB,QB,DET,3,6500,2.10%,15.56,7.56,8.0
+Derrick Henry,RB,RB/FLEX,BAL,3,6500,6.99%,33.4,21.4,12.0
+Malik Nabers,WR,WR/FLEX,NYG,3,6400,8.73%,28.2,16.2,12.0
+J.K. Dobbins,RB,RB/FLEX,LAC,3,6400,4.96%,8.4,8.4,0.0
 Tua Tagovailoa,QB,QB,MIA,3,6400,0.0,0.0,0.0,0.0
-Rhamondre Stevenson,RB,RB/FLEX,NE,3,6300,0.0,0.0,0.0,0.0
-Chris Olave,WR,WR/FLEX,NO,3,6300,0.0,0.0,0.0,0.0
-Baker Mayfield,QB,QB,TB,3,6300,0.0,0.0,0.0,0.0
-Kenneth Walker III,RB,RB/FLEX,SEA,3,6300,0.0,0.0,0.0,0.0
-DK Metcalf,WR,WR/FLEX,SEA,3,6300,0.0,0.0,0.0,0.0
-Keenan Allen,WR,WR/FLEX,CHI,3,6200,0.0,0.0,0.0,0.0
-Jordan Love,QB,QB,GB,3,6200,0.0,0.0,0.0,0.0
-Trey McBride,TE,TE/FLEX,ARI,3,6200,0.0,0.0,0.0,0.0
-Jordan Mason,RB,RB/FLEX,SF,3,6200,0.0,0.0,0.0,0.0
-Brandon Aiyuk,WR,WR/FLEX,SF,3,6200,0.0,0.0,0.0,0.0
-Jayden Daniels,QB,QB,WAS,3,6200,0.0,0.0,0.0,0.0
-Amari Cooper,WR,WR/FLEX,CLE,3,6100,0.0,0.0,0.0,0.0
-Michael Pittman Jr.,WR,WR/FLEX,IND,3,6100,0.0,0.0,0.0,0.0
-Rachaad White,RB,RB/FLEX,TB,3,6100,0.0,0.0,0.0,0.0
-David Montgomery,RB,RB/FLEX,DET,3,6100,0.0,0.0,0.0,0.0
-Travis Kelce,TE,TE/FLEX,KC,3,6100,0.0,0.0,0.0,0.0
-Joe Burrow,QB,QB,CIN,3,6100,0.0,0.0,0.0,0.0
-Aaron Rodgers,QB,QB,NYJ,3,6000,0.0,0.0,0.0,0.0
-Tony Pollard,RB,RB/FLEX,TEN,3,6000,0.0,0.0,0.0,0.0
-Calvin Ridley,WR,WR/FLEX,TEN,3,6000,0.0,0.0,0.0,0.0
-Zach Charbonnet,RB,RB/FLEX,SEA,3,6000,0.0,0.0,0.0,0.0
-Jaylen Waddle,WR,WR/FLEX,MIA,3,6000,0.0,0.0,0.0,0.0
-Sam LaPorta,TE,TE/FLEX,DET,3,6000,0.0,0.0,0.0,0.0
-Brock Purdy,QB,QB,SF,3,6000,0.0,0.0,0.0,0.0
-Xavier Worthy,WR,WR/FLEX,KC,3,6000,0.0,0.0,0.0,0.0
-Aaron Jones,RB,RB/FLEX,MIN,3,5900,0.0,0.0,0.0,0.0
-Jayden Reed,WR,WR/FLEX,GB,3,5900,0.0,0.0,0.0,0.0
-Kirk Cousins,QB,QB,ATL,3,5900,0.0,0.0,0.0,0.0
-Brian Robinson Jr.,RB,RB/FLEX,WAS,3,5900,0.0,0.0,0.0,0.0
-Tee Higgins,WR,WR/FLEX,CIN,3,5900,0.0,0.0,0.0,0.0
-Jerome Ford,RB,RB/FLEX,CLE,3,5800,0.0,0.0,0.0,0.0
+Rhamondre Stevenson,RB,RB/FLEX,NE,3,6300,11.19%,1.3,1.3,0.0
+Chris Olave,WR,WR/FLEX,NO,3,6300,8.35%,20.6,14.6,6.0
+Baker Mayfield,QB,QB,TB,3,6300,8.55%,9.52,5.52,4.0
+Kenneth Walker III,RB,RB/FLEX,SEA,3,6300,0.05%,0.0,0.0,0.0
+DK Metcalf,WR,WR/FLEX,SEA,3,6300,4.09%,23.4,17.4,6.0
+Keenan Allen,WR,WR/FLEX,CHI,3,6200,0.03%,0.0,0.0,0.0
+Jordan Love,QB,QB,GB,3,6200,0.03%,0.0,0.0,0.0
+Trey McBride,TE,TE/FLEX,ARI,3,6200,2.83%,5.5,5.5,0.0
+Jordan Mason,RB,RB/FLEX,SF,3,6200,41.88%,10.8,10.8,0.0
+Brandon Aiyuk,WR,WR/FLEX,SF,3,6200,17.23%,9.8,9.8,0.0
+Jayden Daniels,QB,QB,WAS,3,6200,2.52%,28.06,14.06,14.0
+Amari Cooper,WR,WR/FLEX,CLE,3,6100,1.59%,27.6,15.6,12.0
+Michael Pittman Jr.,WR,WR/FLEX,IND,3,6100,1.08%,7.6,7.6,0.0
+Rachaad White,RB,RB/FLEX,TB,3,6100,1.00%,8.5,8.5,0.0
+David Montgomery,RB,RB/FLEX,DET,3,6100,2.81%,24.2,18.2,6.0
+Travis Kelce,TE,TE/FLEX,KC,3,6100,3.24%,7.0,7.0,0.0
+Joe Burrow,QB,QB,CIN,3,6100,16.96%,28.36,16.36,12.0
+Aaron Rodgers,QB,QB,NYJ,3,6000,3.71%,21.04,13.04,8.0
+Tony Pollard,RB,RB/FLEX,TEN,3,6000,9.38%,5.9,5.9,0.0
+Calvin Ridley,WR,WR/FLEX,TEN,3,6000,3.48%,1.9,0.0,0.0
+Zach Charbonnet,RB,RB/FLEX,SEA,3,6000,13.23%,25.7,13.7,12.0
+Jaylen Waddle,WR,WR/FLEX,MIA,3,6000,1.07%,6.6,6.6,0.0
+Sam LaPorta,TE,TE/FLEX,DET,3,6000,1.46%,5.6,5.6,0.0
+Brock Purdy,QB,QB,SF,3,6000,2.92%,26.78,14.78,12.0
+Xavier Worthy,WR,WR/FLEX,KC,3,6000,4.08%,5.0,5.0,0.0
+Aaron Jones,RB,RB/FLEX,MIN,3,5900,1.87%,28.8,22.8,6.0
+Jayden Reed,WR,WR/FLEX,GB,3,5900,1.27%,10.9,10.9,0.0
+Kirk Cousins,QB,QB,ATL,3,5900,1.41%,12.1,8.1,4.0
+Brian Robinson Jr.,RB,RB/FLEX,WAS,3,5900,7.17%,10.7,4.7,6.0
+Tee Higgins,WR,WR/FLEX,CIN,3,5900,2.10%,6.9,6.9,0.0
+Jerome Ford,RB,RB/FLEX,CLE,3,5800,6.11%,10.0,10.0,0.0
 Nick Chubb,RB,RB/FLEX,CLE,3,5800,0.0,0.0,0.0,0.0
-T.J. Hockenson,TE,TE/FLEX,MIN,3,5800,0.0,0.0,0.0,0.0
-Derek Carr,QB,QB,NO,3,5800,0.0,0.0,0.0,0.0
-Jameson Williams,WR,WR/FLEX,DET,3,5800,0.0,0.0,0.0,0.0
-Drake London,WR,WR/FLEX,ATL,3,5800,0.0,0.0,0.0,0.0
-Trevor Lawrence,QB,QB,JAX,3,5800,0.0,0.0,0.0,0.0
-Devin Singletary,RB,RB/FLEX,NYG,3,5700,0.0,0.0,0.0,0.0
-Justin Herbert,QB,QB,LAC,3,5700,0.0,0.0,0.0,0.0
-George Pickens,WR,WR/FLEX,PIT,3,5700,0.0,0.0,0.0,0.0
-Raheem Mostert,RB,RB/FLEX,MIA,3,5700,0.0,0.0,0.0,0.0
-Matthew Stafford,QB,QB,LAR,3,5700,0.0,0.0,0.0,0.0
-George Kittle,TE,TE/FLEX,SF,3,5700,0.0,0.0,0.0,0.0
-Austin Ekeler,RB,RB/FLEX,WAS,3,5700,0.0,0.0,0.0,0.0
-Caleb Williams,QB,QB,CHI,3,5600,0.0,0.0,0.0,0.0
-D'Andre Swift,RB,RB/FLEX,CHI,3,5600,0.0,0.0,0.0,0.0
-Najee Harris,RB,RB/FLEX,PIT,3,5600,0.0,0.0,0.0,0.0
-Romeo Doubs,WR,WR/FLEX,GB,3,5600,0.0,0.0,0.0,0.0
-Geno Smith,QB,QB,SEA,3,5600,0.0,0.0,0.0,0.0
-Zack Moss,RB,RB/FLEX,CIN,3,5600,0.0,0.0,0.0,0.0
-Terry McLaurin,WR,WR/FLEX,WAS,3,5600,0.0,0.0,0.0,0.0
-Deshaun Watson,QB,QB,CLE,3,5500,0.0,0.0,0.0,0.0
-Sam Darnold,QB,QB,MIN,3,5500,0.0,0.0,0.0,0.0
-Zamir White,RB,RB/FLEX,LV,3,5500,0.0,0.0,0.0,0.0
-Ezekiel Elliott,RB,RB/FLEX,DAL,3,5500,0.0,0.0,0.0,0.0
-Brandin Cooks,WR,WR/FLEX,DAL,3,5500,0.0,0.0,0.0,0.0
-Samaje Perine,RB,RB/FLEX,KC,3,5500,0.0,0.0,0.0,0.0
-Khalil Shakir,WR,WR/FLEX,BUF,3,5500,0.0,0.0,0.0,0.0
+T.J. Hockenson,TE,TE/FLEX,MIN,3,5800,0.01%,0.0,0.0,0.0
+Derek Carr,QB,QB,NO,3,5800,11.45%,8.98,4.98,4.0
+Jameson Williams,WR,WR/FLEX,DET,3,5800,19.00%,1.2,0.0,0.0
+Drake London,WR,WR/FLEX,ATL,3,5800,5.46%,18.7,12.7,6.0
+Trevor Lawrence,QB,QB,JAX,3,5800,0.71%,10.42,6.42,4.0
+Devin Singletary,RB,RB/FLEX,NYG,3,5700,1.57%,19.8,13.8,6.0
+Justin Herbert,QB,QB,LAC,3,5700,0.05%,9.0,5.0,4.0
+George Pickens,WR,WR/FLEX,PIT,3,5700,2.16%,10.7,10.7,0.0
+Raheem Mostert,RB,RB/FLEX,MIA,3,5700,0.01%,0.0,0.0,0.0
+Matthew Stafford,QB,QB,LAR,3,5700,0.48%,12.84,8.84,4.0
+George Kittle,TE,TE/FLEX,SF,3,5700,1.56%,0.0,0.0,0.0
+Austin Ekeler,RB,RB/FLEX,WAS,3,5700,1.32%,13.7,7.7,6.0
+Caleb Williams,QB,QB,CHI,3,5600,0.70%,23.32,15.32,8.0
+D'Andre Swift,RB,RB/FLEX,CHI,3,5600,2.48%,6.2,6.2,0.0
+Najee Harris,RB,RB/FLEX,PIT,3,5600,1.90%,13.6,13.6,0.0
+Romeo Doubs,WR,WR/FLEX,GB,3,5600,0.55%,2.8,2.8,0.0
+Geno Smith,QB,QB,SEA,3,5600,4.17%,13.36,9.36,4.0
+Zack Moss,RB,RB/FLEX,CIN,3,5600,4.83%,20.7,14.7,6.0
+Terry McLaurin,WR,WR/FLEX,WAS,3,5600,2.12%,23.0,17.0,6.0
+Deshaun Watson,QB,QB,CLE,3,5500,1.14%,18.44,10.44,8.0
+Sam Darnold,QB,QB,MIN,3,5500,3.21%,23.24,7.24,16.0
+Zamir White,RB,RB/FLEX,LV,3,5500,3.89%,3.4,3.4,0.0
+Ezekiel Elliott,RB,RB/FLEX,DAL,3,5500,0.44%,2.2,2.2,0.0
+Brandin Cooks,WR,WR/FLEX,DAL,3,5500,1.48%,3.6,3.6,0.0
+Samaje Perine,RB,RB/FLEX,KC,3,5500,1.30%,7.0,7.0,0.0
+Khalil Shakir,WR,WR/FLEX,BUF,3,5500,9.23%,19.2,13.2,6.0
 Russell Wilson,QB,QB,PIT,3,5400,0.0,0.0,0.0,0.0
-Justin Fields,QB,QB,PIT,3,5400,0.0,0.0,0.0,0.0
-Javonte Williams,RB,RB/FLEX,DEN,3,5400,0.0,0.0,0.0,0.0
-Courtland Sutton,WR,WR/FLEX,DEN,3,5400,0.0,0.0,0.0,0.0
-Alexander Mattison,RB,RB/FLEX,LV,3,5400,0.0,0.0,0.0,0.0
-Brock Bowers,TE,TE/FLEX,LV,3,5400,0.0,0.0,0.0,0.0
-Jaxon Smith-Njigba,WR,WR/FLEX,SEA,3,5400,0.0,0.0,0.0,0.0
-Carson Steele,RB,RB/FLEX,KC,3,5400,0.0,0.0,0.0,0.0
-Braelon Allen,RB,RB/FLEX,NYJ,3,5300,0.0,0.0,0.0,0.0
-Mike Williams,WR,WR/FLEX,NYJ,3,5300,0.0,0.0,0.0,0.0
-Daniel Jones,QB,QB,NYG,3,5300,0.0,0.0,0.0,0.0
-Ty Chandler,RB,RB/FLEX,MIN,3,5300,0.0,0.0,0.0,0.0
-Rashid Shaheed,WR,WR/FLEX,NO,3,5300,0.0,0.0,0.0,0.0
-Jaylen Warren,RB,RB/FLEX,PIT,3,5300,0.0,0.0,0.0,0.0
-DeAndre Hopkins,WR,WR/FLEX,TEN,3,5300,0.0,0.0,0.0,0.0
-Gardner Minshew II,QB,QB,LV,3,5300,0.0,0.0,0.0,0.0
-Dalton Kincaid,TE,TE/FLEX,BUF,3,5300,0.0,0.0,0.0,0.0
-Jerry Jeudy,WR,WR/FLEX,CLE,3,5200,0.0,0.0,0.0,0.0
-Tank Dell,WR,WR/FLEX,HOU,3,5200,0.0,0.0,0.0,0.0
-Kenneth Gainwell,RB,RB/FLEX,PHI,3,5200,0.0,0.0,0.0,0.0
-Easton Stick,QB,QB,LAC,3,5200,0.0,0.0,0.0,0.0
-Will Levis,QB,QB,TEN,3,5200,0.0,0.0,0.0,0.0
-Chuba Hubbard,RB,RB/FLEX,CAR,3,5200,0.0,0.0,0.0,0.0
-Tyler Allgeier,RB,RB/FLEX,ATL,3,5200,0.0,0.0,0.0,0.0
-Christian Kirk,WR,WR/FLEX,JAX,3,5200,0.0,0.0,0.0,0.0
-David Njoku,TE,TE/FLEX,CLE,3,5100,0.0,0.0,0.0,0.0
-Jordan Addison,WR,WR/FLEX,MIN,3,5100,0.0,0.0,0.0,0.0
-Bo Nix,QB,QB,DEN,3,5100,0.0,0.0,0.0,0.0
-Bucky Irving,RB,RB/FLEX,TB,3,5100,0.0,0.0,0.0,0.0
-Miles Sanders,RB,RB/FLEX,CAR,3,5100,0.0,0.0,0.0,0.0
-Jakobi Meyers,WR,WR/FLEX,LV,3,5100,0.0,0.0,0.0,0.0
-Skylar Thompson,QB,QB,MIA,3,5100,0.0,0.0,0.0,0.0
-Tyler Lockett,WR,WR/FLEX,SEA,3,5100,0.0,0.0,0.0,0.0
-Tank Bigsby,RB,RB/FLEX,JAX,3,5100,0.0,0.0,0.0,0.0
-Jacoby Brissett,QB,QB,NE,3,5000,0.0,0.0,0.0,0.0
-Drake Maye,QB,QB,NE,3,5000,0.0,0.0,0.0,0.0
+Justin Fields,QB,QB,PIT,3,5400,0.77%,19.4,9.4,10.0
+Javonte Williams,RB,RB/FLEX,DEN,3,5400,1.13%,7.1,7.1,0.0
+Courtland Sutton,WR,WR/FLEX,DEN,3,5400,0.34%,13.8,13.8,0.0
+Alexander Mattison,RB,RB/FLEX,LV,3,5400,1.96%,13.4,7.4,6.0
+Brock Bowers,TE,TE/FLEX,LV,3,5400,23.83%,7.1,7.1,0.0
+Jaxon Smith-Njigba,WR,WR/FLEX,SEA,3,5400,9.97%,6.9,6.9,0.0
+Carson Steele,RB,RB/FLEX,KC,3,5400,4.56%,8.4,8.4,0.0
+Braelon Allen,RB,RB/FLEX,NYJ,3,5300,2.94%,9.8,9.8,0.0
+Mike Williams,WR,WR/FLEX,NYJ,3,5300,1.53%,6.4,6.4,0.0
+Daniel Jones,QB,QB,NYG,3,5300,0.47%,19.44,11.44,8.0
+Ty Chandler,RB,RB/FLEX,MIN,3,5300,0.35%,1.3,1.3,0.0
+Rashid Shaheed,WR,WR/FLEX,NO,3,5300,26.38%,0.0,0.0,0.0
+Jaylen Warren,RB,RB/FLEX,PIT,3,5300,0.59%,1.1,1.1,0.0
+DeAndre Hopkins,WR,WR/FLEX,TEN,3,5300,0.50%,19.3,13.3,6.0
+Gardner Minshew II,QB,QB,LV,3,5300,3.22%,14.96,10.96,4.0
+Dalton Kincaid,TE,TE/FLEX,BUF,3,5300,2.61%,13.1,7.1,6.0
+Jerry Jeudy,WR,WR/FLEX,CLE,3,5200,3.21%,8.7,8.7,0.0
+Tank Dell,WR,WR/FLEX,HOU,3,5200,6.55%,11.2,11.2,0.0
+Kenneth Gainwell,RB,RB/FLEX,PHI,3,5200,0.05%,3.2,3.2,0.0
+Easton Stick,QB,QB,LAC,3,5200,0.01%,0.0,0.0,0.0
+Will Levis,QB,QB,TEN,3,5200,0.25%,16.6,8.6,8.0
+Chuba Hubbard,RB,RB/FLEX,CAR,3,5200,1.63%,30.9,24.9,6.0
+Tyler Allgeier,RB,RB/FLEX,ATL,3,5200,0.15%,3.2,3.2,0.0
+Christian Kirk,WR,WR/FLEX,JAX,3,5200,0.95%,15.9,15.9,0.0
+David Njoku,TE,TE/FLEX,CLE,3,5100,0.03%,0.0,0.0,0.0
+Jordan Addison,WR,WR/FLEX,MIN,3,5100,0.13%,0.0,0.0,0.0
+Bo Nix,QB,QB,DEN,3,5100,0.29%,19.34,13.34,6.0
+Bucky Irving,RB,RB/FLEX,TB,3,5100,0.87%,11.4,11.4,0.0
+Miles Sanders,RB,RB/FLEX,CAR,3,5100,0.08%,11.0,5.0,6.0
+Jakobi Meyers,WR,WR/FLEX,LV,3,5100,1.66%,21.2,15.2,6.0
+Skylar Thompson,QB,QB,MIA,3,5100,0.62%,4.28,4.28,0.0
+Tyler Lockett,WR,WR/FLEX,SEA,3,5100,1.17%,9.6,9.6,0.0
+Tank Bigsby,RB,RB/FLEX,JAX,3,5100,0.03%,0.9,0.9,0.0
+Jacoby Brissett,QB,QB,NE,3,5000,0.68%,3.92,3.92,0.0
+Drake Maye,QB,QB,NE,3,5000,0.01%,2.08,2.08,0.0
 Jameis Winston,QB,QB,CLE,3,5000,0.0,0.0,0.0,0.0
 Joe Flacco,QB,QB,IND,3,5000,0.0,0.0,0.0,0.0
-Khalil Herbert,RB,RB/FLEX,CHI,3,5000,0.0,0.0,0.0,0.0
-Gus Edwards,RB,RB/FLEX,LAC,3,5000,0.0,0.0,0.0,0.0
-Ladd McConkey,WR,WR/FLEX,LAC,3,5000,0.0,0.0,0.0,0.0
-Malik Willis,QB,QB,GB,3,5000,0.0,0.0,0.0,0.0
+Khalil Herbert,RB,RB/FLEX,CHI,3,5000,0.21%,0.9,0.9,0.0
+Gus Edwards,RB,RB/FLEX,LAC,3,5000,0.25%,0.9,0.9,0.0
+Ladd McConkey,WR,WR/FLEX,LAC,3,5000,1.17%,7.4,7.4,0.0
+Malik Willis,QB,QB,GB,3,5000,0.22%,25.38,15.38,10.0
 Bryce Young,QB,QB,CAR,3,5000,0.0,0.0,0.0,0.0
 Jonathon Brooks,RB,RB/FLEX,CAR,3,5000,0.0,0.0,0.0,0.0
-Adam Thielen,WR,WR/FLEX,CAR,3,5000,0.0,0.0,0.0,0.0
-Demarcus Robinson,WR,WR/FLEX,LAR,3,5000,0.0,0.0,0.0,0.0
-Michael Penix Jr.,QB,QB,ATL,3,5000,0.0,0.0,0.0,0.0
-Kyle Pitts,TE,TE/FLEX,ATL,3,5000,0.0,0.0,0.0,0.0
+Adam Thielen,WR,WR/FLEX,CAR,3,5000,1.88%,13.0,7.0,6.0
+Demarcus Robinson,WR,WR/FLEX,LAR,3,5000,6.67%,4.2,4.2,0.0
+Michael Penix Jr.,QB,QB,ATL,3,5000,0.01%,0.0,0.0,0.0
+Kyle Pitts,TE,TE/FLEX,ATL,3,5000,5.38%,7.9,7.9,0.0
 Kenny Pickett,QB,QB,PHI,3,4900,0.0,0.0,0.0,0.0
-Tyjae Spears,RB,RB/FLEX,TEN,3,4900,0.0,0.0,0.0,0.0
-Christian Watson,WR,WR/FLEX,GB,3,4900,0.0,0.0,0.0,0.0
-Diontae Johnson,WR,WR/FLEX,CAR,3,4900,0.0,0.0,0.0,0.0
-Sam Howell,QB,QB,SEA,3,4900,0.0,0.0,0.0,0.0
-Trey Benson,RB,RB/FLEX,ARI,3,4900,0.0,0.0,0.0,0.0
-Justice Hill,RB,RB/FLEX,BAL,3,4900,0.0,0.0,0.0,0.0
+Tyjae Spears,RB,RB/FLEX,TEN,3,4900,0.24%,10.1,10.1,0.0
+Christian Watson,WR,WR/FLEX,GB,3,4900,0.35%,8.7,8.7,0.0
+Diontae Johnson,WR,WR/FLEX,CAR,3,4900,3.47%,29.2,23.2,6.0
+Sam Howell,QB,QB,SEA,3,4900,0.01%,0.0,0.0,0.0
+Trey Benson,RB,RB/FLEX,ARI,3,4900,0.03%,0.8,0.8,0.0
+Justice Hill,RB,RB/FLEX,BAL,3,4900,0.96%,7.4,7.4,0.0
 Mac Jones,QB,QB,JAX,3,4900,0.0,0.0,0.0,0.0
-Brian Thomas Jr.,WR,WR/FLEX,JAX,3,4900,0.0,0.0,0.0,0.0
-Evan Engram,TE,TE/FLEX,JAX,3,4900,0.0,0.0,0.0,0.0
-Antonio Gibson,RB,RB/FLEX,NE,3,4800,0.0,0.0,0.0,0.0
-Alec Pierce,WR,WR/FLEX,IND,3,4800,0.0,0.0,0.0,0.0
-Dameon Pierce,RB,RB/FLEX,HOU,3,4800,0.0,0.0,0.0,0.0
-Will Shipley,RB,RB/FLEX,PHI,3,4800,0.0,0.0,0.0,0.0
-Joshua Palmer,WR,WR/FLEX,LAC,3,4800,0.0,0.0,0.0,0.0
-Andy Dalton,QB,QB,CAR,3,4800,0.0,0.0,0.0,0.0
+Brian Thomas Jr.,WR,WR/FLEX,JAX,3,4900,4.01%,9.8,9.8,0.0
+Evan Engram,TE,TE/FLEX,JAX,3,4900,0.03%,0.0,0.0,0.0
+Antonio Gibson,RB,RB/FLEX,NE,3,4800,1.19%,6.7,6.7,0.0
+Alec Pierce,WR,WR/FLEX,IND,3,4800,10.06%,5.4,5.4,0.0
+Dameon Pierce,RB,RB/FLEX,HOU,3,4800,0.03%,0.0,0.0,0.0
+Will Shipley,RB,RB/FLEX,PHI,3,4800,0.03%,0.0,0.0,0.0
+Joshua Palmer,WR,WR/FLEX,LAC,3,4800,0.02%,0.0,0.0,0.0
+Andy Dalton,QB,QB,CAR,3,4800,2.18%,27.56,15.56,12.0
 Aidan O'Connell,QB,QB,LV,3,4800,0.0,0.0,0.0,0.0
 Desmond Ridder,QB,QB,ARI,3,4800,0.0,0.0,0.0,0.0
-Rico Dowdle,RB,RB/FLEX,DAL,3,4800,0.0,0.0,0.0,0.0
-Mark Andrews,TE,TE/FLEX,BAL,3,4800,0.0,0.0,0.0,0.0
-Keon Coleman,WR,WR/FLEX,BUF,3,4800,0.0,0.0,0.0,0.0
+Rico Dowdle,RB,RB/FLEX,DAL,3,4800,0.62%,8.6,8.6,0.0
+Mark Andrews,TE,TE/FLEX,BAL,3,4800,3.75%,0.0,0.0,0.0
+Keon Coleman,WR,WR/FLEX,BUF,3,4800,1.97%,9.4,3.4,6.0
 Jake Browning,QB,QB,CIN,3,4800,0.0,0.0,0.0,0.0
 Tyrod Taylor,QB,QB,NYJ,3,4700,0.0,0.0,0.0,0.0
 Drew Lock,QB,QB,NYG,3,4700,0.0,0.0,0.0,0.0
 Tyson Bagent,QB,QB,CHI,3,4700,0.0,0.0,0.0,0.0
-Josh Downs,WR,WR/FLEX,IND,3,4700,0.0,0.0,0.0,0.0
+Josh Downs,WR,WR/FLEX,IND,3,4700,0.66%,5.2,5.2,0.0
 Davis Mills,QB,QB,HOU,3,4700,0.0,0.0,0.0,0.0
-Cam Akers,RB,RB/FLEX,HOU,3,4700,0.0,0.0,0.0,0.0
+Cam Akers,RB,RB/FLEX,HOU,3,4700,6.85%,9.9,3.9,6.0
 Mason Rudolph,QB,QB,TEN,3,4700,0.0,0.0,0.0,0.0
 MarShawn Lloyd,RB,RB/FLEX,GB,3,4700,0.0,0.0,0.0,0.0
-Isaiah Likely,TE,TE/FLEX,BAL,3,4700,0.0,0.0,0.0,0.0
-Tyler Johnson,WR,WR/FLEX,LAR,3,4700,0.0,0.0,0.0,0.0
+Isaiah Likely,TE,TE/FLEX,BAL,3,4700,5.43%,1.4,1.4,0.0
+Tyler Johnson,WR,WR/FLEX,LAR,3,4700,2.15%,5.0,5.0,0.0
 Carson Wentz,QB,QB,KC,3,4700,0.0,0.0,0.0,0.0
 Mitchell Trubisky,QB,QB,BUF,3,4700,0.0,0.0,0.0,0.0
 Jake Haener,QB,QB,NO,3,4600,0.0,0.0,0.0,0.0
-Dallas Goedert,TE,TE/FLEX,PHI,3,4600,0.0,0.0,0.0,0.0
-Quentin Johnston,WR,WR/FLEX,LAC,3,4600,0.0,0.0,0.0,0.0
-Dontayvion Wicks,WR,WR/FLEX,GB,3,4600,0.0,0.0,0.0,0.0
+Dallas Goedert,TE,TE/FLEX,PHI,3,4600,2.94%,30.0,30.0,0.0
+Quentin Johnston,WR,WR/FLEX,LAC,3,4600,4.46%,12.4,6.4,6.0
+Dontayvion Wicks,WR,WR/FLEX,GB,3,4600,0.33%,0.0,0.0,0.0
 Tim Boyle,QB,QB,MIA,3,4600,0.0,0.0,0.0,0.0
 Zay Jones,WR,WR/FLEX,ARI,3,4600,0.0,0.0,0.0,0.0
 Cooper Rush,QB,QB,DAL,3,4600,0.0,0.0,0.0,0.0
-Blake Corum,RB,RB/FLEX,LAR,3,4600,0.0,0.0,0.0,0.0
-Chase Brown,RB,RB/FLEX,CIN,3,4600,0.0,0.0,0.0,0.0
-Dare Ogunbowale,RB,RB/FLEX,HOU,3,4500,0.0,0.0,0.0,0.0
-Jamaal Williams,RB,RB/FLEX,NO,3,4500,0.0,0.0,0.0,0.0
-Jahan Dotson,WR,WR/FLEX,PHI,3,4500,0.0,0.0,0.0,0.0
+Blake Corum,RB,RB/FLEX,LAR,3,4600,0.03%,0.0,0.0,0.0
+Chase Brown,RB,RB/FLEX,CIN,3,4600,0.33%,8.9,8.9,0.0
+Dare Ogunbowale,RB,RB/FLEX,HOU,3,4500,0.06%,4.8,4.8,0.0
+Jamaal Williams,RB,RB/FLEX,NO,3,4500,0.40%,0.9,0.9,0.0
+Jahan Dotson,WR,WR/FLEX,PHI,3,4500,0.35%,2.8,2.8,0.0
 Taylor Heinicke,QB,QB,LAC,3,4500,0.0,0.0,0.0,0.0
 Jarrett Stidham,QB,QB,DEN,3,4500,0.0,0.0,0.0,0.0
 Sean Clifford,QB,QB,GB,3,4500,0.0,0.0,0.0,0.0
-Xavier Legette,WR,WR/FLEX,CAR,3,4500,0.0,0.0,0.0,0.0
-Greg Dortch,WR,WR/FLEX,ARI,3,4500,0.0,0.0,0.0,0.0
-Jake Ferguson,TE,TE/FLEX,DAL,3,4500,0.0,0.0,0.0,0.0
+Xavier Legette,WR,WR/FLEX,CAR,3,4500,0.27%,6.2,6.2,0.0
+Greg Dortch,WR,WR/FLEX,ARI,3,4500,0.88%,6.5,6.5,0.0
+Jake Ferguson,TE,TE/FLEX,DAL,3,4500,2.03%,15.5,15.5,0.0
 Joshua Dobbs,QB,QB,SF,3,4500,0.0,0.0,0.0,0.0
-Isaac Guerendo,RB,RB/FLEX,SF,3,4500,0.0,0.0,0.0,0.0
+Isaac Guerendo,RB,RB/FLEX,SF,3,4500,0.19%,1.9,1.9,0.0
 Jeff Driskel,QB,QB,WAS,3,4500,0.0,0.0,0.0,0.0
-D'Onta Foreman,RB,RB/FLEX,CLE,3,4400,0.0,0.0,0.0,0.0
-Wan'Dale Robinson,WR,WR/FLEX,NYG,3,4400,0.0,0.0,0.0,0.0
-Jalen Nailor,WR,WR/FLEX,MIN,3,4400,0.0,0.0,0.0,0.0
-Jaleel McLaughlin,RB,RB/FLEX,DEN,3,4400,0.0,0.0,0.0,0.0
-Josh Reynolds,WR,WR/FLEX,DEN,3,4400,0.0,0.0,0.0,0.0
-Jeff Wilson Jr.,RB,RB/FLEX,MIA,3,4400,0.0,0.0,0.0,0.0
-D'Ernest Johnson,RB,RB/FLEX,JAX,3,4400,0.0,0.0,0.0,0.0
-Curtis Samuel,WR,WR/FLEX,BUF,3,4400,0.0,0.0,0.0,0.0
-DeMario Douglas,WR,WR/FLEX,NE,3,4300,0.0,0.0,0.0,0.0
-Hunter Henry,TE,TE/FLEX,NE,3,4300,0.0,0.0,0.0,0.0
-Trey Sermon,RB,RB/FLEX,IND,3,4300,0.0,0.0,0.0,0.0
+D'Onta Foreman,RB,RB/FLEX,CLE,3,4400,0.92%,0.5,0.5,0.0
+Wan'Dale Robinson,WR,WR/FLEX,NYG,3,4400,0.71%,13.1,13.1,0.0
+Jalen Nailor,WR,WR/FLEX,MIN,3,4400,4.14%,12.4,6.4,6.0
+Jaleel McLaughlin,RB,RB/FLEX,DEN,3,4400,0.19%,8.4,2.4,6.0
+Josh Reynolds,WR,WR/FLEX,DEN,3,4400,1.45%,5.6,5.6,0.0
+Jeff Wilson Jr.,RB,RB/FLEX,MIA,3,4400,0.07%,1.4,1.4,0.0
+D'Ernest Johnson,RB,RB/FLEX,JAX,3,4400,0.05%,1.2,1.2,0.0
+Curtis Samuel,WR,WR/FLEX,BUF,3,4400,0.23%,5.2,5.2,0.0
+DeMario Douglas,WR,WR/FLEX,NE,3,4300,0.42%,14.8,0.0,0.0
+Hunter Henry,TE,TE/FLEX,NE,3,4300,11.98%,2.9,2.9,0.0
+Trey Sermon,RB,RB/FLEX,IND,3,4300,0.01%,7.6,1.6,6.0
 Nick Mullens,QB,QB,MIN,3,4300,0.0,0.0,0.0,0.0
-Dalton Schultz,TE,TE/FLEX,HOU,3,4300,0.0,0.0,0.0,0.0
-Emanuel Wilson,RB,RB/FLEX,GB,3,4300,0.0,0.0,0.0,0.0
-Tyler Boyd,WR,WR/FLEX,TEN,3,4300,0.0,0.0,0.0,0.0
-Kenny McIntosh,RB,RB/FLEX,SEA,3,4300,0.0,0.0,0.0,0.0
-Jaylen Wright,RB,RB/FLEX,MIA,3,4300,0.0,0.0,0.0,0.0
-Tutu Atwell,WR,WR/FLEX,LAR,3,4300,0.0,0.0,0.0,0.0
-Ray Davis,RB,RB/FLEX,BUF,3,4300,0.0,0.0,0.0,0.0
-Andrei Iosivas,WR,WR/FLEX,CIN,3,4300,0.0,0.0,0.0,0.0
+Dalton Schultz,TE,TE/FLEX,HOU,3,4300,0.87%,3.1,3.1,0.0
+Emanuel Wilson,RB,RB/FLEX,GB,3,4300,0.19%,16.5,10.5,6.0
+Tyler Boyd,WR,WR/FLEX,TEN,3,4300,0.13%,6.3,6.3,0.0
+Kenny McIntosh,RB,RB/FLEX,SEA,3,4300,0.02%,1.1,1.1,0.0
+Jaylen Wright,RB,RB/FLEX,MIA,3,4300,0.04%,1.7,1.7,0.0
+Tutu Atwell,WR,WR/FLEX,LAR,3,4300,1.02%,13.3,13.3,0.0
+Ray Davis,RB,RB/FLEX,BUF,3,4300,0.08%,9.3,3.3,6.0
+Andrei Iosivas,WR,WR/FLEX,CIN,3,4300,4.61%,16.2,10.2,6.0
 Tommy DeVito,QB,QB,NYG,3,4200,0.0,0.0,0.0,0.0
-Tyrone Tracy Jr.,RB,RB/FLEX,NYG,3,4200,0.0,0.0,0.0,0.0
-Rome Odunze,WR,WR/FLEX,CHI,3,4200,0.0,0.0,0.0,0.0
-Cordarrelle Patterson,RB,RB/FLEX,PIT,3,4200,0.0,0.0,0.0,0.0
+Tyrone Tracy Jr.,RB,RB/FLEX,NYG,3,4200,0.01%,6.0,6.0,0.0
+Rome Odunze,WR,WR/FLEX,CHI,3,4200,1.78%,26.4,20.4,6.0
+Cordarrelle Patterson,RB,RB/FLEX,PIT,3,4200,0.04%,7.8,7.8,0.0
 Julius Chestnut,RB,RB/FLEX,TEN,3,4200,0.0,0.0,0.0,0.0
-Emari Demercado,RB,RB/FLEX,ARI,3,4200,0.0,0.0,0.0,0.0
-Jordan Whittington,WR,WR/FLEX,LAR,3,4200,0.0,0.0,0.0,0.0
-Ty Johnson,RB,RB/FLEX,BUF,3,4200,0.0,0.0,0.0,0.0
-Gabe Davis,WR,WR/FLEX,JAX,3,4200,0.0,0.0,0.0,0.0
-Sean Tucker,RB,RB/FLEX,TB,3,4100,0.0,0.0,0.0,0.0
-Michael Wilson,WR,WR/FLEX,ARI,3,4100,0.0,0.0,0.0,0.0
-Jauan Jennings,WR,WR/FLEX,SF,3,4100,0.0,0.0,0.0,0.0
-Darnell Mooney,WR,WR/FLEX,ATL,3,4100,0.0,0.0,0.0,0.0
+Emari Demercado,RB,RB/FLEX,ARI,3,4200,0.04%,0.7,0.7,0.0
+Jordan Whittington,WR,WR/FLEX,LAR,3,4200,1.92%,5.8,5.8,0.0
+Ty Johnson,RB,RB/FLEX,BUF,3,4200,0.06%,13.6,7.6,6.0
+Gabe Davis,WR,WR/FLEX,JAX,3,4200,2.71%,3.8,3.8,0.0
+Sean Tucker,RB,RB/FLEX,TB,3,4100,0.02%,0.4,0.4,0.0
+Michael Wilson,WR,WR/FLEX,ARI,3,4100,0.62%,14.4,14.4,0.0
+Jauan Jennings,WR,WR/FLEX,SF,3,4100,8.48%,49.5,31.5,18.0
+Darnell Mooney,WR,WR/FLEX,ATL,3,4100,3.37%,14.6,14.6,0.0
 Tyler Huntley,QB,QB,MIA,3,4000,0.0,0.0,0.0,0.0
 Jordan Travis,QB,QB,NYJ,3,4000,0.0,0.0,0.0,0.0
 Adrian Martinez,QB,QB,NYJ,3,4000,0.0,0.0,0.0,0.0
 Joe Milton III,QB,QB,NE,3,4000,0.0,0.0,0.0,0.0
-Isaiah Davis,RB,RB/FLEX,NYJ,3,4000,0.0,0.0,0.0,0.0
+Isaiah Davis,RB,RB/FLEX,NYJ,3,4000,0.01%,0.6,0.6,0.0
 Israel Abanikanda,RB,RB/FLEX,NYJ,3,4000,0.0,0.0,0.0,0.0
 Kene Nwangwu,RB,RB/FLEX,NYJ,3,4000,0.0,0.0,0.0,0.0
-JaMycal Hasty,RB,RB/FLEX,NE,3,4000,0.0,0.0,0.0,0.0
+JaMycal Hasty,RB,RB/FLEX,NE,3,4000,0.02%,0.5,0.5,0.0
 Kevin Harris,RB,RB/FLEX,NE,3,4000,0.0,0.0,0.0,0.0
-Terrell Jennings,RB,RB/FLEX,NE,3,4000,0.0,0.0,0.0,0.0
+Terrell Jennings,RB,RB/FLEX,NE,3,4000,0.01%,0.0,0.0,0.0
 Dorian Thompson-Robinson,QB,QB,CLE,3,4000,0.0,0.0,0.0,0.0
 Eric Gray,RB,RB/FLEX,NYG,3,4000,0.0,0.0,0.0,0.0
 Jashaun Corbin,RB,RB/FLEX,NYG,3,4000,0.0,0.0,0.0,0.0
 Dante Miller,RB,RB/FLEX,NYG,3,4000,0.0,0.0,0.0,0.0
-Pierre Strong Jr.,RB,RB/FLEX,CLE,3,4000,0.0,0.0,0.0,0.0
+Pierre Strong Jr.,RB,RB/FLEX,CLE,3,4000,0.01%,0.0,0.0,0.0
 Nyheim Hines,RB,RB/FLEX,CLE,3,4000,0.0,0.0,0.0,0.0
 Gary Brightwell,RB,RB/FLEX,CLE,3,4000,0.0,0.0,0.0,0.0
 Sam Ehlinger,QB,QB,IND,3,4000,0.0,0.0,0.0,0.0
 Jason Bean,QB,QB,IND,3,4000,0.0,0.0,0.0,0.0
 Austin Reed,QB,QB,CHI,3,4000,0.0,0.0,0.0,0.0
-Tyler Goodson,RB,RB/FLEX,IND,3,4000,0.0,0.0,0.0,0.0
+Tyler Goodson,RB,RB/FLEX,IND,3,4000,0.03%,0.0,0.0,0.0
 Evan Hull,RB,RB/FLEX,IND,3,4000,0.0,0.0,0.0,0.0
 Travis Homer,RB,RB/FLEX,CHI,3,4000,0.0,0.0,0.0,0.0
-Roschon Johnson,RB,RB/FLEX,CHI,3,4000,0.0,0.0,0.0,0.0
+Roschon Johnson,RB,RB/FLEX,CHI,3,4000,0.01%,10.2,10.2,0.0
 Ian Wheeler,RB,RB/FLEX,CHI,3,4000,0.0,0.0,0.0,0.0
 Khari Blasingame,RB,RB/FLEX,CHI,3,4000,0.0,0.0,0.0,0.0
-Adonai Mitchell,WR,WR/FLEX,IND,3,4000,0.0,0.0,0.0,0.0
+Adonai Mitchell,WR,WR/FLEX,IND,3,4000,0.08%,0.0,0.0,0.0
 Brett Rypien,QB,QB,MIN,3,4000,0.0,0.0,0.0,0.0
 J.J. McCarthy,QB,QB,MIN,3,4000,0.0,0.0,0.0,0.0
 Case Keenum,QB,QB,HOU,3,4000,0.0,0.0,0.0,0.0
 Kedon Slovis,QB,QB,HOU,3,4000,0.0,0.0,0.0,0.0
 Myles Gaskin,RB,RB/FLEX,MIN,3,4000,0.0,0.0,0.0,0.0
 Zavier Scott,RB,RB/FLEX,MIN,3,4000,0.0,0.0,0.0,0.0
-C.J. Ham,RB,RB/FLEX,MIN,3,4000,0.0,0.0,0.0,0.0
+C.J. Ham,RB,RB/FLEX,MIN,3,4000,0.01%,0.0,0.0,0.0
 British Brooks,RB,RB/FLEX,HOU,3,4000,0.0,0.0,0.0,0.0
 Troy Hairston,RB,RB/FLEX,HOU,3,4000,0.0,0.0,0.0,0.0
 J.J. Taylor,RB,RB/FLEX,HOU,3,4000,0.0,0.0,0.0,0.0
@@ -1729,14 +1729,14 @@ Jaret Patterson,RB,RB/FLEX,LAC,3,4000,0.0,0.0,0.0,0.0
 Aaron Shampklin,RB,RB/FLEX,PIT,3,4000,0.0,0.0,0.0,0.0
 Jonathan Ward,RB,RB/FLEX,PIT,3,4000,0.0,0.0,0.0,0.0
 Jack Colletto,RB,RB/FLEX,PIT,3,4000,0.0,0.0,0.0,0.0
-Pat Freiermuth,TE,TE/FLEX,PIT,3,4000,0.0,0.0,0.0,0.0
+Pat Freiermuth,TE,TE/FLEX,PIT,3,4000,2.57%,7.3,7.3,0.0
 Kyle Trask,QB,QB,TB,3,4000,0.0,0.0,0.0,0.0
 Michael Pratt,QB,QB,TB,3,4000,0.0,0.0,0.0,0.0
 Zach Wilson,QB,QB,DEN,3,4000,0.0,0.0,0.0,0.0
 Chase Edmonds,RB,RB/FLEX,TB,3,4000,0.0,0.0,0.0,0.0
 D.J. Williams,RB,RB/FLEX,TB,3,4000,0.0,0.0,0.0,0.0
 Blake Watson,RB,RB/FLEX,DEN,3,4000,0.0,0.0,0.0,0.0
-Tyler Badie,RB,RB/FLEX,DEN,3,4000,0.0,0.0,0.0,0.0
+Tyler Badie,RB,RB/FLEX,DEN,3,4000,0.01%,7.0,7.0,0.0
 Audric Estime,RB,RB/FLEX,DEN,3,4000,0.0,0.0,0.0,0.0
 Michael Burton,RB,RB/FLEX,DEN,3,4000,0.0,0.0,0.0,0.0
 Jabari Small,RB,RB/FLEX,TEN,3,4000,0.0,0.0,0.0,0.0
@@ -1749,20 +1749,20 @@ Carter Bradley,QB,QB,LV,3,4000,0.0,0.0,0.0,0.0
 Raheem Blackshear,RB,RB/FLEX,CAR,3,4000,0.0,0.0,0.0,0.0
 Mike Boone,RB,RB/FLEX,CAR,3,4000,0.0,0.0,0.0,0.0
 Dillon Johnson,RB,RB/FLEX,CAR,3,4000,0.0,0.0,0.0,0.0
-Ameer Abdullah,RB,RB/FLEX,LV,3,4000,0.0,0.0,0.0,0.0
+Ameer Abdullah,RB,RB/FLEX,LV,3,4000,0.01%,3.3,3.3,0.0
 Dylan Laube,RB,RB/FLEX,LV,3,4000,0.0,0.0,0.0,0.0
 Sincere McCormick,RB,RB/FLEX,LV,3,4000,0.0,0.0,0.0,0.0
-Tyreik McAllister,WR,WR/FLEX,LV,3,4000,0.0,0.0,0.0,0.0
+Tyreik McAllister,WR,WR/FLEX,LV,3,4000,0.01%,0.0,0.0,0.0
 Jaren Hall,QB,QB,SEA,3,4000,0.0,0.0,0.0,0.0
-George Holani,RB,RB/FLEX,SEA,3,4000,0.0,0.0,0.0,0.0
+George Holani,RB,RB/FLEX,SEA,3,4000,0.01%,0.0,0.0,0.0
 Alec Ingold,RB,RB/FLEX,MIA,3,4000,0.0,0.0,0.0,0.0
 Deneric Prince,RB,RB/FLEX,MIA,3,4000,0.0,0.0,0.0,0.0
 Clayton Tune,QB,QB,ARI,3,4000,0.0,0.0,0.0,0.0
 Hendon Hooker,QB,QB,DET,3,4000,0.0,0.0,0.0,0.0
 Jake Fromm,QB,QB,DET,3,4000,0.0,0.0,0.0,0.0
-DeeJay Dallas,RB,RB/FLEX,ARI,3,4000,0.0,0.0,0.0,0.0
+DeeJay Dallas,RB,RB/FLEX,ARI,3,4000,0.01%,0.0,0.0,0.0
 Michael Carter,RB,RB/FLEX,ARI,3,4000,0.0,0.0,0.0,0.0
-Craig Reynolds,RB,RB/FLEX,DET,3,4000,0.0,0.0,0.0,0.0
+Craig Reynolds,RB,RB/FLEX,DET,3,4000,0.02%,0.0,0.0,0.0
 Sione Vaki,RB,RB/FLEX,DET,3,4000,0.0,0.0,0.0,0.0
 Jermar Jefferson,RB,RB/FLEX,DET,3,4000,0.0,0.0,0.0,0.0
 Josh Johnson,QB,QB,BAL,3,4000,0.0,0.0,0.0,0.0
@@ -1773,9 +1773,9 @@ Keaton Mitchell,RB,RB/FLEX,BAL,3,4000,0.0,0.0,0.0,0.0
 Rasheen Ali,RB,RB/FLEX,BAL,3,4000,0.0,0.0,0.0,0.0
 Owen Wright,RB,RB/FLEX,BAL,3,4000,0.0,0.0,0.0,0.0
 Chris Collier,RB,RB/FLEX,BAL,3,4000,0.0,0.0,0.0,0.0
-Patrick Ricard,RB,RB/FLEX,BAL,3,4000,0.0,0.0,0.0,0.0
+Patrick Ricard,RB,RB/FLEX,BAL,3,4000,0.01%,0.0,0.0,0.0
 Deuce Vaughn,RB,RB/FLEX,DAL,3,4000,0.0,0.0,0.0,0.0
-Dalvin Cook,RB,RB/FLEX,DAL,3,4000,0.0,0.0,0.0,0.0
+Dalvin Cook,RB,RB/FLEX,DAL,3,4000,0.01%,0.0,0.0,0.0
 Malik Davis,RB,RB/FLEX,DAL,3,4000,0.0,0.0,0.0,0.0
 Hunter Luepke,RB,RB/FLEX,DAL,3,4000,0.0,0.0,0.0,0.0
 Brandon Allen,QB,QB,SF,3,4000,0.0,0.0,0.0,0.0
@@ -1784,14 +1784,14 @@ Stetson Bennett,QB,QB,LAR,3,4000,0.0,0.0,0.0,0.0
 Jimmy Garoppolo,QB,QB,LAR,3,4000,0.0,0.0,0.0,0.0
 Patrick Taylor Jr.,RB,RB/FLEX,SF,3,4000,0.0,0.0,0.0,0.0
 Elijah Mitchell,RB,RB/FLEX,SF,3,4000,0.0,0.0,0.0,0.0
-Kyle Juszczyk,RB,RB/FLEX,SF,3,4000,0.0,0.0,0.0,0.0
+Kyle Juszczyk,RB,RB/FLEX,SF,3,4000,0.19%,1.6,1.6,0.0
 Ke'Shawn Vaughn,RB,RB/FLEX,SF,3,4000,0.0,0.0,0.0,0.0
-Ronnie Rivers,RB,RB/FLEX,LAR,3,4000,0.0,0.0,0.0,0.0
+Ronnie Rivers,RB,RB/FLEX,LAR,3,4000,0.01%,0.9,0.9,0.0
 Cody Schrader,RB,RB/FLEX,LAR,3,4000,0.0,0.0,0.0,0.0
 Bailey Zappe,QB,QB,KC,3,4000,0.0,0.0,0.0,0.0
 Nathan Peterman,QB,QB,ATL,3,4000,0.0,0.0,0.0,0.0
 Clyde Edwards-Helaire,RB,RB/FLEX,KC,3,4000,0.0,0.0,0.0,0.0
-Keaontay Ingram,RB,RB/FLEX,KC,3,4000,0.0,0.0,0.0,0.0
+Keaontay Ingram,RB,RB/FLEX,KC,3,4000,0.02%,0.0,0.0,0.0
 Emani Bailey,RB,RB/FLEX,KC,3,4000,0.0,0.0,0.0,0.0
 Avery Williams,RB,RB/FLEX,ATL,3,4000,0.0,0.0,0.0,0.0
 Jase McClellan,RB,RB/FLEX,ATL,3,4000,0.0,0.0,0.0,0.0
@@ -1804,7 +1804,7 @@ Keilan Robinson,RB,RB/FLEX,JAX,3,4000,0.0,0.0,0.0,0.0
 Jalen Jackson,RB,RB/FLEX,JAX,3,4000,0.0,0.0,0.0,0.0
 Darrynton Evans,RB,RB/FLEX,BUF,3,4000,0.0,0.0,0.0,0.0
 Reggie Gilliam,RB,RB/FLEX,BUF,3,4000,0.0,0.0,0.0,0.0
-Frank Gore Jr.,RB,RB/FLEX,BUF,3,4000,0.0,0.0,0.0,0.0
+Frank Gore Jr.,RB,RB/FLEX,BUF,3,4000,0.01%,0.0,0.0,0.0
 Sam Hartman,QB,QB,WAS,3,4000,0.0,0.0,0.0,0.0
 Marcus Mariota,QB,QB,WAS,3,4000,0.0,0.0,0.0,0.0
 Logan Woodside,QB,QB,CIN,3,4000,0.0,0.0,0.0,0.0
@@ -1814,102 +1814,102 @@ Chris Rodriguez Jr.,RB,RB/FLEX,WAS,3,4000,0.0,0.0,0.0,0.0
 Trayveon Williams,RB,RB/FLEX,CIN,3,4000,0.0,0.0,0.0,0.0
 Chris Evans,RB,RB/FLEX,CIN,3,4000,0.0,0.0,0.0,0.0
 Kendall Milton,RB,RB/FLEX,CIN,3,4000,0.0,0.0,0.0,0.0
-Ja'Lynn Polk,WR,WR/FLEX,NE,3,3900,0.0,0.0,0.0,0.0
-Darius Slayton,WR,WR/FLEX,NYG,3,3900,0.0,0.0,0.0,0.0
-Cole Kmet,TE,TE/FLEX,CHI,3,3900,0.0,0.0,0.0,0.0
-Allen Lazard,WR,WR/FLEX,NYJ,3,3800,0.0,0.0,0.0,0.0
-Browns,DST,DST,CLE,3,3800,0.0,0.0,0.0,0.0
-Taysom Hill,TE,TE/FLEX,NO,3,3800,0.0,0.0,0.0,0.0
-Rashod Bateman,WR,WR/FLEX,BAL,3,3800,0.0,0.0,0.0,0.0
-Jalen Tolbert,WR,WR/FLEX,DAL,3,3800,0.0,0.0,0.0,0.0
-Jalen McMillan,WR,WR/FLEX,TB,3,3700,0.0,0.0,0.0,0.0
-Chig Okonkwo,TE,TE/FLEX,TEN,3,3700,0.0,0.0,0.0,0.0
-Raiders,DST,DST,LV,3,3700,0.0,0.0,0.0,0.0
-Luke McCaffrey,WR,WR/FLEX,WAS,3,3700,0.0,0.0,0.0,0.0
-Zach Ertz,TE,TE/FLEX,WAS,3,3700,0.0,0.0,0.0,0.0
-K.J. Osborn,WR,WR/FLEX,NE,3,3600,0.0,0.0,0.0,0.0
-Elijah Moore,WR,WR/FLEX,CLE,3,3600,0.0,0.0,0.0,0.0
-Chargers,DST,DST,LAC,3,3600,0.0,0.0,0.0,0.0
-Kalif Raymond,WR,WR/FLEX,DET,3,3600,0.0,0.0,0.0,0.0
-Colby Parkinson,TE,TE/FLEX,LAR,3,3600,0.0,0.0,0.0,0.0
-Ray-Ray McCloud III,WR,WR/FLEX,ATL,3,3600,0.0,0.0,0.0,0.0
-Mike Gesicki,TE,TE/FLEX,CIN,3,3600,0.0,0.0,0.0,0.0
-Jets,DST,DST,NYJ,3,3500,0.0,0.0,0.0,0.0
-Cedrick Wilson Jr.,WR,WR/FLEX,NO,3,3500,0.0,0.0,0.0,0.0
-Juwan Johnson,TE,TE/FLEX,NO,3,3500,0.0,0.0,0.0,0.0
-Noah Fant,TE,TE/FLEX,SEA,3,3500,0.0,0.0,0.0,0.0
-Seahawks,DST,DST,SEA,3,3500,0.0,0.0,0.0,0.0
-Nelson Agholor,WR,WR/FLEX,BAL,3,3500,0.0,0.0,0.0,0.0
-49ers,DST,DST,SF,3,3500,0.0,0.0,0.0,0.0
-Trenton Irwin,WR,WR/FLEX,CIN,3,3500,0.0,0.0,0.0,0.0
-Xavier Gipson,WR,WR/FLEX,NYJ,3,3400,0.0,0.0,0.0,0.0
-Brandon Powell,WR,WR/FLEX,MIN,3,3400,0.0,0.0,0.0,0.0
-Devaughn Vele,WR,WR/FLEX,DEN,3,3400,0.0,0.0,0.0,0.0
-Cade Otton,TE,TE/FLEX,TB,3,3400,0.0,0.0,0.0,0.0
-Jonnu Smith,TE,TE/FLEX,MIA,3,3400,0.0,0.0,0.0,0.0
-Cowboys,DST,DST,DAL,3,3400,0.0,0.0,0.0,0.0
-Chiefs,DST,DST,KC,3,3400,0.0,0.0,0.0,0.0
-Tyler Conklin,TE,TE/FLEX,NYJ,3,3300,0.0,0.0,0.0,0.0
-Johnny Wilson,WR,WR/FLEX,PHI,3,3300,0.0,0.0,0.0,0.0
-Van Jefferson,WR,WR/FLEX,PIT,3,3300,0.0,0.0,0.0,0.0
-Steelers,DST,DST,PIT,3,3300,0.0,0.0,0.0,0.0
-Marvin Mims Jr.,WR,WR/FLEX,DEN,3,3300,0.0,0.0,0.0,0.0
-Packers,DST,DST,GB,3,3300,0.0,0.0,0.0,0.0
-Tre Tucker,WR,WR/FLEX,LV,3,3300,0.0,0.0,0.0,0.0
-Tim Patrick,WR,WR/FLEX,DET,3,3300,0.0,0.0,0.0,0.0
-KaVontae Turpin,WR,WR/FLEX,DAL,3,3300,0.0,0.0,0.0,0.0
-Luke Schoonmaker,TE,TE/FLEX,DAL,3,3300,0.0,0.0,0.0,0.0
+Ja'Lynn Polk,WR,WR/FLEX,NE,3,3900,0.99%,3.3,3.3,0.0
+Darius Slayton,WR,WR/FLEX,NYG,3,3900,0.25%,1.7,0.0,0.0
+Cole Kmet,TE,TE/FLEX,CHI,3,3900,0.39%,25.7,19.7,6.0
+Allen Lazard,WR,WR/FLEX,NYJ,3,3800,7.43%,13.8,7.8,6.0
+Browns,DST,DST,CLE,3,3800,5.77%,6.0,0.0,0.0
+Taysom Hill,TE,TE/FLEX,NO,3,3800,0.08%,0.0,0.0,0.0
+Rashod Bateman,WR,WR/FLEX,BAL,3,3800,1.10%,11.8,5.8,6.0
+Jalen Tolbert,WR,WR/FLEX,DAL,3,3800,1.44%,13.2,7.2,6.0
+Jalen McMillan,WR,WR/FLEX,TB,3,3700,0.50%,1.6,0.0,0.0
+Chig Okonkwo,TE,TE/FLEX,TEN,3,3700,0.65%,3.5,0.0,0.0
+Raiders,DST,DST,LV,3,3700,5.48%,-2.0,0.0,0.0
+Luke McCaffrey,WR,WR/FLEX,WAS,3,3700,0.09%,7.4,7.4,0.0
+Zach Ertz,TE,TE/FLEX,WAS,3,3700,4.50%,8.8,8.8,0.0
+K.J. Osborn,WR,WR/FLEX,NE,3,3600,0.36%,0.0,0.0,0.0
+Elijah Moore,WR,WR/FLEX,CLE,3,3600,1.68%,3.7,3.7,0.0
+Chargers,DST,DST,LAC,3,3600,1.95%,5.0,0.0,0.0
+Kalif Raymond,WR,WR/FLEX,DET,3,3600,0.15%,0.0,0.0,0.0
+Colby Parkinson,TE,TE/FLEX,LAR,3,3600,3.23%,5.1,5.1,0.0
+Ray-Ray McCloud III,WR,WR/FLEX,ATL,3,3600,2.14%,5.7,5.7,0.0
+Mike Gesicki,TE,TE/FLEX,CIN,3,3600,8.19%,8.7,8.7,0.0
+Jets,DST,DST,NYJ,3,3500,4.63%,16.0,0.0,0.0
+Cedrick Wilson Jr.,WR,WR/FLEX,NO,3,3500,0.01%,1.3,0.0,0.0
+Juwan Johnson,TE,TE/FLEX,NO,3,3500,0.68%,0.0,0.0,0.0
+Noah Fant,TE,TE/FLEX,SEA,3,3500,0.53%,12.0,12.0,0.0
+Seahawks,DST,DST,SEA,3,3500,3.16%,13.0,0.0,0.0
+Nelson Agholor,WR,WR/FLEX,BAL,3,3500,0.13%,6.6,6.6,0.0
+49ers,DST,DST,SF,3,3500,2.38%,3.0,0.0,0.0
+Trenton Irwin,WR,WR/FLEX,CIN,3,3500,0.12%,0.0,0.0,0.0
+Xavier Gipson,WR,WR/FLEX,NYJ,3,3400,0.05%,3.6,3.6,0.0
+Brandon Powell,WR,WR/FLEX,MIN,3,3400,0.03%,2.3,2.3,0.0
+Devaughn Vele,WR,WR/FLEX,DEN,3,3400,0.27%,0.0,0.0,0.0
+Cade Otton,TE,TE/FLEX,TB,3,3400,0.57%,10.7,10.7,0.0
+Jonnu Smith,TE,TE/FLEX,MIA,3,3400,2.78%,3.8,3.8,0.0
+Cowboys,DST,DST,DAL,3,3400,0.56%,-1.0,0.0,0.0
+Chiefs,DST,DST,KC,3,3400,1.23%,5.0,0.0,0.0
+Tyler Conklin,TE,TE/FLEX,NYJ,3,3300,0.90%,14.3,14.3,0.0
+Johnny Wilson,WR,WR/FLEX,PHI,3,3300,0.01%,1.9,0.0,0.0
+Van Jefferson,WR,WR/FLEX,PIT,3,3300,0.05%,0.0,0.0,0.0
+Steelers,DST,DST,PIT,3,3300,3.60%,9.0,0.0,0.0
+Marvin Mims Jr.,WR,WR/FLEX,DEN,3,3300,0.03%,1.9,0.0,0.0
+Packers,DST,DST,GB,3,3300,4.05%,21.0,0.0,0.0
+Tre Tucker,WR,WR/FLEX,LV,3,3300,0.13%,22.6,16.6,6.0
+Tim Patrick,WR,WR/FLEX,DET,3,3300,0.04%,1.8,0.0,0.0
+KaVontae Turpin,WR,WR/FLEX,DAL,3,3300,0.16%,14.2,8.2,6.0
+Luke Schoonmaker,TE,TE/FLEX,DAL,3,3300,1.14%,1.5,1.5,0.0
 Tyler Higbee,TE,TE/FLEX,LAR,3,3300,0.0,0.0,0.0,0.0
-Noah Brown,WR,WR/FLEX,WAS,3,3300,0.0,0.0,0.0,0.0
-Giants,DST,DST,NYG,3,3200,0.0,0.0,0.0,0.0
-Ashton Dulin,WR,WR/FLEX,IND,3,3200,0.0,0.0,0.0,0.0
-DeAndre Carter,WR,WR/FLEX,CHI,3,3200,0.0,0.0,0.0,0.0
-Colts,DST,DST,IND,3,3200,0.0,0.0,0.0,0.0
-Trent Sherfield Sr.,WR,WR/FLEX,MIN,3,3200,0.0,0.0,0.0,0.0
-Josh Oliver,TE,TE/FLEX,MIN,3,3200,0.0,0.0,0.0,0.0
-Britain Covey,WR,WR/FLEX,PHI,3,3200,0.0,0.0,0.0,0.0
-Roman Wilson,WR,WR/FLEX,PIT,3,3200,0.0,0.0,0.0,0.0
+Noah Brown,WR,WR/FLEX,WAS,3,3300,1.34%,5.9,5.9,0.0
+Giants,DST,DST,NYG,3,3200,0.50%,13.0,0.0,0.0
+Ashton Dulin,WR,WR/FLEX,IND,3,3200,0.20%,0.0,0.0,0.0
+DeAndre Carter,WR,WR/FLEX,CHI,3,3200,0.24%,5.2,5.2,0.0
+Colts,DST,DST,IND,3,3200,2.07%,11.0,0.0,0.0
+Trent Sherfield Sr.,WR,WR/FLEX,MIN,3,3200,0.01%,1.8,0.0,0.0
+Josh Oliver,TE,TE/FLEX,MIN,3,3200,0.09%,0.0,0.0,0.0
+Britain Covey,WR,WR/FLEX,PHI,3,3200,0.67%,2.1,0.0,0.0
+Roman Wilson,WR,WR/FLEX,PIT,3,3200,0.03%,0.0,0.0,0.0
 Treylon Burks,WR,WR/FLEX,TEN,3,3200,0.0,0.0,0.0,0.0
-Tucker Kraft,TE,TE/FLEX,GB,3,3200,0.0,0.0,0.0,0.0
-Chris Conley,WR,WR/FLEX,SF,3,3200,0.0,0.0,0.0,0.0
-JuJu Smith-Schuster,WR,WR/FLEX,KC,3,3200,0.0,0.0,0.0,0.0
-Justin Watson,WR,WR/FLEX,KC,3,3200,0.0,0.0,0.0,0.0
-Mack Hollins,WR,WR/FLEX,BUF,3,3200,0.0,0.0,0.0,0.0
-Dyami Brown,WR,WR/FLEX,WAS,3,3200,0.0,0.0,0.0,0.0
-Tyquan Thornton,WR,WR/FLEX,NE,3,3100,0.0,0.0,0.0,0.0
+Tucker Kraft,TE,TE/FLEX,GB,3,3200,0.13%,4.4,4.4,0.0
+Chris Conley,WR,WR/FLEX,SF,3,3200,0.05%,0.0,0.0,0.0
+JuJu Smith-Schuster,WR,WR/FLEX,KC,3,3200,0.08%,9.7,3.7,6.0
+Justin Watson,WR,WR/FLEX,KC,3,3200,0.41%,2.3,2.3,0.0
+Mack Hollins,WR,WR/FLEX,BUF,3,3200,0.45%,2.6,2.6,0.0
+Dyami Brown,WR,WR/FLEX,WAS,3,3200,0.09%,3.6,3.6,0.0
+Tyquan Thornton,WR,WR/FLEX,NE,3,3100,0.04%,0.0,0.0,0.0
 Jalin Hyatt,WR,WR/FLEX,NYG,3,3100,0.0,0.0,0.0,0.0
-Gerald Everett,TE,TE/FLEX,CHI,3,3100,0.0,0.0,0.0,0.0
-Johnny Mundt,TE,TE/FLEX,MIN,3,3100,0.0,0.0,0.0,0.0
-Trey Palmer,WR,WR/FLEX,TB,3,3100,0.0,0.0,0.0,0.0
-Bo Melton,WR,WR/FLEX,GB,3,3100,0.0,0.0,0.0,0.0
-Braxton Berrios,WR,WR/FLEX,MIA,3,3100,0.0,0.0,0.0,0.0
-Jalen Brooks,WR,WR/FLEX,DAL,3,3100,0.0,0.0,0.0,0.0
-Ravens,DST,DST,BAL,3,3100,0.0,0.0,0.0,0.0
-Marquez Valdes-Scantling,WR,WR/FLEX,BUF,3,3100,0.0,0.0,0.0,0.0
-Bengals,DST,DST,CIN,3,3100,0.0,0.0,0.0,0.0
-Malachi Corley,WR,WR/FLEX,NYJ,3,3000,0.0,0.0,0.0,0.0
+Gerald Everett,TE,TE/FLEX,CHI,3,3100,0.06%,0.0,0.0,0.0
+Johnny Mundt,TE,TE/FLEX,MIN,3,3100,0.92%,7.2,1.2,6.0
+Trey Palmer,WR,WR/FLEX,TB,3,3100,0.02%,0.0,0.0,0.0
+Bo Melton,WR,WR/FLEX,GB,3,3100,0.01%,0.0,0.0,0.0
+Braxton Berrios,WR,WR/FLEX,MIA,3,3100,0.01%,0.0,0.0,0.0
+Jalen Brooks,WR,WR/FLEX,DAL,3,3100,0.02%,3.4,3.4,0.0
+Ravens,DST,DST,BAL,3,3100,0.51%,5.0,0.0,0.0
+Marquez Valdes-Scantling,WR,WR/FLEX,BUF,3,3100,0.13%,1.7,0.0,0.0
+Bengals,DST,DST,CIN,3,3100,2.24%,-2.0,0.0,0.0
+Malachi Corley,WR,WR/FLEX,NYJ,3,3000,0.03%,0.0,0.0,0.0
 Irvin Charles,WR,WR/FLEX,NYJ,3,3000,0.0,0.0,0.0,0.0
 Malik Taylor,WR,WR/FLEX,NYJ,3,3000,0.0,0.0,0.0,0.0
 Brandon Smith,WR,WR/FLEX,NYJ,3,3000,0.0,0.0,0.0,0.0
 Jason Brownlee,WR,WR/FLEX,NYJ,3,3000,0.0,0.0,0.0,0.0
 Marcus Riley,WR,WR/FLEX,NYJ,3,3000,0.0,0.0,0.0,0.0
-Javon Baker,WR,WR/FLEX,NE,3,3000,0.0,0.0,0.0,0.0
+Javon Baker,WR,WR/FLEX,NE,3,3000,0.01%,0.0,0.0,0.0
 Kayshon Boutte,WR,WR/FLEX,NE,3,3000,0.0,0.0,0.0,0.0
 Kendrick Bourne,WR,WR/FLEX,NE,3,3000,0.0,0.0,0.0,0.0
 JaQuae Jackson,WR,WR/FLEX,NE,3,3000,0.0,0.0,0.0,0.0
-Jalen Reagor,WR,WR/FLEX,NE,3,3000,0.0,0.0,0.0,0.0
+Jalen Reagor,WR,WR/FLEX,NE,3,3000,0.01%,0.0,0.0,0.0
 Matt Landers,WR,WR/FLEX,NE,3,3000,0.0,0.0,0.0,0.0
 Bryce Ford-Wheaton,WR,WR/FLEX,NYG,3,3000,0.0,0.0,0.0,0.0
 Ihmir Smith-Marsette,WR,WR/FLEX,NYG,3,3000,0.0,0.0,0.0,0.0
 Gunner Olszewski,WR,WR/FLEX,NYG,3,3000,0.0,0.0,0.0,0.0
 Isaiah Hodgins,WR,WR/FLEX,NYG,3,3000,0.0,0.0,0.0,0.0
-Cedric Tillman,WR,WR/FLEX,CLE,3,3000,0.0,0.0,0.0,0.0
+Cedric Tillman,WR,WR/FLEX,CLE,3,3000,0.01%,1.4,0.0,0.0
 David Bell,WR,WR/FLEX,CLE,3,3000,0.0,0.0,0.0,0.0
 James Proche II,WR,WR/FLEX,CLE,3,3000,0.0,0.0,0.0,0.0
 Jamari Thrash,WR,WR/FLEX,CLE,3,3000,0.0,0.0,0.0,0.0
 Michael Woods II,WR,WR/FLEX,CLE,3,3000,0.0,0.0,0.0,0.0
 Kadarius Toney,WR,WR/FLEX,CLE,3,3000,0.0,0.0,0.0,0.0
-Jordan Akins,TE,TE/FLEX,CLE,3,3000,0.0,0.0,0.0,0.0
+Jordan Akins,TE,TE/FLEX,CLE,3,3000,0.58%,6.9,6.9,0.0
 Anthony Gould,WR,WR/FLEX,IND,3,3000,0.0,0.0,0.0,0.0
 Juwann Winfree,WR,WR/FLEX,IND,3,3000,0.0,0.0,0.0,0.0
 Laquon Treadwell,WR,WR/FLEX,IND,3,3000,0.0,0.0,0.0,0.0
@@ -1930,7 +1930,7 @@ Steven Sims,WR,WR/FLEX,HOU,3,3000,0.0,0.0,0.0,0.0
 John Metchie III,WR,WR/FLEX,HOU,3,3000,0.0,0.0,0.0,0.0
 Johnny Johnson III,WR,WR/FLEX,HOU,3,3000,0.0,0.0,0.0,0.0
 Xavier Johnson,WR,WR/FLEX,HOU,3,3000,0.0,0.0,0.0,0.0
-Texans,DST,DST,HOU,3,3000,0.0,0.0,0.0,0.0
+Texans,DST,DST,HOU,3,3000,1.20%,3.0,0.0,0.0
 Ainias Smith,WR,WR/FLEX,PHI,3,3000,0.0,0.0,0.0,0.0
 Jacob Harris,WR,WR/FLEX,PHI,3,3000,0.0,0.0,0.0,0.0
 Danny Gray,WR,WR/FLEX,PHI,3,3000,0.0,0.0,0.0,0.0
@@ -1938,11 +1938,11 @@ Marcus Rosemy-Jacksaint,WR,WR/FLEX,PHI,3,3000,0.0,0.0,0.0,0.0
 Parris Campbell,WR,WR/FLEX,PHI,3,3000,0.0,0.0,0.0,0.0
 Kyle Philips,WR,WR/FLEX,PHI,3,3000,0.0,0.0,0.0,0.0
 Bub Means,WR,WR/FLEX,NO,3,3000,0.0,0.0,0.0,0.0
-Mason Tipton,WR,WR/FLEX,NO,3,3000,0.0,0.0,0.0,0.0
+Mason Tipton,WR,WR/FLEX,NO,3,3000,0.01%,3.1,3.1,0.0
 A.T. Perry,WR,WR/FLEX,NO,3,3000,0.0,0.0,0.0,0.0
 Kevin Austin Jr.,WR,WR/FLEX,NO,3,3000,0.0,0.0,0.0,0.0
 Equanimeous St. Brown,WR,WR/FLEX,NO,3,3000,0.0,0.0,0.0,0.0
-Grant Calcaterra,TE,TE/FLEX,PHI,3,3000,0.0,0.0,0.0,0.0
+Grant Calcaterra,TE,TE/FLEX,PHI,3,3000,0.08%,0.0,0.0,0.0
 Derius Davis,WR,WR/FLEX,LAC,3,3000,0.0,0.0,0.0,0.0
 Simi Fehoko,WR,WR/FLEX,LAC,3,3000,0.0,0.0,0.0,0.0
 Brenden Rice,WR,WR/FLEX,LAC,3,3000,0.0,0.0,0.0,0.0
@@ -1961,11 +1961,11 @@ Ryan Miller,WR,WR/FLEX,TB,3,3000,0.0,0.0,0.0,0.0
 Cody Thompson,WR,WR/FLEX,TB,3,3000,0.0,0.0,0.0,0.0
 Sterling Shepard,WR,WR/FLEX,TB,3,3000,0.0,0.0,0.0,0.0
 Troy Franklin,WR,WR/FLEX,DEN,3,3000,0.0,0.0,0.0,0.0
-Lil'Jordan Humphrey,WR,WR/FLEX,DEN,3,3000,0.0,0.0,0.0,0.0
+Lil'Jordan Humphrey,WR,WR/FLEX,DEN,3,3000,0.06%,9.7,9.7,0.0
 Kaden Davis,WR,WR/FLEX,DEN,3,3000,0.0,0.0,0.0,0.0
 Michael Bandy,WR,WR/FLEX,DEN,3,3000,0.0,0.0,0.0,0.0
 David Sills V,WR,WR/FLEX,DEN,3,3000,0.0,0.0,0.0,0.0
-Buccaneers,DST,DST,TB,3,3000,0.0,0.0,0.0,0.0
+Buccaneers,DST,DST,TB,3,3000,12.30%,2.0,0.0,0.0
 Nick Westbrook-Ikhine,WR,WR/FLEX,TEN,3,3000,0.0,0.0,0.0,0.0
 Jha'Quan Jackson,WR,WR/FLEX,TEN,3,3000,0.0,0.0,0.0,0.0
 Colton Dowell,WR,WR/FLEX,TEN,3,3000,0.0,0.0,0.0,0.0
@@ -1975,7 +1975,7 @@ Mason Kinsey,WR,WR/FLEX,TEN,3,3000,0.0,0.0,0.0,0.0
 Malik Heath,WR,WR/FLEX,GB,3,3000,0.0,0.0,0.0,0.0
 Julian Hicks,WR,WR/FLEX,GB,3,3000,0.0,0.0,0.0,0.0
 T.J. Luther,WR,WR/FLEX,GB,3,3000,0.0,0.0,0.0,0.0
-Jonathan Mingo,WR,WR/FLEX,CAR,3,3000,0.0,0.0,0.0,0.0
+Jonathan Mingo,WR,WR/FLEX,CAR,3,3000,0.17%,5.0,5.0,0.0
 David Moore,WR,WR/FLEX,CAR,3,3000,0.0,0.0,0.0,0.0
 Praise Olatoke,WR,WR/FLEX,CAR,3,3000,0.0,0.0,0.0,0.0
 Deon Cain,WR,WR/FLEX,CAR,3,3000,0.0,0.0,0.0,0.0
@@ -2000,7 +2000,7 @@ Anthony Schwartz,WR,WR/FLEX,MIA,3,3000,0.0,0.0,0.0,0.0
 Robbie Chosen,WR,WR/FLEX,MIA,3,3000,0.0,0.0,0.0,0.0
 Erik Ezukanma,WR,WR/FLEX,MIA,3,3000,0.0,0.0,0.0,0.0
 Dee Eskridge,WR,WR/FLEX,MIA,3,3000,0.0,0.0,0.0,0.0
-Zach Pascal,WR,WR/FLEX,ARI,3,3000,0.0,0.0,0.0,0.0
+Zach Pascal,WR,WR/FLEX,ARI,3,3000,0.06%,0.0,0.0,0.0
 Chris Moore,WR,WR/FLEX,ARI,3,3000,0.0,0.0,0.0,0.0
 Xavier Weaver,WR,WR/FLEX,ARI,3,3000,0.0,0.0,0.0,0.0
 Tejhaun Palmer,WR,WR/FLEX,ARI,3,3000,0.0,0.0,0.0,0.0
@@ -2010,7 +2010,7 @@ Isaiah Williams,WR,WR/FLEX,DET,3,3000,0.0,0.0,0.0,0.0
 Tom Kennedy,WR,WR/FLEX,DET,3,3000,0.0,0.0,0.0,0.0
 Tre'Quan Smith,WR,WR/FLEX,DET,3,3000,0.0,0.0,0.0,0.0
 Antoine Green,WR,WR/FLEX,DET,3,3000,0.0,0.0,0.0,0.0
-Donovan Peoples-Jones,WR,WR/FLEX,DET,3,3000,0.0,0.0,0.0,0.0
+Donovan Peoples-Jones,WR,WR/FLEX,DET,3,3000,0.01%,0.0,0.0,0.0
 Allen Robinson II,WR,WR/FLEX,DET,3,3000,0.0,0.0,0.0,0.0
 Tylan Wallace,WR,WR/FLEX,BAL,3,3000,0.0,0.0,0.0,0.0
 Deonte Harty,WR,WR/FLEX,BAL,3,3000,0.0,0.0,0.0,0.0
@@ -2022,17 +2022,17 @@ Malik Cunningham,WR,WR/FLEX,BAL,3,3000,0.0,0.0,0.0,0.0
 Ryan Flournoy,WR,WR/FLEX,DAL,3,3000,0.0,0.0,0.0,0.0
 Jalen Cropper,WR,WR/FLEX,DAL,3,3000,0.0,0.0,0.0,0.0
 Kelvin Harmon,WR,WR/FLEX,DAL,3,3000,0.0,0.0,0.0,0.0
-Ronnie Bell,WR,WR/FLEX,SF,3,3000,0.0,0.0,0.0,0.0
-Jacob Cowing,WR,WR/FLEX,SF,3,3000,0.0,0.0,0.0,0.0
+Ronnie Bell,WR,WR/FLEX,SF,3,3000,0.01%,2.2,2.2,0.0
+Jacob Cowing,WR,WR/FLEX,SF,3,3000,0.03%,0.0,0.0,0.0
 Ricky Pearsall,WR,WR/FLEX,SF,3,3000,0.0,0.0,0.0,0.0
 Terrace Marshall Jr.,WR,WR/FLEX,SF,3,3000,0.0,0.0,0.0,0.0
 Trent Taylor,WR,WR/FLEX,SF,3,3000,0.0,0.0,0.0,0.0
 Drake Stoops,WR,WR/FLEX,LAR,3,3000,0.0,0.0,0.0,0.0
 Sam Wiglusz,WR,WR/FLEX,LAR,3,3000,0.0,0.0,0.0,0.0
 Xavier Smith,WR,WR/FLEX,LAR,3,3000,0.0,0.0,0.0,0.0
-Hollywood Brown,WR,WR/FLEX,KC,3,3000,0.0,0.0,0.0,0.0
+Hollywood Brown,WR,WR/FLEX,KC,3,3000,0.01%,0.0,0.0,0.0
 Skyy Moore,WR,WR/FLEX,KC,3,3000,0.0,0.0,0.0,0.0
-Mecole Hardman,WR,WR/FLEX,KC,3,3000,0.0,0.0,0.0,0.0
+Mecole Hardman,WR,WR/FLEX,KC,3,3000,0.03%,0.0,0.0,0.0
 Jaaron Hayek,WR,WR/FLEX,KC,3,3000,0.0,0.0,0.0,0.0
 Justyn Ross,WR,WR/FLEX,KC,3,3000,0.0,0.0,0.0,0.0
 Montrell Washington,WR,WR/FLEX,KC,3,3000,0.0,0.0,0.0,0.0
@@ -2043,7 +2043,7 @@ Rondale Moore,WR,WR/FLEX,ATL,3,3000,0.0,0.0,0.0,0.0
 Chris Blair,WR,WR/FLEX,ATL,3,3000,0.0,0.0,0.0,0.0
 Dylan Drummond,WR,WR/FLEX,ATL,3,3000,0.0,0.0,0.0,0.0
 Jesse Matthews,WR,WR/FLEX,ATL,3,3000,0.0,0.0,0.0,0.0
-Parker Washington,WR,WR/FLEX,JAX,3,3000,0.0,0.0,0.0,0.0
+Parker Washington,WR,WR/FLEX,JAX,3,3000,0.07%,3.8,3.8,0.0
 Devin Duvernay,WR,WR/FLEX,JAX,3,3000,0.0,0.0,0.0,0.0
 Tim Jones,WR,WR/FLEX,JAX,3,3000,0.0,0.0,0.0,0.0
 David White Jr.,WR,WR/FLEX,JAX,3,3000,0.0,0.0,0.0,0.0
@@ -2054,71 +2054,71 @@ Louis Rees-Zammit,WR,WR/FLEX,JAX,3,3000,0.0,0.0,0.0,0.0
 KJ Hamler,WR,WR/FLEX,BUF,3,3000,0.0,0.0,0.0,0.0
 Tyrell Shavers,WR,WR/FLEX,BUF,3,3000,0.0,0.0,0.0,0.0
 Jalen Virgil,WR,WR/FLEX,BUF,3,3000,0.0,0.0,0.0,0.0
-Dawson Knox,TE,TE/FLEX,BUF,3,3000,0.0,0.0,0.0,0.0
-Jermaine Burton,WR,WR/FLEX,CIN,3,3000,0.0,0.0,0.0,0.0
-Olamide Zaccheaus,WR,WR/FLEX,WAS,3,3000,0.0,0.0,0.0,0.0
-Jamison Crowder,WR,WR/FLEX,WAS,3,3000,0.0,0.0,0.0,0.0
+Dawson Knox,TE,TE/FLEX,BUF,3,3000,0.30%,1.7,1.7,0.0
+Jermaine Burton,WR,WR/FLEX,CIN,3,3000,0.28%,0.0,0.0,0.0
+Olamide Zaccheaus,WR,WR/FLEX,WAS,3,3000,0.13%,0.0,0.0,0.0
+Jamison Crowder,WR,WR/FLEX,WAS,3,3000,0.01%,0.0,0.0,0.0
 Brycen Tremayne,WR,WR/FLEX,WAS,3,3000,0.0,0.0,0.0,0.0
 Mitchell Tinsley,WR,WR/FLEX,WAS,3,3000,0.0,0.0,0.0,0.0
 Kazmeir Allen,WR,WR/FLEX,WAS,3,3000,0.0,0.0,0.0,0.0
 Charlie Jones,WR,WR/FLEX,CIN,3,3000,0.0,0.0,0.0,0.0
 Cole Burgess,WR,WR/FLEX,CIN,3,3000,0.0,0.0,0.0,0.0
-Kendric Pryor,WR,WR/FLEX,CIN,3,3000,0.0,0.0,0.0,0.0
-Shedrick Jackson,WR,WR/FLEX,CIN,3,3000,0.0,0.0,0.0,0.0
-Austin Hooper,TE,TE/FLEX,NE,3,2900,0.0,0.0,0.0,0.0
-Hayden Hurst,TE,TE/FLEX,LAC,3,2900,0.0,0.0,0.0,0.0
-Greg Dulcich,TE,TE/FLEX,DEN,3,2900,0.0,0.0,0.0,0.0
-Luke Musgrave,TE,TE/FLEX,GB,3,2900,0.0,0.0,0.0,0.0
-Lions,DST,DST,DET,3,2900,0.0,0.0,0.0,0.0
-Bills,DST,DST,BUF,3,2900,0.0,0.0,0.0,0.0
-Jeremy Ruckert,TE,TE/FLEX,NYJ,3,2800,0.0,0.0,0.0,0.0
-Kylen Granson,TE,TE/FLEX,IND,3,2800,0.0,0.0,0.0,0.0
-Eagles,DST,DST,PHI,3,2800,0.0,0.0,0.0,0.0
-Will Dissly,TE,TE/FLEX,LAC,3,2800,0.0,0.0,0.0,0.0
-Michael Mayer,TE,TE/FLEX,LV,3,2800,0.0,0.0,0.0,0.0
+Kendric Pryor,WR,WR/FLEX,CIN,3,3000,0.01%,0.0,0.0,0.0
+Shedrick Jackson,WR,WR/FLEX,CIN,3,3000,0.02%,0.0,0.0,0.0
+Austin Hooper,TE,TE/FLEX,NE,3,2900,0.12%,2.9,2.9,0.0
+Hayden Hurst,TE,TE/FLEX,LAC,3,2900,0.34%,3.5,3.5,0.0
+Greg Dulcich,TE,TE/FLEX,DEN,3,2900,0.72%,0.0,0.0,0.0
+Luke Musgrave,TE,TE/FLEX,GB,3,2900,0.07%,1.3,1.3,0.0
+Lions,DST,DST,DET,3,2900,0.47%,7.0,0.0,0.0
+Bills,DST,DST,BUF,3,2900,7.70%,13.0,0.0,0.0
+Jeremy Ruckert,TE,TE/FLEX,NYJ,3,2800,0.03%,3.5,3.5,0.0
+Kylen Granson,TE,TE/FLEX,IND,3,2800,0.03%,5.0,5.0,0.0
+Eagles,DST,DST,PHI,3,2800,0.30%,7.0,0.0,0.0
+Will Dissly,TE,TE/FLEX,LAC,3,2800,0.61%,4.9,4.9,0.0
+Michael Mayer,TE,TE/FLEX,LV,3,2800,0.14%,1.7,1.7,0.0
 Brenden Bates,TE,TE/FLEX,NYJ,3,2700,0.0,0.0,0.0,0.0
-Theo Johnson,TE,TE/FLEX,NYG,3,2700,0.0,0.0,0.0,0.0
-Cade Stover,TE,TE/FLEX,HOU,3,2700,0.0,0.0,0.0,0.0
+Theo Johnson,TE,TE/FLEX,NYG,3,2700,0.05%,2.3,2.3,0.0
+Cade Stover,TE,TE/FLEX,HOU,3,2700,0.13%,0.0,0.0,0.0
 Adam Trautman,TE,TE/FLEX,DEN,3,2700,0.0,0.0,0.0,0.0
-Titans,DST,DST,TEN,3,2700,0.0,0.0,0.0,0.0
+Titans,DST,DST,TEN,3,2700,5.62%,3.0,0.0,0.0
 Durham Smythe,TE,TE/FLEX,MIA,3,2700,0.0,0.0,0.0,0.0
-Jake Tonges,TE,TE/FLEX,SF,3,2700,0.0,0.0,0.0,0.0
-Noah Gray,TE,TE/FLEX,KC,3,2700,0.0,0.0,0.0,0.0
-Jaguars,DST,DST,JAX,3,2700,0.0,0.0,0.0,0.0
+Jake Tonges,TE,TE/FLEX,SF,3,2700,0.05%,0.0,0.0,0.0
+Noah Gray,TE,TE/FLEX,KC,3,2700,0.29%,2.3,2.3,0.0
+Jaguars,DST,DST,JAX,3,2700,0.20%,-2.0,0.0,0.0
 Kenny Yeboah,TE,TE/FLEX,NYJ,3,2600,0.0,0.0,0.0,0.0
-Patriots,DST,DST,NE,3,2600,0.0,0.0,0.0,0.0
-Daniel Bellinger,TE,TE/FLEX,NYG,3,2600,0.0,0.0,0.0,0.0
+Patriots,DST,DST,NE,3,2600,1.86%,2.0,0.0,0.0
+Daniel Bellinger,TE,TE/FLEX,NYG,3,2600,0.02%,2.7,2.7,0.0
 Blake Whiteheart,TE,TE/FLEX,CLE,3,2600,0.0,0.0,0.0,0.0
-Bears,DST,DST,CHI,3,2600,0.0,0.0,0.0,0.0
+Bears,DST,DST,CHI,3,2600,7.45%,5.0,0.0,0.0
 Robert Tonyan,TE,TE/FLEX,MIN,3,2600,0.0,0.0,0.0,0.0
 Brevin Jordan,TE,TE/FLEX,HOU,3,2600,0.0,0.0,0.0,0.0
-Foster Moreau,TE,TE/FLEX,NO,3,2600,0.0,0.0,0.0,0.0
-Saints,DST,DST,NO,3,2600,0.0,0.0,0.0,0.0
+Foster Moreau,TE,TE/FLEX,NO,3,2600,1.40%,1.2,1.2,0.0
+Saints,DST,DST,NO,3,2600,4.12%,11.0,0.0,0.0
 Donald Parham Jr.,TE,TE/FLEX,DEN,3,2600,0.0,0.0,0.0,0.0
-Tommy Tremble,TE,TE/FLEX,CAR,3,2600,0.0,0.0,0.0,0.0
-Elijah Higgins,TE,TE/FLEX,ARI,3,2600,0.0,0.0,0.0,0.0
+Tommy Tremble,TE,TE/FLEX,CAR,3,2600,0.61%,5.9,5.9,0.0
+Elijah Higgins,TE,TE/FLEX,ARI,3,2600,0.24%,2.1,2.1,0.0
 Davis Allen,TE,TE/FLEX,LAR,3,2600,0.0,0.0,0.0,0.0
-Brenton Strange,TE,TE/FLEX,JAX,3,2600,0.0,0.0,0.0,0.0
-Ben Sinnott,TE,TE/FLEX,WAS,3,2600,0.0,0.0,0.0,0.0
-Drew Sample,TE,TE/FLEX,CIN,3,2600,0.0,0.0,0.0,0.0
+Brenton Strange,TE,TE/FLEX,JAX,3,2600,6.48%,9.2,3.2,6.0
+Ben Sinnott,TE,TE/FLEX,WAS,3,2600,0.03%,0.0,0.0,0.0
+Drew Sample,TE,TE/FLEX,CIN,3,2600,0.06%,0.0,0.0,0.0
 Zack Kuntz,TE,TE/FLEX,NYJ,3,2500,0.0,0.0,0.0,0.0
 Anthony Firkser,TE,TE/FLEX,NYJ,3,2500,0.0,0.0,0.0,0.0
 Jaheim Bell,TE,TE/FLEX,NE,3,2500,0.0,0.0,0.0,0.0
 Mitchell Wilcox,TE,TE/FLEX,NE,3,2500,0.0,0.0,0.0,0.0
 Chris Manhertz,TE,TE/FLEX,NYG,3,2500,0.0,0.0,0.0,0.0
 Lawrence Cager,TE,TE/FLEX,NYG,3,2500,0.0,0.0,0.0,0.0
-Jakob Johnson,TE,TE/FLEX,NYG,3,2500,0.0,0.0,0.0,0.0
+Jakob Johnson,TE,TE/FLEX,NYG,3,2500,0.01%,0.0,0.0,0.0
 Cameron Latu,TE,TE/FLEX,CLE,3,2500,0.0,0.0,0.0,0.0
 Geoff Swaim,TE,TE/FLEX,CLE,3,2500,0.0,0.0,0.0,0.0
-Mo Alie-Cox,TE,TE/FLEX,IND,3,2500,0.0,0.0,0.0,0.0
-Drew Ogletree,TE,TE/FLEX,IND,3,2500,0.0,0.0,0.0,0.0
+Mo Alie-Cox,TE,TE/FLEX,IND,3,2500,0.02%,0.0,0.0,0.0
+Drew Ogletree,TE,TE/FLEX,IND,3,2500,0.01%,0.0,0.0,0.0
 Will Mallory,TE,TE/FLEX,IND,3,2500,0.0,0.0,0.0,0.0
 Jelani Woods,TE,TE/FLEX,IND,3,2500,0.0,0.0,0.0,0.0
 Sean McKeon,TE,TE/FLEX,IND,3,2500,0.0,0.0,0.0,0.0
 Marcedes Lewis,TE,TE/FLEX,CHI,3,2500,0.0,0.0,0.0,0.0
 Stephen Carlson,TE,TE/FLEX,CHI,3,2500,0.0,0.0,0.0,0.0
 Patrick Scales,TE,TE/FLEX,CHI,3,2500,0.0,0.0,0.0,0.0
-N'Keal Harry,TE,TE/FLEX,MIN,3,2500,0.0,0.0,0.0,0.0
+N'Keal Harry,TE,TE/FLEX,MIN,3,2500,0.02%,0.0,0.0,0.0
 Nick Muse,TE,TE/FLEX,MIN,3,2500,0.0,0.0,0.0,0.0
 Andrew DePaola,TE,TE/FLEX,MIN,3,2500,0.0,0.0,0.0,0.0
 Sammis Reyes,TE,TE/FLEX,MIN,3,2500,0.0,0.0,0.0,0.0
@@ -2137,8 +2137,8 @@ Eric Tomlinson,TE,TE/FLEX,LAC,3,2500,0.0,0.0,0.0,0.0
 Tucker Fisk,TE,TE/FLEX,LAC,3,2500,0.0,0.0,0.0,0.0
 Luke Benson,TE,TE/FLEX,LAC,3,2500,0.0,0.0,0.0,0.0
 MyCole Pruitt,TE,TE/FLEX,PIT,3,2500,0.0,0.0,0.0,0.0
-Darnell Washington,TE,TE/FLEX,PIT,3,2500,0.0,0.0,0.0,0.0
-Connor Heyward,TE,TE/FLEX,PIT,3,2500,0.0,0.0,0.0,0.0
+Darnell Washington,TE,TE/FLEX,PIT,3,2500,0.04%,0.0,0.0,0.0
+Connor Heyward,TE,TE/FLEX,PIT,3,2500,0.01%,1.2,1.2,0.0
 Rodney Williams,TE,TE/FLEX,PIT,3,2500,0.0,0.0,0.0,0.0
 Payne Durham,TE,TE/FLEX,TB,3,2500,0.0,0.0,0.0,0.0
 Ko Kieft,TE,TE/FLEX,TB,3,2500,0.0,0.0,0.0,0.0
@@ -2149,15 +2149,15 @@ Lucas Krull,TE,TE/FLEX,DEN,3,2500,0.0,0.0,0.0,0.0
 Thomas Yassmin,TE,TE/FLEX,DEN,3,2500,0.0,0.0,0.0,0.0
 Mitchell Fraboni,TE,TE/FLEX,DEN,3,2500,0.0,0.0,0.0,0.0
 Nate Adkins,TE,TE/FLEX,DEN,3,2500,0.0,0.0,0.0,0.0
-Broncos,DST,DST,DEN,3,2500,0.0,0.0,0.0,0.0
-Josh Whyle,TE,TE/FLEX,TEN,3,2500,0.0,0.0,0.0,0.0
+Broncos,DST,DST,DEN,3,2500,0.65%,15.0,0.0,0.0
+Josh Whyle,TE,TE/FLEX,TEN,3,2500,0.01%,8.3,8.3,0.0
 Nick Vannett,TE,TE/FLEX,TEN,3,2500,0.0,0.0,0.0,0.0
 Thomas Odukoya,TE,TE/FLEX,TEN,3,2500,0.0,0.0,0.0,0.0
 David Martin-Robinson,TE,TE/FLEX,TEN,3,2500,0.0,0.0,0.0,0.0
 Ben Sims,TE,TE/FLEX,GB,3,2500,0.0,0.0,0.0,0.0
 Tyler Davis,TE,TE/FLEX,GB,3,2500,0.0,0.0,0.0,0.0
 Johnny Lumpkin,TE,TE/FLEX,GB,3,2500,0.0,0.0,0.0,0.0
-Ja'Tavion Sanders,TE,TE/FLEX,CAR,3,2500,0.0,0.0,0.0,0.0
+Ja'Tavion Sanders,TE,TE/FLEX,CAR,3,2500,0.13%,0.0,0.0,0.0
 Jordan Matthews,TE,TE/FLEX,CAR,3,2500,0.0,0.0,0.0,0.0
 Feleipe Franks,TE,TE/FLEX,CAR,3,2500,0.0,0.0,0.0,0.0
 Messiah Swinson,TE,TE/FLEX,CAR,3,2500,0.0,0.0,0.0,0.0
@@ -2165,13 +2165,13 @@ Ian Thomas,TE,TE/FLEX,CAR,3,2500,0.0,0.0,0.0,0.0
 Harrison Bryant,TE,TE/FLEX,LV,3,2500,0.0,0.0,0.0,0.0
 John Samuel Shenker,TE,TE/FLEX,LV,3,2500,0.0,0.0,0.0,0.0
 Pharaoh Brown,TE,TE/FLEX,SEA,3,2500,0.0,0.0,0.0,0.0
-AJ Barner,TE,TE/FLEX,SEA,3,2500,0.0,0.0,0.0,0.0
+AJ Barner,TE,TE/FLEX,SEA,3,2500,0.01%,4.3,4.3,0.0
 Brady Russell,TE,TE/FLEX,SEA,3,2500,0.0,0.0,0.0,0.0
 Tyler Mabry,TE,TE/FLEX,SEA,3,2500,0.0,0.0,0.0,0.0
-Julian Hill,TE,TE/FLEX,MIA,3,2500,0.0,0.0,0.0,0.0
+Julian Hill,TE,TE/FLEX,MIA,3,2500,0.01%,4.4,4.4,0.0
 Tanner Conner,TE,TE/FLEX,MIA,3,2500,0.0,0.0,0.0,0.0
 Hayden Rucci,TE,TE/FLEX,MIA,3,2500,0.0,0.0,0.0,0.0
-Dolphins,DST,DST,MIA,3,2500,0.0,0.0,0.0,0.0
+Dolphins,DST,DST,MIA,3,2500,1.18%,7.0,0.0,0.0
 Tip Reiman,TE,TE/FLEX,ARI,3,2500,0.0,0.0,0.0,0.0
 Travis Vokolek,TE,TE/FLEX,ARI,3,2500,0.0,0.0,0.0,0.0
 Jordan Murray,TE,TE/FLEX,ARI,3,2500,0.0,0.0,0.0,0.0
@@ -2185,37 +2185,37 @@ Qadir Ismail,TE,TE/FLEX,BAL,3,2500,0.0,0.0,0.0,0.0
 Brevyn Spann-Ford,TE,TE/FLEX,DAL,3,2500,0.0,0.0,0.0,0.0
 John Stephens Jr.,TE,TE/FLEX,DAL,3,2500,0.0,0.0,0.0,0.0
 Princeton Fant,TE,TE/FLEX,DAL,3,2500,0.0,0.0,0.0,0.0
-Eric Saubert,TE,TE/FLEX,SF,3,2500,0.0,0.0,0.0,0.0
+Eric Saubert,TE,TE/FLEX,SF,3,2500,1.83%,6.1,6.1,0.0
 Brayden Willis,TE,TE/FLEX,SF,3,2500,0.0,0.0,0.0,0.0
 Mason Pline,TE,TE/FLEX,SF,3,2500,0.0,0.0,0.0,0.0
 Hunter Long,TE,TE/FLEX,LAR,3,2500,0.0,0.0,0.0,0.0
 Nikola Kalinic,TE,TE/FLEX,LAR,3,2500,0.0,0.0,0.0,0.0
 Miller Forristall,TE,TE/FLEX,LAR,3,2500,0.0,0.0,0.0,0.0
-Jared Wiley,TE,TE/FLEX,KC,3,2500,0.0,0.0,0.0,0.0
-Peyton Hendershot,TE,TE/FLEX,KC,3,2500,0.0,0.0,0.0,0.0
+Jared Wiley,TE,TE/FLEX,KC,3,2500,0.01%,0.0,0.0,0.0
+Peyton Hendershot,TE,TE/FLEX,KC,3,2500,0.01%,0.0,0.0,0.0
 James Winchester,TE,TE/FLEX,KC,3,2500,0.0,0.0,0.0,0.0
 Baylor Cupp,TE,TE/FLEX,KC,3,2500,0.0,0.0,0.0,0.0
 Charlie Woerner,TE,TE/FLEX,ATL,3,2500,0.0,0.0,0.0,0.0
 Ross Dwelley,TE,TE/FLEX,ATL,3,2500,0.0,0.0,0.0,0.0
 John FitzPatrick,TE,TE/FLEX,ATL,3,2500,0.0,0.0,0.0,0.0
-Luke Farrell,TE,TE/FLEX,JAX,3,2500,0.0,0.0,0.0,0.0
-Patrick Murtagh,TE,TE/FLEX,JAX,3,2500,0.0,0.0,0.0,0.0
-Josiah Deguara,TE,TE/FLEX,JAX,3,2500,0.0,0.0,0.0,0.0
+Luke Farrell,TE,TE/FLEX,JAX,3,2500,0.01%,1.1,1.1,0.0
+Patrick Murtagh,TE,TE/FLEX,JAX,3,2500,0.01%,0.0,0.0,0.0
+Josiah Deguara,TE,TE/FLEX,JAX,3,2500,0.01%,1.8,1.8,0.0
 Shawn Bowman,TE,TE/FLEX,JAX,3,2500,0.0,0.0,0.0,0.0
 Quintin Morris,TE,TE/FLEX,BUF,3,2500,0.0,0.0,0.0,0.0
 Zach Davidson,TE,TE/FLEX,BUF,3,2500,0.0,0.0,0.0,0.0
-Tanner Hudson,TE,TE/FLEX,CIN,3,2500,0.0,0.0,0.0,0.0
-John Bates,TE,TE/FLEX,WAS,3,2500,0.0,0.0,0.0,0.0
+Tanner Hudson,TE,TE/FLEX,CIN,3,2500,0.01%,0.0,0.0,0.0
+John Bates,TE,TE/FLEX,WAS,3,2500,0.03%,0.0,0.0,0.0
 Colson Yankoff,TE,TE/FLEX,WAS,3,2500,0.0,0.0,0.0,0.0
-Tyler Ott,TE,TE/FLEX,WAS,3,2500,0.0,0.0,0.0,0.0
+Tyler Ott,TE,TE/FLEX,WAS,3,2500,0.01%,0.0,0.0,0.0
 Cole Turner,TE,TE/FLEX,WAS,3,2500,0.0,0.0,0.0,0.0
-Erick All Jr.,TE,TE/FLEX,CIN,3,2500,0.0,0.0,0.0,0.0
+Erick All Jr.,TE,TE/FLEX,CIN,3,2500,0.22%,6.2,6.2,0.0
 Tanner McLachlan,TE,TE/FLEX,CIN,3,2500,0.0,0.0,0.0,0.0
 Cal Adomitis,TE,TE/FLEX,CIN,3,2500,0.0,0.0,0.0,0.0
 Cam Grandy,TE,TE/FLEX,CIN,3,2500,0.0,0.0,0.0,0.0
-Commanders,DST,DST,WAS,3,2500,0.0,0.0,0.0,0.0
-Vikings,DST,DST,MIN,3,2400,0.0,0.0,0.0,0.0
-Panthers,DST,DST,CAR,3,2400,0.0,0.0,0.0,0.0
-Falcons,DST,DST,ATL,3,2400,0.0,0.0,0.0,0.0
-Cardinals,DST,DST,ARI,3,2300,0.0,0.0,0.0,0.0
-Rams,DST,DST,LAR,3,2300,0.0,0.0,0.0,0.0
+Commanders,DST,DST,WAS,3,2500,0.56%,1.0,0.0,0.0
+Vikings,DST,DST,MIN,3,2400,8.01%,13.0,0.0,0.0
+Panthers,DST,DST,CAR,3,2400,1.19%,5.0,0.0,0.0
+Falcons,DST,DST,ATL,3,2400,1.29%,2.0,0.0,0.0
+Cardinals,DST,DST,ARI,3,2300,6.09%,5.0,0.0,0.0
+Rams,DST,DST,LAR,3,2300,1.61%,3.0,0.0,0.0
