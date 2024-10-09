@@ -399,3 +399,97 @@ RK,NAME,TEAM,POS,WK,OPP,RUSHING_ATT,RUSHING_YDS,RUSHING_AVG,RUSHING_TD,RECEIVING
 98,Craig Reynolds,DET,RB,4,SEA,0,0,,0,0,0,0,0,0,0,0
 99,Jeff Wilson Jr.,MIA,RB,4,TEN,0,0,,0,0,0,0,0,0,0,0
 100,Alec Ingold,MIA,FB,4,TEN,0,0,,0,0,0,0,0,0,0,0
+1,Tank Bigsby,JAX,RB,5,IND,13,101,7.8,2,1,1,28,0,1,0,25.9
+2,D'Andre Swift,CHI,RB,5,CAR,21,73,3.5,1,2,2,47,0,0,0,20
+3,Rico Dowdle,DAL,RB,5,PIT,20,87,4.3,0,2,2,27,1,1,0,19.4
+4,Rhamondre Stevenson,NE,RB,5,MIA,12,89,7.4,1,4,4,3,0,0,0,19.2
+5,Kareem Hunt,KC,RB,5,NO,27,102,3.8,1,1,1,15,0,0,0,18.7
+6,Trey Sermon,IND,RB,5,JAX,10,38,3.8,1,6,6,25,0,0,0,18.3
+7,James Cook,BUF,RB,5,HOU,20,82,4.1,1,3,2,17,0,0,0,17.9
+8,Chuba Hubbard,CAR,RB,5,CHI,13,97,7.5,1,4,4,-2,0,1,1,17.5
+9,Derrick Henry,BAL,RB,5,CIN,15,92,6.1,1,1,1,4,0,0,0,16.6
+10,Josh Jacobs,GB,RB,5,LAR,19,73,3.8,1,1,1,21,0,0,0,16.4
+11,Chase Brown,CIN,RB,5,BAL,12,46,3.8,0,3,3,8,1,0,0,16.4
+12,Javonte Williams,DEN,RB,5,LV,13,61,4.7,0,6,5,50,0,0,0,16.1
+13,Kyren Williams,LAR,RB,5,GB,22,102,4.6,1,1,1,3,0,1,1,15.5
+14,Dare Ogunbowale,HOU,RB,5,BUF,15,30,2,0,7,6,57,0,0,0,14.7
+15,Kenneth Walker III,SEA,RB,5,NYG,5,19,3.8,0,8,7,57,0,0,0,14.6
+16,Roschon Johnson,CHI,RB,5,CAR,10,25,2.5,2,0,0,0,0,0,0,14.5
+17,Ameer Abdullah,LV,RB,5,DEN,5,42,8.4,1,3,3,9,0,0,0,14.1
+18,James Conner,ARI,RB,5,SF,19,86,4.5,0,3,2,14,0,0,0,14
+19,Tyrone Tracy Jr.,NYG,RB,5,SEA,18,129,7.2,0,2,1,1,0,0,0,14
+20,Brian Robinson Jr.,WAS,RB,5,CLE,7,18,2.6,2,0,0,0,0,0,0,13.8
+21,Cam Akers,HOU,RB,5,BUF,9,42,4.7,1,3,2,5,0,0,0,12.7
+22,Alvin Kamara,NO,RB,5,KC,11,26,2.4,0,8,6,40,0,0,0,12.6
+23,Travis Etienne Jr.,JAX,RB,5,IND,6,17,2.8,0,7,6,43,0,0,0,12
+24,Raheem Mostert,MIA,RB,5,NE,19,80,4.2,0,2,2,18,0,0,0,11.8
+25,Austin Ekeler,WAS,RB,5,CLE,6,67,11.2,0,2,2,30,0,1,0,11.7
+26,Jaleel McLaughlin,DEN,RB,5,LV,6,22,3.7,0,4,3,3,1,0,0,11.5
+27,Bijan Robinson,ATL,RB,5,TB,12,61,5.1,0,3,3,16,0,0,0,10.7
+28,Jeremy McNichols,WAS,RB,5,CLE,7,44,6.3,1,0,0,0,0,0,0,10.4
+29,Alexander Mattison,LV,RB,5,DEN,15,38,2.5,0,3,2,23,0,0,0,10.1
+30,Najee Harris,PIT,RB,5,DAL,14,42,3,0,2,2,35,0,0,0,9.7
+31,Rachaad White,TB,RB,5,ATL,10,72,7.2,0,3,3,-6,0,0,0,9.6
+32,Jordan Mason,SF,RB,5,ARI,14,89,6.4,0,1,1,9,0,1,1,8.8
+33,Tyler Goodson,IND,RB,5,JAX,5,26,5.2,0,3,3,31,0,0,0,8.7
+34,Jaylen Wright,MIA,RB,5,NE,13,86,6.6,0,0,0,0,0,0,0,8.6
+35,Zack Moss,CIN,RB,5,BAL,9,24,2.7,0,4,3,28,0,0,0,8.2
+36,Jerome Ford,CLE,RB,5,WAS,9,47,5.2,0,3,3,2,0,0,0,7.9
+37,D'Onta Foreman,CLE,RB,5,WAS,9,44,4.9,0,1,1,16,0,0,0,7
+38,C.J. Ham,MIN,FB,5,NYJ,2,10,5,1,0,0,0,0,0,0,7
+39,Breece Hall,NYJ,RB,5,MIN,9,23,2.6,0,4,3,14,0,0,0,6.7
+40,Antonio Gibson,NE,RB,5,MIA,6,52,8.7,0,1,1,4,0,0,0,6.6
+41,Eric Gray,NYG,RB,5,SEA,4,4,1,0,4,3,50,0,1,1,6.4
+42,Alec Ingold,MIA,FB,5,NE,1,3,3,1,0,0,0,0,0,0,6.3
+43,Aaron Jones,MIN,RB,5,NYJ,7,29,4.1,0,1,1,24,0,0,0,6.3
+44,Zach Charbonnet,SEA,RB,5,NYG,2,11,5.5,0,5,3,19,0,0,0,6
+45,Ty Chandler,MIN,RB,5,NYJ,14,30,2.1,0,2,2,9,0,0,0,5.9
+46,Bucky Irving,TB,RB,5,ATL,9,44,4.9,0,2,2,12,0,1,1,5.6
+47,Tyler Allgeier,ATL,RB,5,TB,6,12,2,0,3,3,13,0,0,0,5.5
+48,Miles Sanders,CAR,RB,5,CHI,2,6,3,0,3,2,27,0,0,0,5.3
+49,Blake Corum,LAR,RB,5,GB,5,25,5,0,1,1,8,0,0,0,4.3
+50,Braelon Allen,NYJ,RB,5,MIN,5,13,2.6,0,2,1,15,0,0,0,3.8
+51,Justice Hill,BAL,RB,5,CIN,5,17,3.4,0,2,1,8,0,0,0,3.5
+52,Hunter Luepke,DAL,RB,5,PIT,2,6,3,0,1,1,18,0,0,0,3.4
+53,Samaje Perine,KC,RB,5,NO,0,0,,0,2,1,24,0,0,0,3.4
+54,D'Ernest Johnson,JAX,RB,5,IND,1,1,1,0,3,2,9,0,0,0,3
+55,De'Von Achane,MIA,RB,5,NE,3,18,6,0,1,1,-1,0,0,0,2.7
+56,Emanuel Wilson,GB,RB,5,LAR,6,24,4,0,1,1,-9,0,0,0,2.5
+57,Myles Gaskin,MIN,RB,5,NYJ,2,2,1,0,1,1,11,0,0,0,2.3
+58,Isaac Guerendo,SF,RB,5,ARI,5,22,4.4,0,0,0,0,0,0,0,2.2
+59,Ezekiel Elliott,DAL,RB,5,PIT,6,17,2.8,0,1,0,0,0,0,0,1.7
+60,Ty Johnson,BUF,RB,5,HOU,3,15,5,0,0,0,0,0,0,0,1.5
+61,Michael Burton,DEN,FB,5,LV,0,0,,0,1,1,5,0,0,0,1.5
+62,Aaron Shampklin,PIT,RB,5,DAL,4,14,3.5,0,0,0,0,0,0,0,1.4
+63,Ray Davis,BUF,RB,5,HOU,0,0,,0,2,1,4,0,0,0,1.4
+64,Carson Steele,KC,FB,5,NO,5,12,2.4,0,0,0,0,0,1,0,1.2
+65,Emari Demercado,ARI,RB,5,SF,0,0,,0,1,1,0,0,0,0,1
+66,Jonathan Ward,PIT,RB,5,DAL,2,9,4.5,0,0,0,0,0,0,0,0.9
+67,Jamaal Williams,NO,RB,5,KC,2,9,4.5,0,0,0,0,0,0,0,0.9
+68,Pierre Strong Jr.,CLE,RB,5,WAS,1,2,2,0,1,0,0,0,0,0,0.2
+69,J.J. Taylor,HOU,RB,5,BUF,0,0,,0,0,0,0,0,0,0,0
+70,Dante Miller,NYG,RB,5,SEA,0,0,,0,0,0,0,0,0,0,0
+71,Kenny McIntosh,SEA,RB,5,NYG,0,0,,0,0,0,0,0,0,0,0
+72,Avery Williams,ATL,RB,5,TB,0,0,,0,0,0,0,0,0,0,0
+73,Reggie Gilliam,BUF,FB,5,HOU,0,0,,0,0,0,0,0,0,0,0
+74,Sean Tucker,TB,RB,5,ATL,0,0,,0,0,0,0,0,0,0,0
+75,Isaiah Davis,NYJ,RB,5,MIN,0,0,,0,0,0,0,0,0,0,0
+76,Jordan Mims,NO,RB,5,KC,0,0,,0,0,0,0,0,0,0,0
+77,Adam Prentice,NO,FB,5,KC,0,0,,0,0,0,0,0,0,0,0
+78,Dylan Laube,LV,RB,5,DEN,0,0,,0,0,0,0,0,0,0,0
+79,Andrew Beck,GB,FB,5,LAR,0,0,,0,0,0,0,0,0,0,0
+80,Sincere McCormick,LV,RB,5,DEN,0,0,,0,0,0,0,0,0,0,0
+81,Blake Watson,DEN,RB,5,LV,0,0,,0,0,0,0,0,0,0,0
+82,Raheem Blackshear,CAR,RB,5,CHI,0,0,,0,0,0,0,0,0,0,0
+83,Khalil Herbert,CHI,RB,5,CAR,0,0,,0,0,0,0,0,0,0,0
+84,Chris Brooks,GB,RB,5,LAR,0,0,,0,0,0,0,0,0,0,0
+85,Ronnie Rivers,LAR,RB,5,GB,0,0,,0,0,0,0,0,0,0,0
+86,Kyle Juszczyk,SF,FB,5,ARI,0,0,,0,0,0,0,0,0,0,0
+87,Jeff Wilson Jr.,MIA,RB,5,NE,0,0,,0,0,0,0,0,0,0,0
+88,JaMycal Hasty,NE,RB,5,MIA,0,0,,0,0,0,0,0,0,0,0
+89,Trayveon Williams,CIN,RB,5,BAL,0,0,,0,0,0,0,0,0,0,0
+90,DeeJay Dallas,ARI,RB,5,SF,0,0,,0,0,0,0,0,0,0,0
+91,Patrick Ricard,BAL,FB,5,CIN,0,0,,0,0,0,0,0,0,0,0
+92,Chris Collier,BAL,RB,5,CIN,0,0,,0,0,0,0,0,0,0,0
+93,British Brooks,HOU,RB,5,BUF,0,0,,0,0,0,0,0,0,0,0
+94,Patrick Taylor Jr.,SF,RB,5,ARI,0,0,,0,0,0,0,0,0,0,0
