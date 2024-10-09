@@ -1,485 +1,485 @@
-RK	NAME	TEAM	POS	WK	OPP	TGTS	REC	CATCH%	RECEIVING_YDS	RECEIVING_TD	LONG	YDS/TGT	YDS/REC	RUSHING_ATT	RUSHING_YDS	RUSHING_AVG	RUSHING_TD	FUMBLES	FUMBLES_LOST	FPTS
-1	Isaiah Likely	BAL	TE	1	KC	12	9	75	111	1	49	9.2	12.3	0	0		0	0	0	26.1
-2	Foster Moreau	NO	TE	1	CAR	4	4	100	43	1	22	10.8	10.8	0	0		0	0	0	14.3
-3	Brock Bowers	LV	TE	1	LAC	8	6	75	58	0	26	7.2	9.7	0	0		0	0	0	11.8
-4	Kyle Pitts	ATL	TE	1	PIT	3	3	100	26	1	12	8.7	8.7	0	0		0	0	0	11.6
-5	Juwan Johnson	NO	TE	1	CAR	3	2	66.7	26	1	16	8.7	13	0	0		0	0	0	10.6
-6	Chigoziem Okonkwo	TEN	TE	1	CHI	2	2	100	15	1	17	7.5	7.5	0	0		0	0	0	9.5
-7	Colby Parkinson	LAR	TE	1	DET	5	4	80	47	0	20	9.4	11.8	0	0		0	0	0	8.7
-8	Sam LaPorta	DET	TE	1	LAR	5	4	80	45	0	18	9	11.2	0	0		0	0	0	8.5
-9	David Njoku	CLE	TE	1	DAL	5	4	80	44	0	29	8.8	11	0	0		0	0	0	8.4
-10	Trey McBride	ARI	TE	1	BUF	9	5	55.6	30	0	8	3.3	6	0	0		0	0	0	8
-11	George Kittle	SF	TE	1	NYJ	5	4	80	40	0	26	8	10	0	0		0	0	0	8
-12	Dallas Goedert	PHI	TE	1	GB	5	4	80	31	0	21	6.2	7.8	0	0		0	0	0	7.1
-13	Noah Gray	KC	TE	1	BAL	3	3	100	37	0	13	12.3	12.3	0	0		0	0	0	6.7
-14	Pat Freiermuth	PIT	TE	1	ATL	4	4	100	27	0	10	6.8	6.8	0	0		0	0	0	6.7
-15	Travis Kelce	KC	TE	1	BAL	4	3	75	34	0	23	8.5	11.3	0	0		0	0	0	6.4
-16	Zach Ertz	WAS	TE	1	TB	4	3	75	28	0	12	7	9.3	0	0		0	0	0	5.8
-17	Jordan Akins	CLE	TE	1	DAL	4	3	75	27	0	13	6.8	9	0	0		0	0	0	5.7
-18	Tucker Kraft	GB	TE	1	PHI	3	2	66.7	37	0	29	12.3	18.5	0	0		0	0	0	5.7
-19	Hayden Hurst	LAC	TE	1	LV	3	2	66.7	33	0	27	11	16.5	0	0		0	0	0	5.3
-20	Austin Hooper	NE	TE	1	CIN	4	2	50	31	0	16	7.8	15.5	0	0		0	0	0	5.1
-21	Mike Gesicki	CIN	TE	1	NE	4	3	75	18	0	7	4.5	6	0	0		0	0	0	4.8
-22	Josh Oliver	MIN	TE	1	NYG	2	2	100	27	0	22	13.5	13.5	0	0		0	0	0	4.7
-23	Dalton Schultz	HOU	TE	1	IND	3	3	100	16	0	7	5.3	5.3	0	0		0	0	0	4.6
-24	Jake Ferguson	DAL	TE	1	CLE	5	3	60	15	0	7	3	5	0	0		0	0	0	4.5
-25	Hunter Henry	NE	TE	1	CIN	3	2	66.7	18	0	9	6	9	0	0		0	0	0	3.8
-26	Johnny Mundt	MIN	TE	1	NYG	3	2	66.7	15	0	9	5	7.5	0	0		0	0	0	3.5
-27	Mark Andrews	BAL	TE	1	KC	2	2	100	14	0	11	7	7	0	0		0	0	0	3.4
-28	Dawson Knox	BUF	TE	1	ARI	2	1	50	23	0	23	11.5	23	0	0		0	0	0	3.3
-29	Greg Dulcich	DEN	TE	1	SEA	3	2	66.7	12	0	7	4	6	0	0		0	0	0	3.2
-30	Elijah Higgins	ARI	TE	1	BUF	2	2	100	12	0	7	6	6	0	0		0	0	0	3.2
-31	Nick Vannett	TEN	TE	1	CHI	2	2	100	11	0	8	5.5	5.5	0	0		0	0	0	3.1
-32	Noah Fant	SEA	TE	1	DEN	4	2	50	11	0	9	2.8	5.5	0	0		0	0	0	3.1
-33	Theo Johnson	NYG	TE	1	MIN	4	1	25	18	0	18	4.5	18	0	0		0	0	0	2.8
-34	Michael Mayer	LV	TE	1	LAC	3	2	66.7	3	0	3	1	1.5	0	0		0	0	0	2.3
-35	Will Dissly	LAC	TE	1	LV	1	1	100	13	0	13	13	13	0	0		0	0	0	2.3
-36	Grant Calcaterra	PHI	TE	1	GB	1	1	100	11	0	11	11	11	0	0		0	0	0	2.1
-37	Dalton Kincaid	BUF	TE	1	ARI	2	1	50	11	0	11	5.5	11	0	0		0	0	0	2.1
-38	MyCole Pruitt	PIT	TE	1	ATL	2	1	50	9	0	9	4.5	9	0	0		0	0	0	1.9
-39	Tanner Hudson	CIN	TE	1	NE	3	2	66.7	18	0	13	6	9	0	0		0	1	1	1.8
-40	Jonnu Smith	MIA	TE	1	JAX	2	1	50	7	0	7	3.5	7	0	0		0	0	0	1.7
-41	Tyler Conklin	NYJ	TE	1	SF	2	1	50	6	0	6	3	6	0	0		0	0	0	1.6
-42	Julian Hill	MIA	TE	1	JAX	1	1	100	6	0	6	6	6	0	0		0	0	0	1.6
-43	Cade Otton	TB	TE	1	WAS	2	1	50	5	0	5	2.5	5	0	0		0	0	0	1.5
-44	Evan Engram	JAX	TE	1	MIA	4	1	25	5	0	5	1.2	5	0	0		0	0	0	1.5
-45	Darnell Washington	PIT	TE	1	ATL	1	1	100	5	0	5	5	5	0	0		0	0	0	1.5
-46	Ja'Tavion Sanders	CAR	TE	1	NO	1	1	100	4	0	4	4	4	0	0		0	0	0	1.4
-47	Cole Kmet	CHI	TE	1	TEN	1	1	100	4	0	4	4	4	0	0		0	0	0	1.4
-48	Charlie Woerner	ATL	TE	1	PIT	2	1	50	4	0	4	2	4	0	0		0	0	0	1.4
-49	Brevin Jordan	HOU	TE	1	IND	2	1	50	3	0	3	1.5	3	0	0		0	0	0	1.3
-50	Daniel Bellinger	NYG	TE	1	MIN	1	1	100	3	0	3	3	3	0	0		0	0	0	1.3
-51	Brock Wright	DET	TE	1	LAR	1	1	100	2	0	2	2	2	0	0		0	0	0	1.2
-52	Gerald Everett	CHI	TE	1	TEN	1	1	100	-1	0	-1	-1	-1	0	0		0	0	0	0.9
-53	Harrison Bryant	LV	TE	1	LAC	0	0		0	0	0			0	0		0	0	0	0
-54	Brady Russell	SEA	TE	1	DEN	0	0		0	0	0			0	0		0	0	0	0
-55	Feleipe Franks	CAR	TE	1	NO	0	0		0	0	0			0	0		0	0	0	0
-56	AJ Barner	SEA	TE	1	DEN	0	0		0	0	0			0	0		0	0	0	0
-57	Nate Adkins	DEN	TE	1	SEA	0	0		0	0	0			0	0		0	0	0	0
-58	Jake Tonges	SF	TE	1	NYJ	0	0		0	0	0			0	0		0	0	0	0
-59	Anthony Firkser	NYJ	TE	1	SF	0	0		0	0	0			0	0		0	0	0	0
-60	Jeremy Ruckert	NYJ	TE	1	SF	0	0		0	0	0			0	0		0	0	0	0
-61	Jordan Matthews	CAR	TE	1	NO	1	0	0	0	0	0	0		0	0		0	0	0	0
-62	Eric Saubert	SF	TE	1	NYJ	1	0	0	0	0	0	0		0	0		0	0	0	0
-63	Brenton Strange	JAX	TE	1	MIA	0	0		0	0	0			0	0		0	0	0	0
-64	Tanner Conner	MIA	TE	1	JAX	0	0		0	0	0			0	0		0	0	0	0
-65	E.J. Jenkins	PHI	TE	1	GB	0	0		0	0	0			0	0		0	0	0	0
-66	Durham Smythe	MIA	TE	1	JAX	3	0	0	0	0	0	0		0	0		0	0	0	0
-67	Nick Muse	MIN	TE	1	NYG	0	0		0	0	0			0	0		0	0	0	0
-68	Chris Manhertz	NYG	TE	1	MIN	0	0		0	0	0			0	0		0	0	0	0
-69	Luke Farrell	JAX	TE	1	MIA	0	0		0	0	0			0	0		0	0	0	0
-70	Parker Hesse	DET	TE	1	LAR	0	0		0	0	0			0	0		0	0	0	0
-71	Davis Allen	LAR	TE	1	DET	1	0	0	0	0	0	0		0	0		0	0	0	0
-72	Luke Schoonmaker	DAL	TE	1	CLE	0	0		0	0	0			0	0		0	0	0	0
-73	Brevyn Spann-Ford	DAL	TE	1	CLE	0	0		0	0	0			0	0		0	0	0	0
-74	Charlie Kolar	BAL	TE	1	KC	0	0		0	0	0			0	0		0	0	0	0
-75	Jared Wiley	KC	TE	1	BAL	0	0		0	0	0			0	0		0	0	0	0
-76	Hunter Long	LAR	TE	1	DET	0	0		0	0	0			0	0		0	0	0	0
-77	Drew Ogletree	IND	TE	1	HOU	0	0		0	0	0			0	0		0	0	0	0
-78	Ross Dwelley	ATL	TE	1	PIT	0	0		0	0	0			0	0		0	0	0	0
-79	Kylen Granson	IND	TE	1	HOU	1	0	0	0	0	0	0		0	0		0	0	0	0
-80	Mo Alie-Cox	IND	TE	1	HOU	1	0	0	0	0	0	0		0	0		0	0	0	0
-81	Colson Yankoff	WAS	TE	1	TB	0	0		0	0	0			0	0		0	0	0	0
-82	John Bates	WAS	TE	1	TB	1	0	0	0	0	0	0		0	0		0	0	0	0
-83	Cade Stover	HOU	TE	1	IND	0	0		0	0	0			0	0		0	0	0	0
-84	Ko Kieft	TB	TE	1	WAS	0	0		0	0	0			0	0		0	0	0	0
-85	Ben Sinnott	WAS	TE	1	TB	0	0		0	0	0			0	0		0	0	0	0
-86	Payne Durham	TB	TE	1	WAS	0	0		0	0	0			0	0		0	0	0	0
-87	Erick All Jr.	CIN	TE	1	NE	0	0		0	0	0			0	0		0	0	0	0
-88	Jaheim Bell	NE	TE	1	CIN	0	0		0	0	0			0	0		0	0	0	0
-89	Josh Whyle	TEN	TE	1	CHI	0	0		0	0	0			0	0		0	0	0	0
-90	Drew Sample	CIN	TE	1	NE	0	0		0	0	0			0	0		0	0	0	0
-91	Marcedes Lewis	CHI	TE	1	TEN	0	0		0	0	0			0	0		0	0	0	0
-92	Tip Reiman	ARI	TE	1	BUF	0	0		0	0	0			0	0		0	0	0	0
-93	Quintin Morris	BUF	TE	1	ARI	0	0		0	0	0			0	0		0	0	0	0
-94	Luke Musgrave	GB	TE	1	PHI	2	0	0	0	0	0	0		0	0		0	0	0	0
-95	Connor Heyward	PIT	TE	1	ATL	0	0		0	0	0			0	0		0	0	0	0
-96	Ben Sims	GB	TE	1	PHI	0	0		0	0	0			0	0		0	0	0	0
-97	Eric Tomlinson	LAC	TE	1	LV	0	0		0	0	0			0	0		0	0	0	0
-98	Stone Smartt	LAC	TE	1	LV	0	0		0	0	0			0	0		0	0	0	0
-99	Adam Trautman	DEN	TE	1	SEA	1	0	0	0	0	0	0		0	0		0	0	0	0
-1	George Kittle	SF	TE	2	MIN	8	7	87.5	76	1	25	9.5	10.9	0	0		0	0	0	20.6
-2	Hunter Henry	NE	TE	2	SEA	12	8	66.7	109	0	35	9.1	13.6	0	0		0	0	0	18.9
-3	Brock Bowers	LV	TE	2	BAL	9	9	100	98	0	27	10.9	10.9	0	0		0	0	0	18.8
-4	Trey McBride	ARI	TE	2	LAR	6	6	100	67	0	21	11.2	11.2	0	0		1	0	0	18.7
-5	Mike Gesicki	CIN	TE	2	KC	9	7	77.8	91	0	37	10.1	13	0	0		0	0	0	16.1
-6	Jonnu Smith	MIA	TE	2	BUF	7	6	85.7	53	0	15	7.6	8.8	0	0		0	0	0	11.3
-7	Luke Schoonmaker	DAL	TE	2	NO	6	6	100	43	0	15	7.2	7.2	0	0		0	0	0	10.3
-8	Zach Ertz	WAS	TE	2	NYG	4	4	100	62	0	21	15.5	15.5	0	0		0	0	0	10.2
-9	Brenton Strange	JAX	TE	2	CLE	6	3	50	65	0	30	10.8	21.7	0	0		0	0	0	9.5
-10	Mark Andrews	BAL	TE	2	LV	5	4	80	51	0	16	10.2	12.8	0	0		0	0	0	9.1
-11	Elijah Higgins	ARI	TE	2	LAR	1	1	100	18	1	18	18	18	0	0		0	0	0	8.8
-12	Pat Freiermuth	PIT	TE	2	DEN	4	4	100	39	0	14	9.8	9.8	0	0		0	0	0	7.9
-13	Darnell Washington	PIT	TE	2	DEN	1	1	100	5	1	5	5	5	0	0		0	0	0	7.5
-14	Dalton Kincaid	BUF	TE	2	MIA	4	4	100	33	0	9	8.2	8.2	0	0		0	0	0	7.3
-15	Erick All Jr.	CIN	TE	2	KC	4	4	100	32	0	19	8	8	0	0		0	0	0	7.2
-16	Dallas Goedert	PHI	TE	2	ATL	4	3	75	38	0	16	9.5	12.7	0	0		0	0	0	6.8
-17	Cole Kmet	CHI	TE	2	HOU	5	4	80	27	0	12	5.4	6.8	0	0		0	0	0	6.7
-18	Will Dissly	LAC	TE	2	CAR	3	3	100	29	0	15	9.7	9.7	0	0		0	0	0	5.9
-19	Drew Sample	CIN	TE	2	KC	3	3	100	28	0	12	9.3	9.3	0	0		0	1	0	5.8
-20	Tommy Tremble	CAR	TE	2	LAC	4	3	75	23	0	12	5.8	7.7	0	0		0	0	0	5.3
-21	Kyle Pitts	ATL	TE	2	PHI	4	3	75	20	0	11	5	6.7	0	0		0	0	0	5
-22	Isaiah Likely	BAL	TE	2	LV	3	2	66.7	26	0	15	8.7	13	0	0		0	0	0	4.6
-23	Eric Saubert	SF	TE	2	MIN	2	2	100	26	0	14	13	13	0	0		0	0	0	4.6
-24	Chigoziem Okonkwo	TEN	TE	2	NYJ	3	3	100	16	0	8	5.3	5.3	0	0		0	0	0	4.6
-25	Greg Dulcich	DEN	TE	2	PIT	8	3	37.5	16	0	9	2	5.3	0	0		0	0	0	4.6
-26	Dalton Schultz	HOU	TE	2	CHI	3	2	66.7	21	0	16	7	10.5	0	0		0	0	0	4.1
-27	Grant Calcaterra	PHI	TE	2	ATL	2	2	100	19	0	15	9.5	9.5	0	0		0	0	0	3.9
-28	Tucker Kraft	GB	TE	2	IND	2	2	100	16	0	17	8	8	0	0		0	0	0	3.6
-29	Luke Farrell	JAX	TE	2	CLE	2	2	100	13	0	7	6.5	6.5	0	0		0	0	0	3.3
-30	Sam LaPorta	DET	TE	2	TB	3	2	66.7	13	0	7	4.3	6.5	0	0		0	0	0	3.3
-31	Josh Whyle	TEN	TE	2	NYJ	2	2	100	13	0	12	6.5	6.5	0	0		0	0	0	3.3
-32	Mo Alie-Cox	IND	TE	2	GB	1	1	100	22	0	22	22	22	0	0		0	0	0	3.2
-33	Johnny Mundt	MIN	TE	2	SF	3	2	66.7	12	0	6	4	6	0	0		0	0	0	3.2
-34	Cade Stover	HOU	TE	2	CHI	1	1	100	18	0	18	18	18	0	0		0	0	0	2.8
-35	Ja'Tavion Sanders	CAR	TE	2	LAC	2	2	100	8	0	6	4	4	0	0		0	0	0	2.8
-36	Noah Fant	SEA	TE	2	NE	3	1	33.3	14	0	14	4.7	14	0	0		0	0	0	2.4
-37	Colby Parkinson	LAR	TE	2	ARI	2	1	50	12	0	12	6	12	0	0		0	0	0	2.2
-38	Drew Ogletree	IND	TE	2	GB	2	1	50	12	0	12	6	12	0	0		0	0	0	2.2
-39	Michael Mayer	LV	TE	2	BAL	1	1	100	11	0	11	11	11	0	0		0	0	0	2.1
-40	Gerald Everett	CHI	TE	2	HOU	3	2	66.7	1	0	2	0.3	0.5	0	0		0	0	0	2.1
-41	Jordan Akins	CLE	TE	2	JAX	1	1	100	10	0	10	10	10	0	0		0	0	0	2
-42	Tyler Conklin	NYJ	TE	2	TEN	2	1	50	10	0	10	5	10	0	0		0	0	0	2
-43	Kylen Granson	IND	TE	2	GB	2	1	50	9	0	9	4.5	9	0	0		0	0	0	1.9
-44	Durham Smythe	MIA	TE	2	BUF	1	1	100	8	0	8	8	8	0	0		0	0	0	1.8
-45	Jared Wiley	KC	TE	2	CIN	1	1	100	7	0	7	7	7	0	0		0	0	0	1.7
-46	Luke Musgrave	GB	TE	2	IND	1	1	100	6	0	6	6	6	0	0		0	0	0	1.6
-47	Travis Kelce	KC	TE	2	CIN	3	1	33.3	5	0	5	1.7	5	1	1	1	0	0	0	1.6
-48	John Bates	WAS	TE	2	NYG	1	1	100	5	0	5	5	5	0	0		0	0	0	1.5
-49	Hayden Hurst	LAC	TE	2	CAR	2	1	50	5	0	5	2.5	5	0	0		0	0	0	1.5
-50	Austin Hooper	NE	TE	2	SEA	1	1	100	5	0	5	5	5	0	0		0	0	0	1.5
-51	Brevin Jordan	HOU	TE	2	CHI	1	1	100	4	0	4	4	4	0	0		0	0	0	1.4
-52	Charlie Kolar	BAL	TE	2	LV	1	1	100	4	0	4	4	4	0	0		0	0	0	1.4
-53	Peyton Hendershot	KC	TE	2	CIN	0	0		0	0	0			0	0		0	0	0	0
-54	Ko Kieft	TB	TE	2	DET	0	0		0	0	0			0	0		0	0	0	0
-55	Brock Wright	DET	TE	2	TB	0	0		0	0	0			0	0		0	0	0	0
-56	Parker Hesse	DET	TE	2	TB	0	0		0	0	0			0	0		0	0	0	0
-57	Harrison Bryant	LV	TE	2	BAL	1	0	0	0	0	0	0		0	0		0	0	0	0
-58	Feleipe Franks	CAR	TE	2	LAC	0	0		0	0	0			0	0		0	0	0	0
-59	Stone Smartt	LAC	TE	2	CAR	0	0		0	0	0			0	0		0	0	0	0
-60	Eric Tomlinson	LAC	TE	2	CAR	1	0	0	0	0	0	0		0	0		0	0	0	0
-61	Jordan Matthews	CAR	TE	2	LAC	0	0		0	0	0			0	0		0	0	0	0
-62	Josh Oliver	MIN	TE	2	SF	0	0		0	0	0			0	0		0	0	0	0
-63	Nick Muse	MIN	TE	2	SF	0	0		0	0	0			0	0		0	0	0	0
-64	Jake Tonges	SF	TE	2	MIN	0	0		0	0	0			0	0		0	0	0	0
-65	Foster Moreau	NO	TE	2	DAL	0	0		0	0	0			0	0		0	0	0	0
-66	Princeton Fant	DAL	TE	2	NO	0	0		0	0	0			0	0		0	0	0	0
-67	Brevyn Spann-Ford	DAL	TE	2	NO	1	0	0	0	0	0	0		0	0		0	0	0	0
-68	Juwan Johnson	NO	TE	2	DAL	0	0		0	0	0			0	0		0	0	0	0
-69	Ben Sims	GB	TE	2	IND	0	0		0	0	0			0	0		0	0	0	0
-70	Blake Whiteheart	CLE	TE	2	JAX	0	0		0	0	0			0	0		0	0	0	0
-71	E.J. Jenkins	PHI	TE	2	ATL	0	0		0	0	0			0	0		0	0	0	0
-72	Ross Dwelley	ATL	TE	2	PHI	0	0		0	0	0			0	0		0	0	0	0
-73	Charlie Woerner	ATL	TE	2	PHI	0	0		0	0	0			0	0		0	0	0	0
-74	Marcedes Lewis	CHI	TE	2	HOU	0	0		0	0	0			0	0		0	0	0	0
-75	AJ Barner	SEA	TE	2	NE	0	0		0	0	0			0	0		0	0	0	0
-76	Brady Russell	SEA	TE	2	NE	0	0		0	0	0			0	0		0	0	0	0
-77	Jaheim Bell	NE	TE	2	SEA	0	0		0	0	0			0	0		0	0	0	0
-78	Quintin Morris	BUF	TE	2	MIA	0	0		0	0	0			0	0		0	0	0	0
-79	Dawson Knox	BUF	TE	2	MIA	0	0		0	0	0			0	0		0	0	0	0
-80	Tanner Conner	MIA	TE	2	BUF	0	0		0	0	0			0	0		0	0	0	0
-81	Julian Hill	MIA	TE	2	BUF	2	0	0	0	0	0	0		0	0		0	0	0	0
-82	Brenden Bates	NYJ	TE	2	TEN	0	0		0	0	0			0	0		0	0	0	0
-83	Nick Vannett	TEN	TE	2	NYJ	0	0		0	0	0			0	0		0	0	0	0
-84	Jeremy Ruckert	NYJ	TE	2	TEN	3	0	0	0	0	0	0		0	0		0	0	0	0
-85	Ben Sinnott	WAS	TE	2	NYG	0	0		0	0	0			0	0		0	0	0	0
-86	Daniel Bellinger	NYG	TE	2	WAS	0	0		0	0	0			0	0		0	0	0	0
-87	Colson Yankoff	WAS	TE	2	NYG	0	0		0	0	0			0	0		0	0	0	0
-88	Chris Manhertz	NYG	TE	2	WAS	0	0		0	0	0			0	0		0	0	0	0
-89	Theo Johnson	NYG	TE	2	WAS	0	0		0	0	0			0	0		0	0	0	0
-90	Nikola Kalinic	LAR	TE	2	ARI	0	0		0	0	0			0	0		0	0	0	0
-91	Hunter Long	LAR	TE	2	ARI	0	0		0	0	0			0	0		0	0	0	0
-92	Tip Reiman	ARI	TE	2	LAR	0	0		0	0	0			0	0		0	0	0	0
-93	Adam Trautman	DEN	TE	2	PIT	0	0		0	0	0			0	0		0	0	0	0
-94	Connor Heyward	PIT	TE	2	DEN	0	0		0	0	0			0	0		0	0	0	0
-95	Nate Adkins	DEN	TE	2	PIT	1	0	0	0	0	0	0		0	0		0	0	0	0
-96	MyCole Pruitt	PIT	TE	2	DEN	0	0		0	0	0			0	0		0	0	0	0
-97	Noah Gray	KC	TE	2	CIN	0	0		0	0	0			0	0		0	0	0	0
-98	Payne Durham	TB	TE	2	DET	0	0		0	0	0			0	0		0	0	0	0
-99	Cade Otton	TB	TE	2	DET	2	0	0	0	0	0	0		1	-4	-4	0	0	0	-0.4
-1	Dallas Goedert	PHI	TE	3	NO	11	10	90.9	170	0	61	15.5	17	0	0		0	0	0	27
-2	Cole Kmet	CHI	TE	3	IND	11	10	90.9	97	1	19	8.8	9.7	0	0		0	0	0	25.7
-3	Jake Ferguson	DAL	TE	3	BAL	11	6	54.5	95	0	26	8.6	15.8	0	0		0	0	0	15.5
-4	Tyler Conklin	NYJ	TE	3	NE	6	5	83.3	93	0	22	15.5	18.6	0	0		0	0	0	14.3
-5	Dalton Kincaid	BUF	TE	3	JAX	5	3	60	41	1	28	8.2	13.7	0	0		0	0	0	13.1
-6	Noah Fant	SEA	TE	3	MIA	6	6	100	60	0	16	10	10	0	0		0	0	0	12
-7	Cade Otton	TB	TE	3	DEN	8	7	87.5	47	0	13	5.9	6.7	0	0		0	1	1	9.7
-8	Brenton Strange	JAX	TE	3	BUF	5	2	40	12	1	6	2.4	6	0	0		0	0	0	9.2
-9	Nick Vannett	TEN	TE	3	GB	2	2	100	9	1	8	4.5	4.5	0	0		0	0	0	8.9
-10	Zach Ertz	WAS	TE	3	CIN	5	5	100	38	0	12	7.6	7.6	0	0		0	1	0	8.8
-11	Mike Gesicki	CIN	TE	3	WAS	5	4	80	47	0	17	9.4	11.8	0	0		0	0	0	8.7
-12	Josh Whyle	TEN	TE	3	GB	5	4	80	43	0	23	8.6	10.8	0	0		0	0	0	8.3
-13	Kyle Pitts	ATL	TE	3	KC	5	2	40	59	0	50	11.8	29.5	0	0		0	0	0	7.9
-14	Brock Wright	DET	TE	3	ARI	5	4	80	34	0	11	6.8	8.5	0	0		0	0	0	7.4
-15	Pat Freiermuth	PIT	TE	3	LAC	5	4	80	33	0	15	6.6	8.2	0	0		0	0	0	7.3
-16	Johnny Mundt	MIN	TE	3	HOU	3	1	33.3	2	1	2	0.7	2	0	0		0	0	0	7.2
-17	Brock Bowers	LV	TE	3	CAR	4	3	75	41	0	21	10.2	13.7	0	0		0	0	0	7.1
-18	Travis Kelce	KC	TE	3	ATL	5	4	80	30	0	17	6	7.5	0	0		0	0	0	7
-19	Jordan Akins	CLE	TE	3	NYG	7	4	57.1	29	0	10	4.1	7.2	0	0		0	0	0	6.9
-20	Erick All Jr.	CIN	TE	3	WAS	4	4	100	22	0	8	5.5	5.5	0	0		0	0	0	6.2
-21	Eric Saubert	SF	TE	3	LAR	2	2	100	41	0	16	20.5	20.5	0	0		0	0	0	6.1
-22	Tommy Tremble	CAR	TE	3	LV	3	3	100	29	0	20	9.7	9.7	0	0		0	0	0	5.9
-23	Sam LaPorta	DET	TE	3	ARI	2	2	100	36	0	24	18	18	0	0		0	0	0	5.6
-24	Trey McBride	ARI	TE	3	DET	6	3	50	25	0	9	4.2	8.3	0	0		0	0	0	5.5
-25	Colby Parkinson	LAR	TE	3	SF	5	3	60	21	0	9	4.2	7	0	0		0	0	0	5.1
-26	Kylen Granson	IND	TE	3	CHI	1	1	100	40	0	40	40	40	0	0		0	0	0	5
-27	Will Dissly	LAC	TE	3	PIT	3	3	100	19	0	7	6.3	6.3	0	0		0	0	0	4.9
-28	Tucker Kraft	GB	TE	3	TEN	3	2	66.7	24	0	21	8	12	0	0		0	0	0	4.4
-29	Julian Hill	MIA	TE	3	SEA	2	2	100	24	0	13	12	12	0	0		0	0	0	4.4
-30	AJ Barner	SEA	TE	3	MIA	3	3	100	13	0	8	4.3	4.3	0	0		0	0	0	4.3
-31	Charlie Kolar	BAL	TE	3	DAL	1	1	100	30	0	30	30	30	0	0		0	0	0	4
-32	Jonnu Smith	MIA	TE	3	SEA	3	2	66.7	18	0	13	6	9	0	0		0	0	0	3.8
-33	Chigoziem Okonkwo	TEN	TE	3	GB	2	2	100	15	0	8	7.5	7.5	0	0		0	0	0	3.5
-34	Jeremy Ruckert	NYJ	TE	3	NE	2	2	100	15	0	11	7.5	7.5	0	0		0	0	0	3.5
-35	Hayden Hurst	LAC	TE	3	PIT	2	2	100	15	0	8	7.5	7.5	0	0		0	0	0	3.5
-36	Dalton Schultz	HOU	TE	3	MIN	5	2	40	11	0	8	2.2	5.5	0	0		0	0	0	3.1
-37	Hunter Henry	NE	TE	3	NYJ	3	2	66.7	9	0	9	3	4.5	0	0		0	0	0	2.9
-38	Austin Hooper	NE	TE	3	NYJ	4	1	25	19	0	19	4.8	19	0	0		0	0	0	2.9
-39	Daniel Bellinger	NYG	TE	3	CLE	1	1	100	17	0	17	17	17	0	0		0	0	0	2.7
-40	Noah Gray	KC	TE	3	ATL	2	1	50	13	0	13	6.5	13	0	0		0	0	0	2.3
-41	Theo Johnson	NYG	TE	3	CLE	3	1	33.3	13	0	13	4.3	13	0	0		0	0	0	2.3
-42	Adam Trautman	DEN	TE	3	TB	1	1	100	13	0	13	13	13	0	0		0	0	0	2.3
-43	Elijah Higgins	ARI	TE	3	DET	1	1	100	11	0	11	11	11	0	0		0	0	0	2.1
-44	Pharaoh Brown	SEA	TE	3	MIA	2	1	50	9	0	9	4.5	9	0	0		0	0	0	1.9
-45	Payne Durham	TB	TE	3	DEN	1	1	100	8	0	8	8	8	0	0		0	0	0	1.8
-46	Josiah Deguara	JAX	TE	3	BUF	1	1	100	8	0	8	8	8	0	0		0	0	0	1.8
-47	Dawson Knox	BUF	TE	3	JAX	2	1	50	7	0	7	3.5	7	0	0		0	0	0	1.7
-48	Michael Mayer	LV	TE	3	CAR	3	1	33.3	7	0	7	2.3	7	0	0		0	0	0	1.7
-49	Nate Adkins	DEN	TE	3	TB	1	1	100	6	0	6	6	6	0	0		0	0	0	1.6
-50	Luke Schoonmaker	DAL	TE	3	BAL	2	1	50	5	0	5	2.5	5	0	0		0	0	0	1.5
-51	Isaiah Likely	BAL	TE	3	DAL	1	1	100	4	0	4	4	4	0	0		0	0	0	1.4
-52	Luke Musgrave	GB	TE	3	TEN	1	1	100	3	0	3	3	3	0	0		0	0	0	1.3
-53	Durham Smythe	MIA	TE	3	SEA	2	1	50	3	0	3	1.5	3	0	0		0	0	0	1.3
-54	Connor Heyward	PIT	TE	3	LAC	1	1	100	2	0	2	2	2	0	0		0	0	0	1.2
-55	Foster Moreau	NO	TE	3	PHI	2	1	50	2	0	2	1	2	0	0		0	0	0	1.2
-56	Tanner Conner	MIA	TE	3	SEA	2	1	50	1	0	1	0.5	1	0	0		0	0	0	1.1
-57	Luke Farrell	JAX	TE	3	BUF	2	1	50	1	0	1	0.5	1	0	0		0	0	0	1.1
-58	Jared Wiley	KC	TE	3	ATL	0	0		0	0	0			0	0		0	0	0	0
-59	Ko Kieft	TB	TE	3	DEN	0	0		0	0	0			0	0		0	0	0	0
-60	Greg Dulcich	DEN	TE	3	TB	0	0		0	0	0			0	0		0	0	0	0
-61	Brenden Bates	NYJ	TE	3	NE	0	0		0	0	0			0	0		0	0	0	0
-62	Jaheim Bell	NE	TE	3	NYJ	0	0		0	0	0			0	0		0	0	0	0
-63	Juwan Johnson	NO	TE	3	PHI	0	0		0	0	0			0	0		0	0	0	0
-64	Grant Calcaterra	PHI	TE	3	NO	0	0		0	0	0			0	0		0	0	0	0
-65	Jack Stoll	PHI	TE	3	NO	0	0		0	0	0			0	0		0	0	0	0
-66	Drew Ogletree	IND	TE	3	CHI	0	0		0	0	0			0	0		0	0	0	0
-67	Mo Alie-Cox	IND	TE	3	CHI	1	0	0	0	0	0	0		0	0		0	0	0	0
-68	Gerald Everett	CHI	TE	3	IND	1	0	0	0	0	0	0		0	0		0	0	0	0
-69	Marcedes Lewis	CHI	TE	3	IND	0	0		0	0	0			0	0		0	0	0	0
-70	Josh Oliver	MIN	TE	3	HOU	1	0	0	0	0	0	0		0	0		0	0	0	0
-71	Robert Tonyan	MIN	TE	3	HOU	0	0		0	0	0			0	0		0	0	0	0
-72	Cade Stover	HOU	TE	3	MIN	0	0		0	0	0			0	0		0	0	0	0
-73	Eric Tomlinson	LAC	TE	3	PIT	0	0		0	0	0			0	0		0	0	0	0
-74	Stone Smartt	LAC	TE	3	PIT	0	0		0	0	0			0	0		0	0	0	0
-75	Darnell Washington	PIT	TE	3	LAC	0	0		0	0	0			0	0		0	0	0	0
-76	Rodney Williams	PIT	TE	3	LAC	0	0		0	0	0			0	0		0	0	0	0
-77	Brady Russell	SEA	TE	3	MIA	0	0		0	0	0			0	0		0	0	0	0
-78	Blake Whiteheart	CLE	TE	3	NYG	0	0		0	0	0			0	0		0	0	0	0
-79	Geoff Swaim	CLE	TE	3	NYG	0	0		0	0	0			0	0		0	0	0	0
-80	Chris Manhertz	NYG	TE	3	CLE	0	0		0	0	0			0	0		0	0	0	0
-81	Mark Andrews	BAL	TE	3	DAL	1	0	0	0	0	0	0		0	0		0	0	0	0
-82	Brevyn Spann-Ford	DAL	TE	3	BAL	0	0		0	0	0			0	0		0	0	0	0
-83	Ja'Tavion Sanders	CAR	TE	3	LV	1	0	0	0	0	0	0		0	0		0	0	0	0
-84	Feleipe Franks	CAR	TE	3	LV	0	0		0	0	0			0	0		0	0	0	0
-85	Harrison Bryant	LV	TE	3	CAR	0	0		0	0	0			0	0		0	0	0	0
-86	Ben Sims	GB	TE	3	TEN	0	0		0	0	0			0	0		0	0	0	0
-87	Parker Hesse	DET	TE	3	ARI	0	0		0	0	0			0	0		0	0	0	0
-88	Tip Reiman	ARI	TE	3	DET	0	0		0	0	0			0	0		0	0	0	0
-89	Hunter Long	LAR	TE	3	SF	0	0		0	0	0			0	0		0	0	0	0
-90	Nikola Kalinic	LAR	TE	3	SF	0	0		0	0	0			0	0		0	0	0	0
-91	Brayden Willis	SF	TE	3	LAR	0	0		0	0	0			0	0		0	0	0	0
-92	Jake Tonges	SF	TE	3	LAR	0	0		0	0	0			0	0		0	0	0	0
-93	Charlie Woerner	ATL	TE	3	KC	0	0		0	0	0			0	0		0	0	0	0
-94	Ross Dwelley	ATL	TE	3	KC	0	0		0	0	0			0	0		0	0	0	0
-95	Quintin Morris	BUF	TE	3	JAX	0	0		0	0	0			0	0		0	0	0	0
-96	Ben Sinnott	WAS	TE	3	CIN	0	0		0	0	0			0	0		0	0	0	0
-97	John Bates	WAS	TE	3	CIN	0	0		0	0	0			0	0		0	0	0	0
-98	Drew Sample	CIN	TE	3	WAS	0	0		0	0	0			0	0		0	0	0	0
-1	Tucker Kraft	GB	TE	4	MIN	9	6	66.7	53	1	21	5.9	8.8	0	0		0	1	1	17.3
-2	Pat Freiermuth	PIT	TE	4	IND	7	5	71.4	57	1	29	8.1	11.4	0	0		0	0	0	16.7
-3	Travis Kelce	KC	TE	4	LAC	9	7	77.8	89	0	38	9.9	12.7	0	0		0	0	0	15.9
-4	George Kittle	SF	TE	4	NE	4	4	100	45	1	15	11.2	11.2	0	0		0	0	0	14.5
-5	Dallas Goedert	PHI	TE	4	TB	8	7	87.5	62	0	18	7.8	8.9	0	0		0	0	0	13.2
-6	Jake Ferguson	DAL	TE	4	NYG	7	7	100	49	0	9	7	7	0	0		0	1	0	11.9
-7	Cade Otton	TB	TE	4	PHI	9	6	66.7	52	0	16	5.8	8.7	0	0		0	0	0	11.2
-8	AJ Barner	SEA	TE	4	DET	2	2	100	27	1	18	13.5	13.5	0	0		0	0	0	10.7
-9	Blake Whiteheart	CLE	TE	4	LV	3	3	100	13	1	7	4.3	4.3	0	0		0	0	0	10.3
-10	Dalton Kincaid	BUF	TE	4	BAL	7	5	71.4	47	0	25	6.7	9.4	0	0		0	0	0	9.7
-11	Austin Hooper	NE	TE	4	SF	2	2	100	13	1	8	6.5	6.5	0	0		0	0	0	9.3
-12	Sam LaPorta	DET	TE	4	SEA	4	4	100	53	0	30	13.2	13.2	0	0		0	0	0	9.3
-13	Josh Oliver	MIN	TE	4	GB	2	2	100	10	1	8	5	5	0	0		0	0	0	9
-14	Drew Ogletree	IND	TE	4	PIT	1	1	100	15	1	15	15	15	0	0		0	0	0	8.5
-15	Noah Gray	KC	TE	4	LAC	4	4	100	40	0	29	10	10	0	0		0	0	0	8
-16	Colby Parkinson	LAR	TE	4	CHI	7	4	57.1	33	0	11	4.7	8.2	0	0		0	0	0	7.3
-17	Zach Ertz	WAS	TE	4	ARI	3	3	100	22	0	13	7.3	7.3	0	0		0	0	0	7.2
-18	Erick All Jr.	CIN	TE	4	CAR	4	4	100	28	0	11	7	7	0	0		0	0	0	6.8
-19	Dalton Schultz	HOU	TE	4	JAX	5	3	60	34	0	23	6.8	11.3	0	0		0	0	0	6.4
-20	Cole Kmet	CHI	TE	4	LAR	3	3	100	34	0	22	11.3	11.3	0	0		0	0	0	6.4
-21	Tyler Conklin	NYJ	TE	4	DEN	8	4	50	17	0	9	2.1	4.2	0	0		0	0	0	5.7
-22	Darnell Washington	PIT	TE	4	IND	2	2	100	31	0	20	15.5	15.5	0	0		0	0	0	5.1
-23	Brock Bowers	LV	TE	4	CLE	3	2	66.7	19	0	13	6.3	9.5	1	12	12	0	0	0	5.1
-24	Brenton Strange	JAX	TE	4	HOU	3	3	100	19	0	11	6.3	6.3	0	0		0	0	0	4.9
-25	Noah Fant	SEA	TE	4	DET	2	2	100	26	0	16	13	13	0	0		0	0	0	4.6
-26	Will Dissly	LAC	TE	4	KC	3	2	66.7	24	0	22	8	12	0	0		0	0	0	4.4
-27	Luke Musgrave	GB	TE	4	MIN	3	3	100	13	0	5	4.3	4.3	0	0		0	0	0	4.3
-28	Harrison Bryant	LV	TE	4	CLE	2	2	100	21	0	14	10.5	10.5	0	0		0	0	0	4.1
-29	Cade Stover	HOU	TE	4	JAX	1	1	100	27	0	27	27	27	0	0		0	0	0	3.7
-30	Isaiah Likely	BAL	TE	4	BUF	2	1	50	26	0	26	13	26	0	0		0	0	0	3.6
-31	Ja'Tavion Sanders	CAR	TE	4	CIN	2	2	100	16	0	11	8	8	0	0		0	0	0	3.6
-32	Grant Calcaterra	PHI	TE	4	TB	2	1	50	26	0	26	13	26	0	0		0	0	0	3.6
-33	Tanner Conner	MIA	TE	4	TEN	2	2	100	15	0	11	7.5	7.5	0	0		0	0	0	3.5
-34	Johnny Mundt	MIN	TE	4	GB	2	2	100	15	0	9	7.5	7.5	0	0		0	0	0	3.5
-35	Brock Wright	DET	TE	4	SEA	2	2	100	13	0	10	6.5	6.5	0	0		0	0	0	3.3
-36	Juwan Johnson	NO	TE	4	ATL	3	2	66.7	13	0	8	4.3	6.5	0	0		0	0	0	3.3
-37	Hunter Henry	NE	TE	4	SF	3	2	66.7	12	0	8	4	6	0	0		0	0	0	3.2
-38	Elijah Higgins	ARI	TE	4	WAS	3	2	66.7	12	0	9	4	6	0	0		0	0	0	3.2
-39	Jeremy Ruckert	NYJ	TE	4	DEN	2	2	100	10	0	9	5	5	0	0		0	0	0	3
-40	Jordan Akins	CLE	TE	4	LV	2	1	50	10	0	10	5	10	0	0		0	0	0	2
-41	John Bates	WAS	TE	4	ARI	1	1	100	9	0	9	9	9	0	0		0	0	0	1.9
-42	Hayden Hurst	LAC	TE	4	KC	3	1	33.3	6	0	6	2	6	0	0		0	0	0	1.6
-43	Theo Johnson	NYG	TE	4	DAL	1	1	100	6	0	6	6	6	0	0		0	0	0	1.6
-44	Chigoziem Okonkwo	TEN	TE	4	MIA	3	1	33.3	5	0	5	1.7	5	0	0		0	0	0	1.5
-45	Josh Whyle	TEN	TE	4	MIA	1	1	100	5	0	5	5	5	0	0		0	0	0	1.5
-46	Jack Stoll	PHI	TE	4	TB	2	1	50	4	0	4	2	4	0	0		0	0	0	1.4
-47	Pharaoh Brown	SEA	TE	4	DET	2	1	50	3	0	3	1.5	3	0	0		0	0	0	1.3
-48	Drew Sample	CIN	TE	4	CAR	1	1	100	0	0	0	0	0	0	0		0	0	0	1
-49	Nate Adkins	DEN	TE	4	NYJ	1	1	100	0	0	0	0	0	0	0		0	0	0	1
-50	Dawson Knox	BUF	TE	4	BAL	1	1	100	0	0	0	0	0	0	0		0	0	0	1
-51	Mike Gesicki	CIN	TE	4	CAR	1	1	100	-9	0	-9	-9	-9	0	0		0	0	0	0.1
-52	Charlie Woerner	ATL	TE	4	NO	0	0		0	0	0			0	0		0	0	0	0
-53	Luke Farrell	JAX	TE	4	HOU	1	0	0	0	0	0	0		0	0		0	0	0	0
-54	Josiah Deguara	JAX	TE	4	HOU	0	0		0	0	0			0	0		0	0	0	0
-55	Brady Russell	SEA	TE	4	DET	0	0		0	0	0			0	0		0	0	0	0
-56	Parker Hesse	DET	TE	4	SEA	0	0		0	0	0			0	0		0	0	0	0
-57	Kylen Granson	IND	TE	4	PIT	0	0		0	0	0			0	0		0	0	0	0
-58	Connor Heyward	PIT	TE	4	IND	0	0		0	0	0			0	0		0	0	0	0
-59	Mo Alie-Cox	IND	TE	4	PIT	0	0		0	0	0			0	0		0	0	0	0
-60	Rodney Williams	PIT	TE	4	IND	0	0		0	0	0			0	0		0	0	0	0
-61	Will Mallory	IND	TE	4	PIT	0	0		0	0	0			0	0		0	0	0	0
-62	Ko Kieft	TB	TE	4	PHI	0	0		0	0	0			0	0		0	0	0	0
-63	Payne Durham	TB	TE	4	PHI	0	0		0	0	0			0	0		0	0	0	0
-64	Mitchell Wilcox	NE	TE	4	SF	0	0		0	0	0			0	0		0	0	0	0
-65	Eric Saubert	SF	TE	4	NE	0	0		0	0	0			0	0		0	0	0	0
-66	Jake Tonges	SF	TE	4	NE	0	0		0	0	0			0	0		0	0	0	0
-67	Ben Sims	GB	TE	4	MIN	0	0		0	0	0			0	0		0	0	0	0
-68	Robert Tonyan	MIN	TE	4	GB	0	0		0	0	0			0	0		0	0	0	0
-69	Ben Sinnott	WAS	TE	4	ARI	0	0		0	0	0			0	0		0	0	0	0
-70	Colson Yankoff	WAS	TE	4	ARI	0	0		0	0	0			0	0		0	0	0	0
-71	Travis Vokolek	ARI	TE	4	WAS	0	0		0	0	0			0	0		0	0	0	0
-72	Tip Reiman	ARI	TE	4	WAS	0	0		0	0	0			0	0		0	0	0	0
-73	Stone Smartt	LAC	TE	4	KC	0	0		0	0	0			0	0		0	0	0	0
-74	Jared Wiley	KC	TE	4	LAC	0	0		0	0	0			0	0		0	0	0	0
-75	Eric Tomlinson	LAC	TE	4	KC	0	0		0	0	0			0	0		0	0	0	0
-76	Geoff Swaim	CLE	TE	4	LV	0	0		0	0	0			0	0		0	0	0	0
-77	John Samuel Shenker	LV	TE	4	CLE	0	0		0	0	0			0	0		0	0	0	0
-78	Feleipe Franks	CAR	TE	4	CIN	1	0	0	0	0	0	0		0	0		0	0	0	0
-79	Tommy Tremble	CAR	TE	4	CIN	0	0		0	0	0			0	0		0	0	0	0
-80	Marcedes Lewis	CHI	TE	4	LAR	0	0		0	0	0			0	0		0	0	0	0
-81	Hunter Long	LAR	TE	4	CHI	0	0		0	0	0			0	0		0	0	0	0
-82	Davis Allen	LAR	TE	4	CHI	0	0		0	0	0			0	0		0	0	0	0
-83	Gerald Everett	CHI	TE	4	LAR	0	0		0	0	0			0	0		0	0	0	0
-84	Greg Dulcich	DEN	TE	4	NYJ	1	0	0	0	0	0	0		0	0		0	0	0	0
-85	Adam Trautman	DEN	TE	4	NYJ	0	0		0	0	0			0	0		0	0	0	0
-86	Brenden Bates	NYJ	TE	4	DEN	0	0		0	0	0			0	0		0	0	0	0
-87	Mark Andrews	BAL	TE	4	BUF	1	0	0	0	0	0	0		0	0		0	0	0	0
-88	Quintin Morris	BUF	TE	4	BAL	0	0		0	0	0			0	0		0	0	0	0
-89	Charlie Kolar	BAL	TE	4	BUF	0	0		0	0	0			0	0		0	0	0	0
-90	Jonnu Smith	MIA	TE	4	TEN	1	0	0	0	0	0	0		0	0		0	0	0	0
-91	Nick Vannett	TEN	TE	4	MIA	0	0		0	0	0			0	0		0	0	0	0
-92	Durham Smythe	MIA	TE	4	TEN	0	0		0	0	0			0	0		0	0	0	0
-93	Julian Hill	MIA	TE	4	TEN	0	0		0	0	0			0	0		0	0	0	0
-94	Luke Schoonmaker	DAL	TE	4	NYG	0	0		0	0	0			0	0		0	0	0	0
-95	Chris Manhertz	NYG	TE	4	DAL	0	0		0	0	0			0	0		0	0	0	0
-96	Brevyn Spann-Ford	DAL	TE	4	NYG	0	0		0	0	0			0	0		0	0	0	0
-97	Daniel Bellinger	NYG	TE	4	DAL	0	0		0	0	0			0	0		0	0	0	0
-98	Kyle Pitts	ATL	TE	4	NO	3	0	0	0	0	0	0		0	0		0	0	0	0
-99	Foster Moreau	NO	TE	4	ATL	0	0		0	0	0			0	0		0	0	0	0
-100	Ross Dwelley	ATL	TE	4	NO	0	0		0	0	0			0	0		0	0	0	0
-1	Tucker Kraft	GB	TE	5	LAR	5	4	80	88	2	66	17.6	22	0	0		0	0	0	24.8
-2	Brock Bowers	LV	TE	5	DEN	12	8	66.7	97	1	57	8.1	12.1	0	0		0	0	0	23.7
-3	George Kittle	SF	TE	5	ARI	12	8	66.7	64	1	15	5.3	8	0	0		0	0	0	20.4
-4	Isaiah Likely	BAL	TE	5	CIN	3	3	100	13	2	6	4.3	4.3	0	0		0	0	0	16.3
-5	Travis Kelce	KC	TE	5	NO	10	9	90	70	0	21	7	7.8	0	0		0	0	0	16
-6	Kyle Pitts	ATL	TE	5	TB	8	7	87.5	88	0	32	11	12.6	0	0		0	0	0	15.8
-7	Charlie Kolar	BAL	TE	5	CIN	4	3	75	64	1	55	16	21.3	1	2	2	0	0	0	15.6
-8	Jake Ferguson	DAL	TE	5	PIT	7	6	85.7	70	0	27	10	11.7	0	0		0	0	0	13
-9	Brenton Strange	JAX	TE	5	IND	4	4	100	24	1	12	6	6	0	0		0	0	0	12.4
-10	Colby Parkinson	LAR	TE	5	GB	13	7	53.8	52	0	9	4	7.4	0	0		0	0	0	12.2
-11	Mo Alie-Cox	IND	TE	5	JAX	4	2	50	37	1	19	9.2	18.5	0	0		0	0	0	11.7
-12	Tyler Conklin	NYJ	TE	5	MIN	9	6	66.7	55	0	25	6.1	9.2	0	0		0	0	0	11.5
-13	Trey McBride	ARI	TE	5	SF	9	6	66.7	53	0	22	5.9	8.8	0	0		0	0	0	11.3
-14	Jordan Akins	CLE	TE	5	WAS	3	3	100	22	1	10	7.3	7.3	0	0		0	0	0	11.2
-15	Jonnu Smith	MIA	TE	5	NE	8	5	62.5	62	0	17	7.8	12.4	1	-1	-1	0	0	0	11.1
-16	Connor Heyward	PIT	TE	5	DAL	4	2	50	23	1	16	5.8	11.5	0	0		0	0	0	10.3
-17	Theo Johnson	NYG	TE	5	SEA	5	5	100	48	0	22	9.6	9.6	0	0		0	0	0	9.8
-18	Mark Andrews	BAL	TE	5	CIN	5	4	80	55	0	27	11	13.8	0	0		0	0	0	9.5
-19	Foster Moreau	NO	TE	5	KC	2	2	100	13	1	7	6.5	6.5	0	0		0	0	0	9.3
-20	Pat Freiermuth	PIT	TE	5	DAL	3	3	100	22	1	19	7.3	7.3	0	0		0	1	1	9.2
-21	Cole Kmet	CHI	TE	5	CAR	4	3	75	57	0	26	14.2	19	0	0		0	0	0	8.7
-22	Juwan Johnson	NO	TE	5	KC	5	5	100	31	0	11	6.2	6.2	0	0		0	0	0	8.1
-23	Cade Otton	TB	TE	5	ATL	4	3	75	44	0	22	11	14.7	0	0		0	0	0	7.4
-24	Dalton Schultz	HOU	TE	5	BUF	6	4	66.7	34	0	18	5.7	8.5	0	0		0	0	0	7.4
-25	Elijah Higgins	ARI	TE	5	SF	1	1	100	2	1	2	2	2	0	0		0	0	0	7.2
-26	Dalton Kincaid	BUF	TE	5	HOU	6	2	33.3	34	0	26	5.7	17	0	0		0	0	0	5.4
-27	Noah Fant	SEA	TE	5	NYG	3	3	100	24	0	12	8	8	0	0		0	0	0	5.4
-28	Hunter Henry	NE	TE	5	MIA	4	2	50	32	0	25	8	16	0	0		0	0	0	5.2
-29	Mike Gesicki	CIN	TE	5	BAL	2	2	100	31	0	19	15.5	15.5	0	0		0	0	0	5.1
-30	Johnny Mundt	MIN	TE	5	NYJ	2	2	100	31	0	20	15.5	15.5	0	0		0	0	0	5.1
-31	Noah Gray	KC	TE	5	NO	2	2	100	29	0	15	14.5	14.5	0	0		0	0	0	4.9
-32	Ja'Tavion Sanders	CAR	TE	5	CHI	5	3	60	13	0	10	2.6	4.3	0	0		0	0	0	4.3
-33	Gerald Everett	CHI	TE	5	CAR	2	2	100	22	0	17	11	11	0	0		0	0	0	4.2
-34	Brevyn Spann-Ford	DAL	TE	5	PIT	3	2	66.7	20	0	13	6.7	10	0	0		0	0	0	4
-35	Luke Farrell	JAX	TE	5	IND	2	2	100	17	0	11	8.5	8.5	0	0		0	0	0	3.7
-36	Hunter Long	LAR	TE	5	GB	2	2	100	16	0	9	8	8	0	0		0	0	0	3.6
-37	Erick All Jr.	CIN	TE	5	BAL	2	2	100	10	0	5	5	5	0	0		0	0	0	3
-38	Zach Ertz	WAS	TE	5	CLE	8	2	25	10	0	7	1.2	5	0	0		0	0	0	3
-39	Adam Trautman	DEN	TE	5	LV	1	1	100	19	0	19	19	19	0	0		0	0	0	2.9
-40	Cade Stover	HOU	TE	5	BUF	2	2	100	6	0	5	3	3	0	0		0	0	0	2.6
-41	David Njoku	CLE	TE	5	WAS	3	1	33.3	14	0	14	4.7	14	0	0		0	0	0	2.4
-42	AJ Barner	SEA	TE	5	NYG	1	1	100	13	0	13	13	13	0	0		0	0	0	2.3
-43	Austin Hooper	NE	TE	5	MIA	3	1	33.3	9	0	9	3	9	0	0		0	0	0	1.9
-44	Luke Schoonmaker	DAL	TE	5	PIT	2	1	50	8	0	8	4	8	0	0		0	0	0	1.8
-45	Nate Adkins	DEN	TE	5	LV	1	1	100	8	0	8	8	8	0	0		0	0	0	1.8
-46	Pharaoh Brown	SEA	TE	5	NYG	1	1	100	7	0	7	7	7	0	0		0	0	0	1.7
-47	Will Mallory	IND	TE	5	JAX	1	1	100	7	0	7	7	7	0	0		0	0	0	1.7
-48	Tip Reiman	ARI	TE	5	SF	1	1	100	5	0	5	5	5	0	0		0	0	0	1.5
-49	Drew Ogletree	IND	TE	5	JAX	1	1	100	5	0	5	5	5	0	0		0	0	0	1.5
-50	Lucas Krull	DEN	TE	5	LV	1	1	100	5	0	5	5	5	0	0		0	0	0	1.5
-51	Jody Fortson	KC	TE	5	NO	1	1	100	5	0	5	5	5	0	0		0	0	0	1.5
-52	Darnell Washington	PIT	TE	5	DAL	2	1	50	5	0	5	2.5	5	0	0		0	0	0	1.5
-53	Josiah Deguara	JAX	TE	5	IND	1	1	100	2	0	2	2	2	0	0		0	0	0	1.2
-54	Ben Sims	GB	TE	5	LAR	0	0		0	0	0			0	0		0	0	0	0
-55	Davis Allen	LAR	TE	5	GB	1	0	0	0	0	0	0		0	0		0	0	0	0
-56	Josh Oliver	MIN	TE	5	NYJ	0	0		0	0	0			0	0		0	0	0	0
-57	Tanner Conner	MIA	TE	5	NE	0	0		0	0	0			0	0		0	0	0	0
-58	Julian Hill	MIA	TE	5	NE	0	0		0	0	0			0	0		0	0	0	0
-59	Durham Smythe	MIA	TE	5	NE	1	0	0	0	0	0	0		0	0		0	0	0	0
-60	Drew Sample	CIN	TE	5	BAL	0	0		0	0	0			0	0		0	0	0	0
-61	Marcedes Lewis	CHI	TE	5	CAR	0	0		0	0	0			0	0		0	0	0	0
-62	Feleipe Franks	CAR	TE	5	CHI	0	0		0	0	0			0	0		0	0	0	0
-63	Robert Tonyan	MIN	TE	5	NYJ	0	0		0	0	0			0	0		0	0	0	0
-64	Jake Tonges	SF	TE	5	ARI	0	0		0	0	0			0	0		0	0	0	0
-65	Jeremy Ruckert	NYJ	TE	5	MIN	0	0		0	0	0			0	0		0	0	0	0
-66	Brenden Bates	NYJ	TE	5	MIN	0	0		0	0	0			0	0		0	0	0	0
-67	Eric Saubert	SF	TE	5	ARI	0	0		0	0	0			0	0		0	0	0	0
-68	Daniel Bellinger	NYG	TE	5	SEA	0	0		0	0	0			0	0		0	0	0	0
-69	John Samuel Shenker	LV	TE	5	DEN	0	0		0	0	0			0	0		0	0	0	0
-70	Harrison Bryant	LV	TE	5	DEN	0	0		0	0	0			0	0		0	0	0	0
-71	Chris Manhertz	NYG	TE	5	SEA	0	0		0	0	0			0	0		0	0	0	0
-72	Brady Russell	SEA	TE	5	NYG	0	0		0	0	0			0	0		0	0	0	0
-73	Rodney Williams	PIT	TE	5	DAL	0	0		0	0	0			0	0		0	0	0	0
-74	Dallin Holker	NO	TE	5	KC	0	0		0	0	0			0	0		0	0	0	0
-75	Jared Wiley	KC	TE	5	NO	0	0		0	0	0			0	0		0	0	0	0
-76	Payne Durham	TB	TE	5	ATL	0	0		0	0	0			0	0		0	0	0	0
-77	Ross Dwelley	ATL	TE	5	TB	0	0		0	0	0			0	0		0	0	0	0
-78	Charlie Woerner	ATL	TE	5	TB	0	0		0	0	0			0	0		0	0	0	0
-79	Ko Kieft	TB	TE	5	ATL	0	0		0	0	0			0	0		0	0	0	0
-80	Kylen Granson	IND	TE	5	JAX	0	0		0	0	0			0	0		0	0	0	0
-81	Quintin Morris	BUF	TE	5	HOU	0	0		0	0	0			0	0		0	0	0	0
-82	Dawson Knox	BUF	TE	5	HOU	0	0		0	0	0			0	0		0	0	0	0
-83	Ben Sinnott	WAS	TE	5	CLE	0	0		0	0	0			0	0		0	0	0	0
-84	Blake Whiteheart	CLE	TE	5	WAS	0	0		0	0	0			0	0		0	0	0	0
-85	Colson Yankoff	WAS	TE	5	CLE	0	0		0	0	0			0	0		0	0	0	0
-86	Geoff Swaim	CLE	TE	5	WAS	0	0		0	0	0			0	0		0	0	0	0
-87	John Bates	WAS	TE	5	CLE	0	0		0	0	0			0	0		0	0	0	0
-88	Tommy Tremble	CAR	TE	5	CHI	2	1	50	7	0	7	3.5	7	0	0		0	1	1	-0.3
+RK,NAME,TEAM,POS,WK,OPP,TGTS,REC,CATCH%,RECEIVING_YDS,RECEIVING_TD,LONG,YDS/TGT,YDS/REC,RUSHING_ATT,RUSHING_YDS,RUSHING_AVG,RUSHING_TD,FUMBLES,FUMBLES_LOST,FPTS
+1,Isaiah Likely,BAL,TE,1,KC,12,9,75,111,1,49,9.2,12.3,0,0,,0,0,0,26.1
+2,Foster Moreau,NO,TE,1,CAR,4,4,100,43,1,22,10.8,10.8,0,0,,0,0,0,14.3
+3,Brock Bowers,LV,TE,1,LAC,8,6,75,58,0,26,7.2,9.7,0,0,,0,0,0,11.8
+4,Kyle Pitts,ATL,TE,1,PIT,3,3,100,26,1,12,8.7,8.7,0,0,,0,0,0,11.6
+5,Juwan Johnson,NO,TE,1,CAR,3,2,66.7,26,1,16,8.7,13,0,0,,0,0,0,10.6
+6,Chigoziem Okonkwo,TEN,TE,1,CHI,2,2,100,15,1,17,7.5,7.5,0,0,,0,0,0,9.5
+7,Colby Parkinson,LAR,TE,1,DET,5,4,80,47,0,20,9.4,11.8,0,0,,0,0,0,8.7
+8,Sam LaPorta,DET,TE,1,LAR,5,4,80,45,0,18,9,11.2,0,0,,0,0,0,8.5
+9,David Njoku,CLE,TE,1,DAL,5,4,80,44,0,29,8.8,11,0,0,,0,0,0,8.4
+10,Trey McBride,ARI,TE,1,BUF,9,5,55.6,30,0,8,3.3,6,0,0,,0,0,0,8
+11,George Kittle,SF,TE,1,NYJ,5,4,80,40,0,26,8,10,0,0,,0,0,0,8
+12,Dallas Goedert,PHI,TE,1,GB,5,4,80,31,0,21,6.2,7.8,0,0,,0,0,0,7.1
+13,Noah Gray,KC,TE,1,BAL,3,3,100,37,0,13,12.3,12.3,0,0,,0,0,0,6.7
+14,Pat Freiermuth,PIT,TE,1,ATL,4,4,100,27,0,10,6.8,6.8,0,0,,0,0,0,6.7
+15,Travis Kelce,KC,TE,1,BAL,4,3,75,34,0,23,8.5,11.3,0,0,,0,0,0,6.4
+16,Zach Ertz,WAS,TE,1,TB,4,3,75,28,0,12,7,9.3,0,0,,0,0,0,5.8
+17,Jordan Akins,CLE,TE,1,DAL,4,3,75,27,0,13,6.8,9,0,0,,0,0,0,5.7
+18,Tucker Kraft,GB,TE,1,PHI,3,2,66.7,37,0,29,12.3,18.5,0,0,,0,0,0,5.7
+19,Hayden Hurst,LAC,TE,1,LV,3,2,66.7,33,0,27,11,16.5,0,0,,0,0,0,5.3
+20,Austin Hooper,NE,TE,1,CIN,4,2,50,31,0,16,7.8,15.5,0,0,,0,0,0,5.1
+21,Mike Gesicki,CIN,TE,1,NE,4,3,75,18,0,7,4.5,6,0,0,,0,0,0,4.8
+22,Josh Oliver,MIN,TE,1,NYG,2,2,100,27,0,22,13.5,13.5,0,0,,0,0,0,4.7
+23,Dalton Schultz,HOU,TE,1,IND,3,3,100,16,0,7,5.3,5.3,0,0,,0,0,0,4.6
+24,Jake Ferguson,DAL,TE,1,CLE,5,3,60,15,0,7,3,5,0,0,,0,0,0,4.5
+25,Hunter Henry,NE,TE,1,CIN,3,2,66.7,18,0,9,6,9,0,0,,0,0,0,3.8
+26,Johnny Mundt,MIN,TE,1,NYG,3,2,66.7,15,0,9,5,7.5,0,0,,0,0,0,3.5
+27,Mark Andrews,BAL,TE,1,KC,2,2,100,14,0,11,7,7,0,0,,0,0,0,3.4
+28,Dawson Knox,BUF,TE,1,ARI,2,1,50,23,0,23,11.5,23,0,0,,0,0,0,3.3
+29,Greg Dulcich,DEN,TE,1,SEA,3,2,66.7,12,0,7,4,6,0,0,,0,0,0,3.2
+30,Elijah Higgins,ARI,TE,1,BUF,2,2,100,12,0,7,6,6,0,0,,0,0,0,3.2
+31,Nick Vannett,TEN,TE,1,CHI,2,2,100,11,0,8,5.5,5.5,0,0,,0,0,0,3.1
+32,Noah Fant,SEA,TE,1,DEN,4,2,50,11,0,9,2.8,5.5,0,0,,0,0,0,3.1
+33,Theo Johnson,NYG,TE,1,MIN,4,1,25,18,0,18,4.5,18,0,0,,0,0,0,2.8
+34,Michael Mayer,LV,TE,1,LAC,3,2,66.7,3,0,3,1,1.5,0,0,,0,0,0,2.3
+35,Will Dissly,LAC,TE,1,LV,1,1,100,13,0,13,13,13,0,0,,0,0,0,2.3
+36,Grant Calcaterra,PHI,TE,1,GB,1,1,100,11,0,11,11,11,0,0,,0,0,0,2.1
+37,Dalton Kincaid,BUF,TE,1,ARI,2,1,50,11,0,11,5.5,11,0,0,,0,0,0,2.1
+38,MyCole Pruitt,PIT,TE,1,ATL,2,1,50,9,0,9,4.5,9,0,0,,0,0,0,1.9
+39,Tanner Hudson,CIN,TE,1,NE,3,2,66.7,18,0,13,6,9,0,0,,0,1,1,1.8
+40,Jonnu Smith,MIA,TE,1,JAX,2,1,50,7,0,7,3.5,7,0,0,,0,0,0,1.7
+41,Tyler Conklin,NYJ,TE,1,SF,2,1,50,6,0,6,3,6,0,0,,0,0,0,1.6
+42,Julian Hill,MIA,TE,1,JAX,1,1,100,6,0,6,6,6,0,0,,0,0,0,1.6
+43,Cade Otton,TB,TE,1,WAS,2,1,50,5,0,5,2.5,5,0,0,,0,0,0,1.5
+44,Evan Engram,JAX,TE,1,MIA,4,1,25,5,0,5,1.2,5,0,0,,0,0,0,1.5
+45,Darnell Washington,PIT,TE,1,ATL,1,1,100,5,0,5,5,5,0,0,,0,0,0,1.5
+46,Ja'Tavion Sanders,CAR,TE,1,NO,1,1,100,4,0,4,4,4,0,0,,0,0,0,1.4
+47,Cole Kmet,CHI,TE,1,TEN,1,1,100,4,0,4,4,4,0,0,,0,0,0,1.4
+48,Charlie Woerner,ATL,TE,1,PIT,2,1,50,4,0,4,2,4,0,0,,0,0,0,1.4
+49,Brevin Jordan,HOU,TE,1,IND,2,1,50,3,0,3,1.5,3,0,0,,0,0,0,1.3
+50,Daniel Bellinger,NYG,TE,1,MIN,1,1,100,3,0,3,3,3,0,0,,0,0,0,1.3
+51,Brock Wright,DET,TE,1,LAR,1,1,100,2,0,2,2,2,0,0,,0,0,0,1.2
+52,Gerald Everett,CHI,TE,1,TEN,1,1,100,-1,0,-1,-1,-1,0,0,,0,0,0,0.9
+53,Harrison Bryant,LV,TE,1,LAC,0,0,,0,0,0,,,0,0,,0,0,0,0
+54,Brady Russell,SEA,TE,1,DEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+55,Feleipe Franks,CAR,TE,1,NO,0,0,,0,0,0,,,0,0,,0,0,0,0
+56,AJ Barner,SEA,TE,1,DEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+57,Nate Adkins,DEN,TE,1,SEA,0,0,,0,0,0,,,0,0,,0,0,0,0
+58,Jake Tonges,SF,TE,1,NYJ,0,0,,0,0,0,,,0,0,,0,0,0,0
+59,Anthony Firkser,NYJ,TE,1,SF,0,0,,0,0,0,,,0,0,,0,0,0,0
+60,Jeremy Ruckert,NYJ,TE,1,SF,0,0,,0,0,0,,,0,0,,0,0,0,0
+61,Jordan Matthews,CAR,TE,1,NO,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+62,Eric Saubert,SF,TE,1,NYJ,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+63,Brenton Strange,JAX,TE,1,MIA,0,0,,0,0,0,,,0,0,,0,0,0,0
+64,Tanner Conner,MIA,TE,1,JAX,0,0,,0,0,0,,,0,0,,0,0,0,0
+65,E.J. Jenkins,PHI,TE,1,GB,0,0,,0,0,0,,,0,0,,0,0,0,0
+66,Durham Smythe,MIA,TE,1,JAX,3,0,0,0,0,0,0,,0,0,,0,0,0,0
+67,Nick Muse,MIN,TE,1,NYG,0,0,,0,0,0,,,0,0,,0,0,0,0
+68,Chris Manhertz,NYG,TE,1,MIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+69,Luke Farrell,JAX,TE,1,MIA,0,0,,0,0,0,,,0,0,,0,0,0,0
+70,Parker Hesse,DET,TE,1,LAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+71,Davis Allen,LAR,TE,1,DET,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+72,Luke Schoonmaker,DAL,TE,1,CLE,0,0,,0,0,0,,,0,0,,0,0,0,0
+73,Brevyn Spann-Ford,DAL,TE,1,CLE,0,0,,0,0,0,,,0,0,,0,0,0,0
+74,Charlie Kolar,BAL,TE,1,KC,0,0,,0,0,0,,,0,0,,0,0,0,0
+75,Jared Wiley,KC,TE,1,BAL,0,0,,0,0,0,,,0,0,,0,0,0,0
+76,Hunter Long,LAR,TE,1,DET,0,0,,0,0,0,,,0,0,,0,0,0,0
+77,Drew Ogletree,IND,TE,1,HOU,0,0,,0,0,0,,,0,0,,0,0,0,0
+78,Ross Dwelley,ATL,TE,1,PIT,0,0,,0,0,0,,,0,0,,0,0,0,0
+79,Kylen Granson,IND,TE,1,HOU,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+80,Mo Alie-Cox,IND,TE,1,HOU,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+81,Colson Yankoff,WAS,TE,1,TB,0,0,,0,0,0,,,0,0,,0,0,0,0
+82,John Bates,WAS,TE,1,TB,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+83,Cade Stover,HOU,TE,1,IND,0,0,,0,0,0,,,0,0,,0,0,0,0
+84,Ko Kieft,TB,TE,1,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+85,Ben Sinnott,WAS,TE,1,TB,0,0,,0,0,0,,,0,0,,0,0,0,0
+86,Payne Durham,TB,TE,1,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+87,Erick All Jr.,CIN,TE,1,NE,0,0,,0,0,0,,,0,0,,0,0,0,0
+88,Jaheim Bell,NE,TE,1,CIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+89,Josh Whyle,TEN,TE,1,CHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+90,Drew Sample,CIN,TE,1,NE,0,0,,0,0,0,,,0,0,,0,0,0,0
+91,Marcedes Lewis,CHI,TE,1,TEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+92,Tip Reiman,ARI,TE,1,BUF,0,0,,0,0,0,,,0,0,,0,0,0,0
+93,Quintin Morris,BUF,TE,1,ARI,0,0,,0,0,0,,,0,0,,0,0,0,0
+94,Luke Musgrave,GB,TE,1,PHI,2,0,0,0,0,0,0,,0,0,,0,0,0,0
+95,Connor Heyward,PIT,TE,1,ATL,0,0,,0,0,0,,,0,0,,0,0,0,0
+96,Ben Sims,GB,TE,1,PHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+97,Eric Tomlinson,LAC,TE,1,LV,0,0,,0,0,0,,,0,0,,0,0,0,0
+98,Stone Smartt,LAC,TE,1,LV,0,0,,0,0,0,,,0,0,,0,0,0,0
+99,Adam Trautman,DEN,TE,1,SEA,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+1,George Kittle,SF,TE,2,MIN,8,7,87.5,76,1,25,9.5,10.9,0,0,,0,0,0,20.6
+2,Hunter Henry,NE,TE,2,SEA,12,8,66.7,109,0,35,9.1,13.6,0,0,,0,0,0,18.9
+3,Brock Bowers,LV,TE,2,BAL,9,9,100,98,0,27,10.9,10.9,0,0,,0,0,0,18.8
+4,Trey McBride,ARI,TE,2,LAR,6,6,100,67,0,21,11.2,11.2,0,0,,1,0,0,18.7
+5,Mike Gesicki,CIN,TE,2,KC,9,7,77.8,91,0,37,10.1,13,0,0,,0,0,0,16.1
+6,Jonnu Smith,MIA,TE,2,BUF,7,6,85.7,53,0,15,7.6,8.8,0,0,,0,0,0,11.3
+7,Luke Schoonmaker,DAL,TE,2,NO,6,6,100,43,0,15,7.2,7.2,0,0,,0,0,0,10.3
+8,Zach Ertz,WAS,TE,2,NYG,4,4,100,62,0,21,15.5,15.5,0,0,,0,0,0,10.2
+9,Brenton Strange,JAX,TE,2,CLE,6,3,50,65,0,30,10.8,21.7,0,0,,0,0,0,9.5
+10,Mark Andrews,BAL,TE,2,LV,5,4,80,51,0,16,10.2,12.8,0,0,,0,0,0,9.1
+11,Elijah Higgins,ARI,TE,2,LAR,1,1,100,18,1,18,18,18,0,0,,0,0,0,8.8
+12,Pat Freiermuth,PIT,TE,2,DEN,4,4,100,39,0,14,9.8,9.8,0,0,,0,0,0,7.9
+13,Darnell Washington,PIT,TE,2,DEN,1,1,100,5,1,5,5,5,0,0,,0,0,0,7.5
+14,Dalton Kincaid,BUF,TE,2,MIA,4,4,100,33,0,9,8.2,8.2,0,0,,0,0,0,7.3
+15,Erick All Jr.,CIN,TE,2,KC,4,4,100,32,0,19,8,8,0,0,,0,0,0,7.2
+16,Dallas Goedert,PHI,TE,2,ATL,4,3,75,38,0,16,9.5,12.7,0,0,,0,0,0,6.8
+17,Cole Kmet,CHI,TE,2,HOU,5,4,80,27,0,12,5.4,6.8,0,0,,0,0,0,6.7
+18,Will Dissly,LAC,TE,2,CAR,3,3,100,29,0,15,9.7,9.7,0,0,,0,0,0,5.9
+19,Drew Sample,CIN,TE,2,KC,3,3,100,28,0,12,9.3,9.3,0,0,,0,1,0,5.8
+20,Tommy Tremble,CAR,TE,2,LAC,4,3,75,23,0,12,5.8,7.7,0,0,,0,0,0,5.3
+21,Kyle Pitts,ATL,TE,2,PHI,4,3,75,20,0,11,5,6.7,0,0,,0,0,0,5
+22,Isaiah Likely,BAL,TE,2,LV,3,2,66.7,26,0,15,8.7,13,0,0,,0,0,0,4.6
+23,Eric Saubert,SF,TE,2,MIN,2,2,100,26,0,14,13,13,0,0,,0,0,0,4.6
+24,Chigoziem Okonkwo,TEN,TE,2,NYJ,3,3,100,16,0,8,5.3,5.3,0,0,,0,0,0,4.6
+25,Greg Dulcich,DEN,TE,2,PIT,8,3,37.5,16,0,9,2,5.3,0,0,,0,0,0,4.6
+26,Dalton Schultz,HOU,TE,2,CHI,3,2,66.7,21,0,16,7,10.5,0,0,,0,0,0,4.1
+27,Grant Calcaterra,PHI,TE,2,ATL,2,2,100,19,0,15,9.5,9.5,0,0,,0,0,0,3.9
+28,Tucker Kraft,GB,TE,2,IND,2,2,100,16,0,17,8,8,0,0,,0,0,0,3.6
+29,Luke Farrell,JAX,TE,2,CLE,2,2,100,13,0,7,6.5,6.5,0,0,,0,0,0,3.3
+30,Sam LaPorta,DET,TE,2,TB,3,2,66.7,13,0,7,4.3,6.5,0,0,,0,0,0,3.3
+31,Josh Whyle,TEN,TE,2,NYJ,2,2,100,13,0,12,6.5,6.5,0,0,,0,0,0,3.3
+32,Mo Alie-Cox,IND,TE,2,GB,1,1,100,22,0,22,22,22,0,0,,0,0,0,3.2
+33,Johnny Mundt,MIN,TE,2,SF,3,2,66.7,12,0,6,4,6,0,0,,0,0,0,3.2
+34,Cade Stover,HOU,TE,2,CHI,1,1,100,18,0,18,18,18,0,0,,0,0,0,2.8
+35,Ja'Tavion Sanders,CAR,TE,2,LAC,2,2,100,8,0,6,4,4,0,0,,0,0,0,2.8
+36,Noah Fant,SEA,TE,2,NE,3,1,33.3,14,0,14,4.7,14,0,0,,0,0,0,2.4
+37,Colby Parkinson,LAR,TE,2,ARI,2,1,50,12,0,12,6,12,0,0,,0,0,0,2.2
+38,Drew Ogletree,IND,TE,2,GB,2,1,50,12,0,12,6,12,0,0,,0,0,0,2.2
+39,Michael Mayer,LV,TE,2,BAL,1,1,100,11,0,11,11,11,0,0,,0,0,0,2.1
+40,Gerald Everett,CHI,TE,2,HOU,3,2,66.7,1,0,2,0.3,0.5,0,0,,0,0,0,2.1
+41,Jordan Akins,CLE,TE,2,JAX,1,1,100,10,0,10,10,10,0,0,,0,0,0,2
+42,Tyler Conklin,NYJ,TE,2,TEN,2,1,50,10,0,10,5,10,0,0,,0,0,0,2
+43,Kylen Granson,IND,TE,2,GB,2,1,50,9,0,9,4.5,9,0,0,,0,0,0,1.9
+44,Durham Smythe,MIA,TE,2,BUF,1,1,100,8,0,8,8,8,0,0,,0,0,0,1.8
+45,Jared Wiley,KC,TE,2,CIN,1,1,100,7,0,7,7,7,0,0,,0,0,0,1.7
+46,Luke Musgrave,GB,TE,2,IND,1,1,100,6,0,6,6,6,0,0,,0,0,0,1.6
+47,Travis Kelce,KC,TE,2,CIN,3,1,33.3,5,0,5,1.7,5,1,1,1,0,0,0,1.6
+48,John Bates,WAS,TE,2,NYG,1,1,100,5,0,5,5,5,0,0,,0,0,0,1.5
+49,Hayden Hurst,LAC,TE,2,CAR,2,1,50,5,0,5,2.5,5,0,0,,0,0,0,1.5
+50,Austin Hooper,NE,TE,2,SEA,1,1,100,5,0,5,5,5,0,0,,0,0,0,1.5
+51,Brevin Jordan,HOU,TE,2,CHI,1,1,100,4,0,4,4,4,0,0,,0,0,0,1.4
+52,Charlie Kolar,BAL,TE,2,LV,1,1,100,4,0,4,4,4,0,0,,0,0,0,1.4
+53,Peyton Hendershot,KC,TE,2,CIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+54,Ko Kieft,TB,TE,2,DET,0,0,,0,0,0,,,0,0,,0,0,0,0
+55,Brock Wright,DET,TE,2,TB,0,0,,0,0,0,,,0,0,,0,0,0,0
+56,Parker Hesse,DET,TE,2,TB,0,0,,0,0,0,,,0,0,,0,0,0,0
+57,Harrison Bryant,LV,TE,2,BAL,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+58,Feleipe Franks,CAR,TE,2,LAC,0,0,,0,0,0,,,0,0,,0,0,0,0
+59,Stone Smartt,LAC,TE,2,CAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+60,Eric Tomlinson,LAC,TE,2,CAR,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+61,Jordan Matthews,CAR,TE,2,LAC,0,0,,0,0,0,,,0,0,,0,0,0,0
+62,Josh Oliver,MIN,TE,2,SF,0,0,,0,0,0,,,0,0,,0,0,0,0
+63,Nick Muse,MIN,TE,2,SF,0,0,,0,0,0,,,0,0,,0,0,0,0
+64,Jake Tonges,SF,TE,2,MIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+65,Foster Moreau,NO,TE,2,DAL,0,0,,0,0,0,,,0,0,,0,0,0,0
+66,Princeton Fant,DAL,TE,2,NO,0,0,,0,0,0,,,0,0,,0,0,0,0
+67,Brevyn Spann-Ford,DAL,TE,2,NO,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+68,Juwan Johnson,NO,TE,2,DAL,0,0,,0,0,0,,,0,0,,0,0,0,0
+69,Ben Sims,GB,TE,2,IND,0,0,,0,0,0,,,0,0,,0,0,0,0
+70,Blake Whiteheart,CLE,TE,2,JAX,0,0,,0,0,0,,,0,0,,0,0,0,0
+71,E.J. Jenkins,PHI,TE,2,ATL,0,0,,0,0,0,,,0,0,,0,0,0,0
+72,Ross Dwelley,ATL,TE,2,PHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+73,Charlie Woerner,ATL,TE,2,PHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+74,Marcedes Lewis,CHI,TE,2,HOU,0,0,,0,0,0,,,0,0,,0,0,0,0
+75,AJ Barner,SEA,TE,2,NE,0,0,,0,0,0,,,0,0,,0,0,0,0
+76,Brady Russell,SEA,TE,2,NE,0,0,,0,0,0,,,0,0,,0,0,0,0
+77,Jaheim Bell,NE,TE,2,SEA,0,0,,0,0,0,,,0,0,,0,0,0,0
+78,Quintin Morris,BUF,TE,2,MIA,0,0,,0,0,0,,,0,0,,0,0,0,0
+79,Dawson Knox,BUF,TE,2,MIA,0,0,,0,0,0,,,0,0,,0,0,0,0
+80,Tanner Conner,MIA,TE,2,BUF,0,0,,0,0,0,,,0,0,,0,0,0,0
+81,Julian Hill,MIA,TE,2,BUF,2,0,0,0,0,0,0,,0,0,,0,0,0,0
+82,Brenden Bates,NYJ,TE,2,TEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+83,Nick Vannett,TEN,TE,2,NYJ,0,0,,0,0,0,,,0,0,,0,0,0,0
+84,Jeremy Ruckert,NYJ,TE,2,TEN,3,0,0,0,0,0,0,,0,0,,0,0,0,0
+85,Ben Sinnott,WAS,TE,2,NYG,0,0,,0,0,0,,,0,0,,0,0,0,0
+86,Daniel Bellinger,NYG,TE,2,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+87,Colson Yankoff,WAS,TE,2,NYG,0,0,,0,0,0,,,0,0,,0,0,0,0
+88,Chris Manhertz,NYG,TE,2,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+89,Theo Johnson,NYG,TE,2,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+90,Nikola Kalinic,LAR,TE,2,ARI,0,0,,0,0,0,,,0,0,,0,0,0,0
+91,Hunter Long,LAR,TE,2,ARI,0,0,,0,0,0,,,0,0,,0,0,0,0
+92,Tip Reiman,ARI,TE,2,LAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+93,Adam Trautman,DEN,TE,2,PIT,0,0,,0,0,0,,,0,0,,0,0,0,0
+94,Connor Heyward,PIT,TE,2,DEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+95,Nate Adkins,DEN,TE,2,PIT,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+96,MyCole Pruitt,PIT,TE,2,DEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+97,Noah Gray,KC,TE,2,CIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+98,Payne Durham,TB,TE,2,DET,0,0,,0,0,0,,,0,0,,0,0,0,0
+99,Cade Otton,TB,TE,2,DET,2,0,0,0,0,0,0,,1,-4,-4,0,0,0,-0.4
+1,Dallas Goedert,PHI,TE,3,NO,11,10,90.9,170,0,61,15.5,17,0,0,,0,0,0,27
+2,Cole Kmet,CHI,TE,3,IND,11,10,90.9,97,1,19,8.8,9.7,0,0,,0,0,0,25.7
+3,Jake Ferguson,DAL,TE,3,BAL,11,6,54.5,95,0,26,8.6,15.8,0,0,,0,0,0,15.5
+4,Tyler Conklin,NYJ,TE,3,NE,6,5,83.3,93,0,22,15.5,18.6,0,0,,0,0,0,14.3
+5,Dalton Kincaid,BUF,TE,3,JAX,5,3,60,41,1,28,8.2,13.7,0,0,,0,0,0,13.1
+6,Noah Fant,SEA,TE,3,MIA,6,6,100,60,0,16,10,10,0,0,,0,0,0,12
+7,Cade Otton,TB,TE,3,DEN,8,7,87.5,47,0,13,5.9,6.7,0,0,,0,1,1,9.7
+8,Brenton Strange,JAX,TE,3,BUF,5,2,40,12,1,6,2.4,6,0,0,,0,0,0,9.2
+9,Nick Vannett,TEN,TE,3,GB,2,2,100,9,1,8,4.5,4.5,0,0,,0,0,0,8.9
+10,Zach Ertz,WAS,TE,3,CIN,5,5,100,38,0,12,7.6,7.6,0,0,,0,1,0,8.8
+11,Mike Gesicki,CIN,TE,3,WAS,5,4,80,47,0,17,9.4,11.8,0,0,,0,0,0,8.7
+12,Josh Whyle,TEN,TE,3,GB,5,4,80,43,0,23,8.6,10.8,0,0,,0,0,0,8.3
+13,Kyle Pitts,ATL,TE,3,KC,5,2,40,59,0,50,11.8,29.5,0,0,,0,0,0,7.9
+14,Brock Wright,DET,TE,3,ARI,5,4,80,34,0,11,6.8,8.5,0,0,,0,0,0,7.4
+15,Pat Freiermuth,PIT,TE,3,LAC,5,4,80,33,0,15,6.6,8.2,0,0,,0,0,0,7.3
+16,Johnny Mundt,MIN,TE,3,HOU,3,1,33.3,2,1,2,0.7,2,0,0,,0,0,0,7.2
+17,Brock Bowers,LV,TE,3,CAR,4,3,75,41,0,21,10.2,13.7,0,0,,0,0,0,7.1
+18,Travis Kelce,KC,TE,3,ATL,5,4,80,30,0,17,6,7.5,0,0,,0,0,0,7
+19,Jordan Akins,CLE,TE,3,NYG,7,4,57.1,29,0,10,4.1,7.2,0,0,,0,0,0,6.9
+20,Erick All Jr.,CIN,TE,3,WAS,4,4,100,22,0,8,5.5,5.5,0,0,,0,0,0,6.2
+21,Eric Saubert,SF,TE,3,LAR,2,2,100,41,0,16,20.5,20.5,0,0,,0,0,0,6.1
+22,Tommy Tremble,CAR,TE,3,LV,3,3,100,29,0,20,9.7,9.7,0,0,,0,0,0,5.9
+23,Sam LaPorta,DET,TE,3,ARI,2,2,100,36,0,24,18,18,0,0,,0,0,0,5.6
+24,Trey McBride,ARI,TE,3,DET,6,3,50,25,0,9,4.2,8.3,0,0,,0,0,0,5.5
+25,Colby Parkinson,LAR,TE,3,SF,5,3,60,21,0,9,4.2,7,0,0,,0,0,0,5.1
+26,Kylen Granson,IND,TE,3,CHI,1,1,100,40,0,40,40,40,0,0,,0,0,0,5
+27,Will Dissly,LAC,TE,3,PIT,3,3,100,19,0,7,6.3,6.3,0,0,,0,0,0,4.9
+28,Tucker Kraft,GB,TE,3,TEN,3,2,66.7,24,0,21,8,12,0,0,,0,0,0,4.4
+29,Julian Hill,MIA,TE,3,SEA,2,2,100,24,0,13,12,12,0,0,,0,0,0,4.4
+30,AJ Barner,SEA,TE,3,MIA,3,3,100,13,0,8,4.3,4.3,0,0,,0,0,0,4.3
+31,Charlie Kolar,BAL,TE,3,DAL,1,1,100,30,0,30,30,30,0,0,,0,0,0,4
+32,Jonnu Smith,MIA,TE,3,SEA,3,2,66.7,18,0,13,6,9,0,0,,0,0,0,3.8
+33,Chigoziem Okonkwo,TEN,TE,3,GB,2,2,100,15,0,8,7.5,7.5,0,0,,0,0,0,3.5
+34,Jeremy Ruckert,NYJ,TE,3,NE,2,2,100,15,0,11,7.5,7.5,0,0,,0,0,0,3.5
+35,Hayden Hurst,LAC,TE,3,PIT,2,2,100,15,0,8,7.5,7.5,0,0,,0,0,0,3.5
+36,Dalton Schultz,HOU,TE,3,MIN,5,2,40,11,0,8,2.2,5.5,0,0,,0,0,0,3.1
+37,Hunter Henry,NE,TE,3,NYJ,3,2,66.7,9,0,9,3,4.5,0,0,,0,0,0,2.9
+38,Austin Hooper,NE,TE,3,NYJ,4,1,25,19,0,19,4.8,19,0,0,,0,0,0,2.9
+39,Daniel Bellinger,NYG,TE,3,CLE,1,1,100,17,0,17,17,17,0,0,,0,0,0,2.7
+40,Noah Gray,KC,TE,3,ATL,2,1,50,13,0,13,6.5,13,0,0,,0,0,0,2.3
+41,Theo Johnson,NYG,TE,3,CLE,3,1,33.3,13,0,13,4.3,13,0,0,,0,0,0,2.3
+42,Adam Trautman,DEN,TE,3,TB,1,1,100,13,0,13,13,13,0,0,,0,0,0,2.3
+43,Elijah Higgins,ARI,TE,3,DET,1,1,100,11,0,11,11,11,0,0,,0,0,0,2.1
+44,Pharaoh Brown,SEA,TE,3,MIA,2,1,50,9,0,9,4.5,9,0,0,,0,0,0,1.9
+45,Payne Durham,TB,TE,3,DEN,1,1,100,8,0,8,8,8,0,0,,0,0,0,1.8
+46,Josiah Deguara,JAX,TE,3,BUF,1,1,100,8,0,8,8,8,0,0,,0,0,0,1.8
+47,Dawson Knox,BUF,TE,3,JAX,2,1,50,7,0,7,3.5,7,0,0,,0,0,0,1.7
+48,Michael Mayer,LV,TE,3,CAR,3,1,33.3,7,0,7,2.3,7,0,0,,0,0,0,1.7
+49,Nate Adkins,DEN,TE,3,TB,1,1,100,6,0,6,6,6,0,0,,0,0,0,1.6
+50,Luke Schoonmaker,DAL,TE,3,BAL,2,1,50,5,0,5,2.5,5,0,0,,0,0,0,1.5
+51,Isaiah Likely,BAL,TE,3,DAL,1,1,100,4,0,4,4,4,0,0,,0,0,0,1.4
+52,Luke Musgrave,GB,TE,3,TEN,1,1,100,3,0,3,3,3,0,0,,0,0,0,1.3
+53,Durham Smythe,MIA,TE,3,SEA,2,1,50,3,0,3,1.5,3,0,0,,0,0,0,1.3
+54,Connor Heyward,PIT,TE,3,LAC,1,1,100,2,0,2,2,2,0,0,,0,0,0,1.2
+55,Foster Moreau,NO,TE,3,PHI,2,1,50,2,0,2,1,2,0,0,,0,0,0,1.2
+56,Tanner Conner,MIA,TE,3,SEA,2,1,50,1,0,1,0.5,1,0,0,,0,0,0,1.1
+57,Luke Farrell,JAX,TE,3,BUF,2,1,50,1,0,1,0.5,1,0,0,,0,0,0,1.1
+58,Jared Wiley,KC,TE,3,ATL,0,0,,0,0,0,,,0,0,,0,0,0,0
+59,Ko Kieft,TB,TE,3,DEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+60,Greg Dulcich,DEN,TE,3,TB,0,0,,0,0,0,,,0,0,,0,0,0,0
+61,Brenden Bates,NYJ,TE,3,NE,0,0,,0,0,0,,,0,0,,0,0,0,0
+62,Jaheim Bell,NE,TE,3,NYJ,0,0,,0,0,0,,,0,0,,0,0,0,0
+63,Juwan Johnson,NO,TE,3,PHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+64,Grant Calcaterra,PHI,TE,3,NO,0,0,,0,0,0,,,0,0,,0,0,0,0
+65,Jack Stoll,PHI,TE,3,NO,0,0,,0,0,0,,,0,0,,0,0,0,0
+66,Drew Ogletree,IND,TE,3,CHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+67,Mo Alie-Cox,IND,TE,3,CHI,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+68,Gerald Everett,CHI,TE,3,IND,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+69,Marcedes Lewis,CHI,TE,3,IND,0,0,,0,0,0,,,0,0,,0,0,0,0
+70,Josh Oliver,MIN,TE,3,HOU,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+71,Robert Tonyan,MIN,TE,3,HOU,0,0,,0,0,0,,,0,0,,0,0,0,0
+72,Cade Stover,HOU,TE,3,MIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+73,Eric Tomlinson,LAC,TE,3,PIT,0,0,,0,0,0,,,0,0,,0,0,0,0
+74,Stone Smartt,LAC,TE,3,PIT,0,0,,0,0,0,,,0,0,,0,0,0,0
+75,Darnell Washington,PIT,TE,3,LAC,0,0,,0,0,0,,,0,0,,0,0,0,0
+76,Rodney Williams,PIT,TE,3,LAC,0,0,,0,0,0,,,0,0,,0,0,0,0
+77,Brady Russell,SEA,TE,3,MIA,0,0,,0,0,0,,,0,0,,0,0,0,0
+78,Blake Whiteheart,CLE,TE,3,NYG,0,0,,0,0,0,,,0,0,,0,0,0,0
+79,Geoff Swaim,CLE,TE,3,NYG,0,0,,0,0,0,,,0,0,,0,0,0,0
+80,Chris Manhertz,NYG,TE,3,CLE,0,0,,0,0,0,,,0,0,,0,0,0,0
+81,Mark Andrews,BAL,TE,3,DAL,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+82,Brevyn Spann-Ford,DAL,TE,3,BAL,0,0,,0,0,0,,,0,0,,0,0,0,0
+83,Ja'Tavion Sanders,CAR,TE,3,LV,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+84,Feleipe Franks,CAR,TE,3,LV,0,0,,0,0,0,,,0,0,,0,0,0,0
+85,Harrison Bryant,LV,TE,3,CAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+86,Ben Sims,GB,TE,3,TEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+87,Parker Hesse,DET,TE,3,ARI,0,0,,0,0,0,,,0,0,,0,0,0,0
+88,Tip Reiman,ARI,TE,3,DET,0,0,,0,0,0,,,0,0,,0,0,0,0
+89,Hunter Long,LAR,TE,3,SF,0,0,,0,0,0,,,0,0,,0,0,0,0
+90,Nikola Kalinic,LAR,TE,3,SF,0,0,,0,0,0,,,0,0,,0,0,0,0
+91,Brayden Willis,SF,TE,3,LAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+92,Jake Tonges,SF,TE,3,LAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+93,Charlie Woerner,ATL,TE,3,KC,0,0,,0,0,0,,,0,0,,0,0,0,0
+94,Ross Dwelley,ATL,TE,3,KC,0,0,,0,0,0,,,0,0,,0,0,0,0
+95,Quintin Morris,BUF,TE,3,JAX,0,0,,0,0,0,,,0,0,,0,0,0,0
+96,Ben Sinnott,WAS,TE,3,CIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+97,John Bates,WAS,TE,3,CIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+98,Drew Sample,CIN,TE,3,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+1,Tucker Kraft,GB,TE,4,MIN,9,6,66.7,53,1,21,5.9,8.8,0,0,,0,1,1,17.3
+2,Pat Freiermuth,PIT,TE,4,IND,7,5,71.4,57,1,29,8.1,11.4,0,0,,0,0,0,16.7
+3,Travis Kelce,KC,TE,4,LAC,9,7,77.8,89,0,38,9.9,12.7,0,0,,0,0,0,15.9
+4,George Kittle,SF,TE,4,NE,4,4,100,45,1,15,11.2,11.2,0,0,,0,0,0,14.5
+5,Dallas Goedert,PHI,TE,4,TB,8,7,87.5,62,0,18,7.8,8.9,0,0,,0,0,0,13.2
+6,Jake Ferguson,DAL,TE,4,NYG,7,7,100,49,0,9,7,7,0,0,,0,1,0,11.9
+7,Cade Otton,TB,TE,4,PHI,9,6,66.7,52,0,16,5.8,8.7,0,0,,0,0,0,11.2
+8,AJ Barner,SEA,TE,4,DET,2,2,100,27,1,18,13.5,13.5,0,0,,0,0,0,10.7
+9,Blake Whiteheart,CLE,TE,4,LV,3,3,100,13,1,7,4.3,4.3,0,0,,0,0,0,10.3
+10,Dalton Kincaid,BUF,TE,4,BAL,7,5,71.4,47,0,25,6.7,9.4,0,0,,0,0,0,9.7
+11,Austin Hooper,NE,TE,4,SF,2,2,100,13,1,8,6.5,6.5,0,0,,0,0,0,9.3
+12,Sam LaPorta,DET,TE,4,SEA,4,4,100,53,0,30,13.2,13.2,0,0,,0,0,0,9.3
+13,Josh Oliver,MIN,TE,4,GB,2,2,100,10,1,8,5,5,0,0,,0,0,0,9
+14,Drew Ogletree,IND,TE,4,PIT,1,1,100,15,1,15,15,15,0,0,,0,0,0,8.5
+15,Noah Gray,KC,TE,4,LAC,4,4,100,40,0,29,10,10,0,0,,0,0,0,8
+16,Colby Parkinson,LAR,TE,4,CHI,7,4,57.1,33,0,11,4.7,8.2,0,0,,0,0,0,7.3
+17,Zach Ertz,WAS,TE,4,ARI,3,3,100,22,0,13,7.3,7.3,0,0,,0,0,0,7.2
+18,Erick All Jr.,CIN,TE,4,CAR,4,4,100,28,0,11,7,7,0,0,,0,0,0,6.8
+19,Dalton Schultz,HOU,TE,4,JAX,5,3,60,34,0,23,6.8,11.3,0,0,,0,0,0,6.4
+20,Cole Kmet,CHI,TE,4,LAR,3,3,100,34,0,22,11.3,11.3,0,0,,0,0,0,6.4
+21,Tyler Conklin,NYJ,TE,4,DEN,8,4,50,17,0,9,2.1,4.2,0,0,,0,0,0,5.7
+22,Darnell Washington,PIT,TE,4,IND,2,2,100,31,0,20,15.5,15.5,0,0,,0,0,0,5.1
+23,Brock Bowers,LV,TE,4,CLE,3,2,66.7,19,0,13,6.3,9.5,1,12,12,0,0,0,5.1
+24,Brenton Strange,JAX,TE,4,HOU,3,3,100,19,0,11,6.3,6.3,0,0,,0,0,0,4.9
+25,Noah Fant,SEA,TE,4,DET,2,2,100,26,0,16,13,13,0,0,,0,0,0,4.6
+26,Will Dissly,LAC,TE,4,KC,3,2,66.7,24,0,22,8,12,0,0,,0,0,0,4.4
+27,Luke Musgrave,GB,TE,4,MIN,3,3,100,13,0,5,4.3,4.3,0,0,,0,0,0,4.3
+28,Harrison Bryant,LV,TE,4,CLE,2,2,100,21,0,14,10.5,10.5,0,0,,0,0,0,4.1
+29,Cade Stover,HOU,TE,4,JAX,1,1,100,27,0,27,27,27,0,0,,0,0,0,3.7
+30,Isaiah Likely,BAL,TE,4,BUF,2,1,50,26,0,26,13,26,0,0,,0,0,0,3.6
+31,Ja'Tavion Sanders,CAR,TE,4,CIN,2,2,100,16,0,11,8,8,0,0,,0,0,0,3.6
+32,Grant Calcaterra,PHI,TE,4,TB,2,1,50,26,0,26,13,26,0,0,,0,0,0,3.6
+33,Tanner Conner,MIA,TE,4,TEN,2,2,100,15,0,11,7.5,7.5,0,0,,0,0,0,3.5
+34,Johnny Mundt,MIN,TE,4,GB,2,2,100,15,0,9,7.5,7.5,0,0,,0,0,0,3.5
+35,Brock Wright,DET,TE,4,SEA,2,2,100,13,0,10,6.5,6.5,0,0,,0,0,0,3.3
+36,Juwan Johnson,NO,TE,4,ATL,3,2,66.7,13,0,8,4.3,6.5,0,0,,0,0,0,3.3
+37,Hunter Henry,NE,TE,4,SF,3,2,66.7,12,0,8,4,6,0,0,,0,0,0,3.2
+38,Elijah Higgins,ARI,TE,4,WAS,3,2,66.7,12,0,9,4,6,0,0,,0,0,0,3.2
+39,Jeremy Ruckert,NYJ,TE,4,DEN,2,2,100,10,0,9,5,5,0,0,,0,0,0,3
+40,Jordan Akins,CLE,TE,4,LV,2,1,50,10,0,10,5,10,0,0,,0,0,0,2
+41,John Bates,WAS,TE,4,ARI,1,1,100,9,0,9,9,9,0,0,,0,0,0,1.9
+42,Hayden Hurst,LAC,TE,4,KC,3,1,33.3,6,0,6,2,6,0,0,,0,0,0,1.6
+43,Theo Johnson,NYG,TE,4,DAL,1,1,100,6,0,6,6,6,0,0,,0,0,0,1.6
+44,Chigoziem Okonkwo,TEN,TE,4,MIA,3,1,33.3,5,0,5,1.7,5,0,0,,0,0,0,1.5
+45,Josh Whyle,TEN,TE,4,MIA,1,1,100,5,0,5,5,5,0,0,,0,0,0,1.5
+46,Jack Stoll,PHI,TE,4,TB,2,1,50,4,0,4,2,4,0,0,,0,0,0,1.4
+47,Pharaoh Brown,SEA,TE,4,DET,2,1,50,3,0,3,1.5,3,0,0,,0,0,0,1.3
+48,Drew Sample,CIN,TE,4,CAR,1,1,100,0,0,0,0,0,0,0,,0,0,0,1
+49,Nate Adkins,DEN,TE,4,NYJ,1,1,100,0,0,0,0,0,0,0,,0,0,0,1
+50,Dawson Knox,BUF,TE,4,BAL,1,1,100,0,0,0,0,0,0,0,,0,0,0,1
+51,Mike Gesicki,CIN,TE,4,CAR,1,1,100,-9,0,-9,-9,-9,0,0,,0,0,0,0.1
+52,Charlie Woerner,ATL,TE,4,NO,0,0,,0,0,0,,,0,0,,0,0,0,0
+53,Luke Farrell,JAX,TE,4,HOU,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+54,Josiah Deguara,JAX,TE,4,HOU,0,0,,0,0,0,,,0,0,,0,0,0,0
+55,Brady Russell,SEA,TE,4,DET,0,0,,0,0,0,,,0,0,,0,0,0,0
+56,Parker Hesse,DET,TE,4,SEA,0,0,,0,0,0,,,0,0,,0,0,0,0
+57,Kylen Granson,IND,TE,4,PIT,0,0,,0,0,0,,,0,0,,0,0,0,0
+58,Connor Heyward,PIT,TE,4,IND,0,0,,0,0,0,,,0,0,,0,0,0,0
+59,Mo Alie-Cox,IND,TE,4,PIT,0,0,,0,0,0,,,0,0,,0,0,0,0
+60,Rodney Williams,PIT,TE,4,IND,0,0,,0,0,0,,,0,0,,0,0,0,0
+61,Will Mallory,IND,TE,4,PIT,0,0,,0,0,0,,,0,0,,0,0,0,0
+62,Ko Kieft,TB,TE,4,PHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+63,Payne Durham,TB,TE,4,PHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+64,Mitchell Wilcox,NE,TE,4,SF,0,0,,0,0,0,,,0,0,,0,0,0,0
+65,Eric Saubert,SF,TE,4,NE,0,0,,0,0,0,,,0,0,,0,0,0,0
+66,Jake Tonges,SF,TE,4,NE,0,0,,0,0,0,,,0,0,,0,0,0,0
+67,Ben Sims,GB,TE,4,MIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+68,Robert Tonyan,MIN,TE,4,GB,0,0,,0,0,0,,,0,0,,0,0,0,0
+69,Ben Sinnott,WAS,TE,4,ARI,0,0,,0,0,0,,,0,0,,0,0,0,0
+70,Colson Yankoff,WAS,TE,4,ARI,0,0,,0,0,0,,,0,0,,0,0,0,0
+71,Travis Vokolek,ARI,TE,4,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+72,Tip Reiman,ARI,TE,4,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+73,Stone Smartt,LAC,TE,4,KC,0,0,,0,0,0,,,0,0,,0,0,0,0
+74,Jared Wiley,KC,TE,4,LAC,0,0,,0,0,0,,,0,0,,0,0,0,0
+75,Eric Tomlinson,LAC,TE,4,KC,0,0,,0,0,0,,,0,0,,0,0,0,0
+76,Geoff Swaim,CLE,TE,4,LV,0,0,,0,0,0,,,0,0,,0,0,0,0
+77,John Samuel Shenker,LV,TE,4,CLE,0,0,,0,0,0,,,0,0,,0,0,0,0
+78,Feleipe Franks,CAR,TE,4,CIN,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+79,Tommy Tremble,CAR,TE,4,CIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+80,Marcedes Lewis,CHI,TE,4,LAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+81,Hunter Long,LAR,TE,4,CHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+82,Davis Allen,LAR,TE,4,CHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+83,Gerald Everett,CHI,TE,4,LAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+84,Greg Dulcich,DEN,TE,4,NYJ,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+85,Adam Trautman,DEN,TE,4,NYJ,0,0,,0,0,0,,,0,0,,0,0,0,0
+86,Brenden Bates,NYJ,TE,4,DEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+87,Mark Andrews,BAL,TE,4,BUF,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+88,Quintin Morris,BUF,TE,4,BAL,0,0,,0,0,0,,,0,0,,0,0,0,0
+89,Charlie Kolar,BAL,TE,4,BUF,0,0,,0,0,0,,,0,0,,0,0,0,0
+90,Jonnu Smith,MIA,TE,4,TEN,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+91,Nick Vannett,TEN,TE,4,MIA,0,0,,0,0,0,,,0,0,,0,0,0,0
+92,Durham Smythe,MIA,TE,4,TEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+93,Julian Hill,MIA,TE,4,TEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+94,Luke Schoonmaker,DAL,TE,4,NYG,0,0,,0,0,0,,,0,0,,0,0,0,0
+95,Chris Manhertz,NYG,TE,4,DAL,0,0,,0,0,0,,,0,0,,0,0,0,0
+96,Brevyn Spann-Ford,DAL,TE,4,NYG,0,0,,0,0,0,,,0,0,,0,0,0,0
+97,Daniel Bellinger,NYG,TE,4,DAL,0,0,,0,0,0,,,0,0,,0,0,0,0
+98,Kyle Pitts,ATL,TE,4,NO,3,0,0,0,0,0,0,,0,0,,0,0,0,0
+99,Foster Moreau,NO,TE,4,ATL,0,0,,0,0,0,,,0,0,,0,0,0,0
+100,Ross Dwelley,ATL,TE,4,NO,0,0,,0,0,0,,,0,0,,0,0,0,0
+1,Tucker Kraft,GB,TE,5,LAR,5,4,80,88,2,66,17.6,22,0,0,,0,0,0,24.8
+2,Brock Bowers,LV,TE,5,DEN,12,8,66.7,97,1,57,8.1,12.1,0,0,,0,0,0,23.7
+3,George Kittle,SF,TE,5,ARI,12,8,66.7,64,1,15,5.3,8,0,0,,0,0,0,20.4
+4,Isaiah Likely,BAL,TE,5,CIN,3,3,100,13,2,6,4.3,4.3,0,0,,0,0,0,16.3
+5,Travis Kelce,KC,TE,5,NO,10,9,90,70,0,21,7,7.8,0,0,,0,0,0,16
+6,Kyle Pitts,ATL,TE,5,TB,8,7,87.5,88,0,32,11,12.6,0,0,,0,0,0,15.8
+7,Charlie Kolar,BAL,TE,5,CIN,4,3,75,64,1,55,16,21.3,1,2,2,0,0,0,15.6
+8,Jake Ferguson,DAL,TE,5,PIT,7,6,85.7,70,0,27,10,11.7,0,0,,0,0,0,13
+9,Brenton Strange,JAX,TE,5,IND,4,4,100,24,1,12,6,6,0,0,,0,0,0,12.4
+10,Colby Parkinson,LAR,TE,5,GB,13,7,53.8,52,0,9,4,7.4,0,0,,0,0,0,12.2
+11,Mo Alie-Cox,IND,TE,5,JAX,4,2,50,37,1,19,9.2,18.5,0,0,,0,0,0,11.7
+12,Tyler Conklin,NYJ,TE,5,MIN,9,6,66.7,55,0,25,6.1,9.2,0,0,,0,0,0,11.5
+13,Trey McBride,ARI,TE,5,SF,9,6,66.7,53,0,22,5.9,8.8,0,0,,0,0,0,11.3
+14,Jordan Akins,CLE,TE,5,WAS,3,3,100,22,1,10,7.3,7.3,0,0,,0,0,0,11.2
+15,Jonnu Smith,MIA,TE,5,NE,8,5,62.5,62,0,17,7.8,12.4,1,-1,-1,0,0,0,11.1
+16,Connor Heyward,PIT,TE,5,DAL,4,2,50,23,1,16,5.8,11.5,0,0,,0,0,0,10.3
+17,Theo Johnson,NYG,TE,5,SEA,5,5,100,48,0,22,9.6,9.6,0,0,,0,0,0,9.8
+18,Mark Andrews,BAL,TE,5,CIN,5,4,80,55,0,27,11,13.8,0,0,,0,0,0,9.5
+19,Foster Moreau,NO,TE,5,KC,2,2,100,13,1,7,6.5,6.5,0,0,,0,0,0,9.3
+20,Pat Freiermuth,PIT,TE,5,DAL,3,3,100,22,1,19,7.3,7.3,0,0,,0,1,1,9.2
+21,Cole Kmet,CHI,TE,5,CAR,4,3,75,57,0,26,14.2,19,0,0,,0,0,0,8.7
+22,Juwan Johnson,NO,TE,5,KC,5,5,100,31,0,11,6.2,6.2,0,0,,0,0,0,8.1
+23,Cade Otton,TB,TE,5,ATL,4,3,75,44,0,22,11,14.7,0,0,,0,0,0,7.4
+24,Dalton Schultz,HOU,TE,5,BUF,6,4,66.7,34,0,18,5.7,8.5,0,0,,0,0,0,7.4
+25,Elijah Higgins,ARI,TE,5,SF,1,1,100,2,1,2,2,2,0,0,,0,0,0,7.2
+26,Dalton Kincaid,BUF,TE,5,HOU,6,2,33.3,34,0,26,5.7,17,0,0,,0,0,0,5.4
+27,Noah Fant,SEA,TE,5,NYG,3,3,100,24,0,12,8,8,0,0,,0,0,0,5.4
+28,Hunter Henry,NE,TE,5,MIA,4,2,50,32,0,25,8,16,0,0,,0,0,0,5.2
+29,Mike Gesicki,CIN,TE,5,BAL,2,2,100,31,0,19,15.5,15.5,0,0,,0,0,0,5.1
+30,Johnny Mundt,MIN,TE,5,NYJ,2,2,100,31,0,20,15.5,15.5,0,0,,0,0,0,5.1
+31,Noah Gray,KC,TE,5,NO,2,2,100,29,0,15,14.5,14.5,0,0,,0,0,0,4.9
+32,Ja'Tavion Sanders,CAR,TE,5,CHI,5,3,60,13,0,10,2.6,4.3,0,0,,0,0,0,4.3
+33,Gerald Everett,CHI,TE,5,CAR,2,2,100,22,0,17,11,11,0,0,,0,0,0,4.2
+34,Brevyn Spann-Ford,DAL,TE,5,PIT,3,2,66.7,20,0,13,6.7,10,0,0,,0,0,0,4
+35,Luke Farrell,JAX,TE,5,IND,2,2,100,17,0,11,8.5,8.5,0,0,,0,0,0,3.7
+36,Hunter Long,LAR,TE,5,GB,2,2,100,16,0,9,8,8,0,0,,0,0,0,3.6
+37,Erick All Jr.,CIN,TE,5,BAL,2,2,100,10,0,5,5,5,0,0,,0,0,0,3
+38,Zach Ertz,WAS,TE,5,CLE,8,2,25,10,0,7,1.2,5,0,0,,0,0,0,3
+39,Adam Trautman,DEN,TE,5,LV,1,1,100,19,0,19,19,19,0,0,,0,0,0,2.9
+40,Cade Stover,HOU,TE,5,BUF,2,2,100,6,0,5,3,3,0,0,,0,0,0,2.6
+41,David Njoku,CLE,TE,5,WAS,3,1,33.3,14,0,14,4.7,14,0,0,,0,0,0,2.4
+42,AJ Barner,SEA,TE,5,NYG,1,1,100,13,0,13,13,13,0,0,,0,0,0,2.3
+43,Austin Hooper,NE,TE,5,MIA,3,1,33.3,9,0,9,3,9,0,0,,0,0,0,1.9
+44,Luke Schoonmaker,DAL,TE,5,PIT,2,1,50,8,0,8,4,8,0,0,,0,0,0,1.8
+45,Nate Adkins,DEN,TE,5,LV,1,1,100,8,0,8,8,8,0,0,,0,0,0,1.8
+46,Pharaoh Brown,SEA,TE,5,NYG,1,1,100,7,0,7,7,7,0,0,,0,0,0,1.7
+47,Will Mallory,IND,TE,5,JAX,1,1,100,7,0,7,7,7,0,0,,0,0,0,1.7
+48,Tip Reiman,ARI,TE,5,SF,1,1,100,5,0,5,5,5,0,0,,0,0,0,1.5
+49,Drew Ogletree,IND,TE,5,JAX,1,1,100,5,0,5,5,5,0,0,,0,0,0,1.5
+50,Lucas Krull,DEN,TE,5,LV,1,1,100,5,0,5,5,5,0,0,,0,0,0,1.5
+51,Jody Fortson,KC,TE,5,NO,1,1,100,5,0,5,5,5,0,0,,0,0,0,1.5
+52,Darnell Washington,PIT,TE,5,DAL,2,1,50,5,0,5,2.5,5,0,0,,0,0,0,1.5
+53,Josiah Deguara,JAX,TE,5,IND,1,1,100,2,0,2,2,2,0,0,,0,0,0,1.2
+54,Ben Sims,GB,TE,5,LAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+55,Davis Allen,LAR,TE,5,GB,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+56,Josh Oliver,MIN,TE,5,NYJ,0,0,,0,0,0,,,0,0,,0,0,0,0
+57,Tanner Conner,MIA,TE,5,NE,0,0,,0,0,0,,,0,0,,0,0,0,0
+58,Julian Hill,MIA,TE,5,NE,0,0,,0,0,0,,,0,0,,0,0,0,0
+59,Durham Smythe,MIA,TE,5,NE,1,0,0,0,0,0,0,,0,0,,0,0,0,0
+60,Drew Sample,CIN,TE,5,BAL,0,0,,0,0,0,,,0,0,,0,0,0,0
+61,Marcedes Lewis,CHI,TE,5,CAR,0,0,,0,0,0,,,0,0,,0,0,0,0
+62,Feleipe Franks,CAR,TE,5,CHI,0,0,,0,0,0,,,0,0,,0,0,0,0
+63,Robert Tonyan,MIN,TE,5,NYJ,0,0,,0,0,0,,,0,0,,0,0,0,0
+64,Jake Tonges,SF,TE,5,ARI,0,0,,0,0,0,,,0,0,,0,0,0,0
+65,Jeremy Ruckert,NYJ,TE,5,MIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+66,Brenden Bates,NYJ,TE,5,MIN,0,0,,0,0,0,,,0,0,,0,0,0,0
+67,Eric Saubert,SF,TE,5,ARI,0,0,,0,0,0,,,0,0,,0,0,0,0
+68,Daniel Bellinger,NYG,TE,5,SEA,0,0,,0,0,0,,,0,0,,0,0,0,0
+69,John Samuel Shenker,LV,TE,5,DEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+70,Harrison Bryant,LV,TE,5,DEN,0,0,,0,0,0,,,0,0,,0,0,0,0
+71,Chris Manhertz,NYG,TE,5,SEA,0,0,,0,0,0,,,0,0,,0,0,0,0
+72,Brady Russell,SEA,TE,5,NYG,0,0,,0,0,0,,,0,0,,0,0,0,0
+73,Rodney Williams,PIT,TE,5,DAL,0,0,,0,0,0,,,0,0,,0,0,0,0
+74,Dallin Holker,NO,TE,5,KC,0,0,,0,0,0,,,0,0,,0,0,0,0
+75,Jared Wiley,KC,TE,5,NO,0,0,,0,0,0,,,0,0,,0,0,0,0
+76,Payne Durham,TB,TE,5,ATL,0,0,,0,0,0,,,0,0,,0,0,0,0
+77,Ross Dwelley,ATL,TE,5,TB,0,0,,0,0,0,,,0,0,,0,0,0,0
+78,Charlie Woerner,ATL,TE,5,TB,0,0,,0,0,0,,,0,0,,0,0,0,0
+79,Ko Kieft,TB,TE,5,ATL,0,0,,0,0,0,,,0,0,,0,0,0,0
+80,Kylen Granson,IND,TE,5,JAX,0,0,,0,0,0,,,0,0,,0,0,0,0
+81,Quintin Morris,BUF,TE,5,HOU,0,0,,0,0,0,,,0,0,,0,0,0,0
+82,Dawson Knox,BUF,TE,5,HOU,0,0,,0,0,0,,,0,0,,0,0,0,0
+83,Ben Sinnott,WAS,TE,5,CLE,0,0,,0,0,0,,,0,0,,0,0,0,0
+84,Blake Whiteheart,CLE,TE,5,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+85,Colson Yankoff,WAS,TE,5,CLE,0,0,,0,0,0,,,0,0,,0,0,0,0
+86,Geoff Swaim,CLE,TE,5,WAS,0,0,,0,0,0,,,0,0,,0,0,0,0
+87,John Bates,WAS,TE,5,CLE,0,0,,0,0,0,,,0,0,,0,0,0,0
+88,Tommy Tremble,CAR,TE,5,CHI,2,1,50,7,0,7,3.5,7,0,0,,0,1,1,-0.3
