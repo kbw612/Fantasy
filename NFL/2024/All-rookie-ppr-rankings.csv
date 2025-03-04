@@ -1,4 +1,4 @@
-Rank,"Positional Rank","Player ID",Name,URL,Team,Position,Age,"Draft Pick",Type,Strategy,"Lifetime Value","Lifetime Value Change"
+"Player ID",Name,URL,Team,Position,Age,"Draft Pick",Type,Strategy,"Lifetime Value","Lifetime Value Change",Rank,"Positional Rank"
 AJ-2501,"Ashton Jeanty",http://www.playerprofiler.com/nfl/ashton-jeanty/,"Boise State",RB,21.2,-,ppr,default,284.620000,0.00,1,1
 TM-0223,"Tetairoa McMillan",http://www.playerprofiler.com/nfl/tetairoa-mcmillan/,Arizona,WR,21.9,-,ppr,default,162.260000,0.00,2,1
 TH-0223,"Travis Hunter",http://www.playerprofiler.com/nfl/travis-hunter/,Colorado,WR,21.9,-,ppr,default,128.530000,0.00,3,2
