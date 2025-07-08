@@ -1,0 +1,28 @@
+{
+	"teams": [
+		{
+			"teamAbbrev": "NYJ",
+			"players": [
+				{
+					"name": "Garrett Wilson",
+					"moreUsagePlayers": [
+						"Breece Hall",
+						"Mason Taylor"
+					]
+				}
+			]
+		},
+		{
+			"teamAbbrev": "PHI",
+			"players": [
+				{
+					"name": "Garrett Wilson",
+					"moreUsagePlayers": [
+						"Breece Hall",
+						"Mason Taylor"
+					]
+				}
+			]
+		}		
+	]
+}
