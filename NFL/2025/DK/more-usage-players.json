@@ -1,29 +1,20 @@
 {
 	"teams": [
 		{
-			"teamAbbrev": "NYJ",
+			"teamAbbrev": "CAR",
 			"players": [
 				{
-					"name": "Garrett Wilson",
+					"name": "Jalen Coker",
 					"moreUsagePlayers": [
-						"Breece Hall",
-						"Mason Taylor"
-					]
-				}
-			]
-		},
-		{
-			"teamAbbrev": "PHI",
-			"players": [
-				{
-					"name": "DeVonta Smith",
-					"moreUsagePlayers": [
-						"A.J. Brown",
-						"Saquon Barkley",
-						"Dallas Goedert"
+						"Tetairoa McMillan",
+						"Xavier Legette",
+						"David Moore",
+						"Hunter Renfrow",
+						"Ja'Tavion Sanders"
 					]
 				}
 			]
 		}
 	]
+
 }
