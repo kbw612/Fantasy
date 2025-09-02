@@ -1,0 +1,18 @@
+{
+	"players": [{
+			"name": "Garrett Wilson",
+			"moreUsagePlayers": [
+				"Breece Hall",
+				"Mason Taylor"
+			]
+		},
+		{
+			"name": "DeVonta Smith",
+			"moreUsagePlayers": [
+				"A.J. Brown",
+				"Saquon Barkley",
+				"Dallas Goedert"
+			]
+		}
+	]
+}
