@@ -1,3 +1,4 @@
+Player,Position,Team,Opponent,Salary,% ownership
 Christian McCaffrey,RB,SF,SEA,"$7,300",27.50%,,,
 De'Von Achane,RB,MIA,IND,"$6,900",22.40%,,,
 Chase Brown,RB,CIN,CLE,"$6,600",19.70%,,,
@@ -160,4 +161,5 @@ Nick Westbrook-Ikhine,WR,MIA,IND,"$3,500",0.20%,,,
 Austin Hooper,TE,NE,LV,"$2,900",0.20%,,,
 Roman Wilson,WR,PIT,NYJ,"$3,000",0.10%,,,
 Cade Stover,TE,HOU,LA,"$2,600",0.10%,,,
+
 Greg Dortch,WR,ARI,NO,"$3,500",0.10%,,,
