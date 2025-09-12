@@ -1,0 +1,176 @@
+Player,Position,Team,Opponent,Salary,% ownership
+Christian McCaffrey,RB,SF,@NO,"$7,500",33.5%
+Puka Nacua,WR,LA,@TEN,"$7,600",19.1%
+Hollywood Brown,WR,KC,PHI,"$5,200",18.7%
+Tee Higgins,WR,CIN,JAX,"$6,100",18.2%
+Ja'Marr Chase,WR,CIN,JAX,"$8,100",18.0%
+De'Von Achane,RB,MIA,NE,"$6,900",17.7%
+Trey McBride,TE,ARI,CAR,"$6,000",17.3%
+Kyren Williams,RB,LA,@TEN,"$6,300",16.7%
+Chase Brown,RB,CIN,JAX,"$6,800",16.6%
+Jahmyr Gibbs,RB,DET,CHI,"$7,400",15.3%
+Alvin Kamara,RB,NO,SF,"$6,100",14.2%
+Malik Nabers,WR,NYG,@DAL,"$7,100",13.9%
+Jaxon Smith-Njigba,WR,SEA,@PIT,"$6,000",13.3%
+Ravens,DST,BAL,CLE,"$3,700",12.9%
+Zay Flowers,WR,BAL,CLE,"$6,200",12.8%
+Travis Kelce,TE,KC,PHI,"$5,000",12.6%
+CeeDee Lamb,WR,DAL,NYG,"$7,800",12.6%
+Brian Thomas Jr.,WR,JAX,@CIN,"$6,700",12.5%
+Jonathan Taylor,RB,IND,DEN,"$6,700",12.0%
+Tony Pollard,RB,TEN,LA,"$5,900",10.7%
+Lamar Jackson,QB,BAL,CLE,"$7,000",10.6%
+Joe Burrow,QB,CIN,JAX,"$6,600",10.4%
+Tetairoa McMillan,WR,CAR,@ARI,"$5,400",10.4%
+James Conner,RB,ARI,CAR,"$6,600",10.3%
+DK Metcalf,WR,PIT,SEA,"$5,900",10.1%
+Harold Fannin Jr.,TE,CLE,@BAL,"$3,100",9.9%
+Javonte Williams,RB,DAL,NYG,"$5,800",9.8%
+Calvin Ridley,WR,TEN,LA,"$4,900",9.6%
+Rams,DST,LA,@TEN,"$3,100",9.4%
+DJ Moore,WR,CHI,@DET,"$5,600",8.9%
+Ricky Pearsall,WR,SF,@NO,"$5,300",8.8%
+Derrick Henry,RB,BAL,CLE,"$8,200",8.7%
+Tyreek Hill,WR,MIA,NE,"$6,400",8.6%
+Garrett Wilson,WR,NYJ,BUF,"$6,500",8.5%
+Davante Adams,WR,LA,@TEN,"$5,900",8.4%
+Marvin Harrison Jr.,WR,ARI,CAR,"$5,800",8.2%
+Courtland Sutton,WR,DEN,@IND,"$6,300",8.1%
+Josh Allen,QB,BUF,@NYJ,"$7,100",8.0%
+Rome Odunze,WR,CHI,@DET,"$4,800",7.9%
+Amon-Ra St. Brown,WR,DET,CHI,"$7,000",7.9%
+A.J. Brown,WR,PHI,@KC,"$6,600",7.8%
+Saquon Barkley,RB,PHI,@KC,"$8,000",7.8%
+Travis Etienne Jr.,RB,JAX,@CIN,"$5,700",7.7%
+Jake Ferguson,TE,DAL,NYG,"$3,800",7.7%
+Dolphins,DST,MIA,NE,"$2,900",7.5%
+Jerry Jeudy,WR,CLE,@BAL,"$5,300",7.3%
+Sam LaPorta,TE,DET,CHI,"$4,800",7.3%
+Steelers,DST,PIT,SEA,"$3,100",7.0%
+Chuba Hubbard,RB,CAR,@ARI,"$6,000",6.8%
+Chris Olave,WR,NO,SF,"$4,900",6.8%
+Jalen Hurts,QB,PHI,@KC,"$6,800",6.6%
+Saints,DST,NO,SF,"$2,500",6.5%
+Cowboys,DST,DAL,NYG,"$3,000",6.4%
+Seahawks,DST,SEA,@PIT,"$2,700",6.3%
+Jaylen Warren,RB,PIT,SEA,"$5,400",6.2%
+Colts,DST,IND,DEN,"$2,600",5.9%
+Patrick Mahomes,QB,KC,PHI,"$6,200",5.8%
+James Cook,RB,BUF,@NYJ,"$6,400",5.8%
+Chig Okonkwo,TE,TEN,LA,"$3,300",5.7%
+Tyler Warren,TE,IND,DEN,"$4,500",5.7%
+D'Andre Swift,RB,CHI,@DET,"$5,700",5.6%
+Trevor Lawrence,QB,JAX,@CIN,"$5,600",5.4%
+Keon Coleman,WR,BUF,@NYJ,"$5,100",5.4%
+Kyler Murray,QB,ARI,CAR,"$6,400",5.3%
+Caleb Williams,QB,CHI,@DET,"$5,400",5.3%
+George Pickens,WR,DAL,NYG,"$5,800",5.3%
+DeVonta Smith,WR,PHI,@KC,"$5,600",5.2%
+Hunter Henry,TE,NE,@MIA,"$4,000",5.2%
+Justin Fields,QB,NYJ,BUF,"$5,700",4.9%
+Brenton Strange,TE,JAX,@CIN,"$3,600",4.8%
+Dak Prescott,QB,DAL,NYG,"$5,900",4.8%
+Drake Maye,QB,NE,@MIA,"$5,200",4.7%
+Broncos,DST,DEN,@IND,"$3,500",4.7%
+Khalil Shakir,WR,BUF,@NYJ,"$5,500",4.7%
+Cedric Tillman,WR,CLE,@BAL,"$4,300",4.6%
+Tyrone Tracy Jr.,RB,NYG,@DAL,"$5,300",4.5%
+David Montgomery,RB,DET,CHI,"$5,400",4.3%
+Michael Pittman Jr.,WR,IND,DEN,"$5,100",4.3%
+Wan'Dale Robinson,WR,NYG,@DAL,"$4,400",4.3%
+Breece Hall,RB,NYJ,BUF,"$6,200",4.1%
+Travis Hunter,WR,JAX,@CIN,"$5,200",4.1%
+Mark Andrews,TE,BAL,CLE,"$4,700",4.1%
+Mac Jones,QB,SF,@NO,"$4,000",4.0%
+Juwan Johnson,TE,NO,SF,"$3,600",4.0%
+Elic Ayomanor,WR,TEN,LA,"$3,200",3.9%
+Jaylen Waddle,WR,MIA,NE,"$5,400",3.9%
+Jameson Williams,WR,DET,CHI,"$5,700",3.9%
+David Njoku,TE,CLE,@BAL,"$4,400",3.8%
+Dalton Kincaid,TE,BUF,@NYJ,"$3,700",3.8%
+Cardinals,DST,ARI,CAR,"$3,400",3.4%
+JuJu Smith-Schuster,WR,KC,PHI,"$4,000",3.3%
+Daniel Jones,QB,IND,DEN,"$5,200",3.1%
+Bills,DST,BUF,@NYJ,"$3,300",3.1%
+Patriots,DST,NE,@MIA,"$2,800",2.9%
+Russell Wilson,QB,NYG,@DAL,"$5,100",2.9%
+Kenneth Walker III,RB,SEA,@PIT,"$5,600",2.8%
+Lions,DST,DET,CHI,"$3,200",2.8%
+Titans,DST,TEN,LA,"$2,400",2.8%
+Rashid Shaheed,WR,NO,SF,"$4,500",2.7%
+Eagles,DST,PHI,@KC,"$3,000",2.7%
+Jared Goff,QB,DET,CHI,"$6,000",2.7%
+Bo Nix,QB,DEN,@IND,"$6,100",2.7%
+Xavier Legette,WR,CAR,@ARI,"$3,900",2.6%
+Kenneth Gainwell,RB,PIT,SEA,"$4,400",2.5%
+49ers,DST,SF,@NO,"$3,600",2.4%
+Panthers,DST,CAR,@ARI,"$2,300",2.4%
+Rashod Bateman,WR,BAL,CLE,"$4,600",2.2%
+Bengals,DST,CIN,JAX,"$2,900",2.2%
+Matthew Stafford,QB,LA,@TEN,"$5,800",2.1%
+Tua Tagovailoa,QB,MIA,NE,"$5,300",2.0%
+Giants,DST,NYG,@DAL,"$2,600",1.9%
+Stefon Diggs,WR,NE,@MIA,"$5,000",1.9%
+Spencer Rattler,QB,NO,SF,"$4,800",1.9%
+Bryce Young,QB,CAR,@ARI,"$5,100",1.8%
+Joe Flacco,QB,CLE,@BAL,"$5,000",1.8%
+Jonnu Smith,TE,PIT,SEA,"$3,900",1.7%
+Kayshon Boutte,WR,NE,@MIA,"$4,500",1.7%
+Bears,DST,CHI,@DET,"$2,500",1.6%
+Chiefs,DST,KC,PHI,"$2,800",1.6%
+Marvin Mims Jr.,WR,DEN,@IND,"$4,100",1.6%
+Theo Johnson,TE,NYG,@DAL,"$2,900",1.5%
+Troy Franklin,WR,DEN,@IND,"$3,700",1.5%
+J.K. Dobbins,RB,DEN,@IND,"$5,600",1.4%
+Cam Ward,QB,TEN,LA,"$4,900",1.4%
+Browns,DST,CLE,@BAL,"$2,200",1.4%
+Josh Downs,WR,IND,DEN,"$4,600",1.4%
+Jaguars,DST,JAX,@CIN,"$2,700",1.3%
+Noah Fant,TE,CIN,JAX,"$3,300",1.3%
+Aaron Rodgers,QB,PIT,SEA,"$5,500",1.3%
+Joshua Palmer,WR,BUF,@NYJ,"$4,400",1.2%
+Zach Charbonnet,RB,SEA,@PIT,"$5,100",1.1%
+Josh Reynolds,WR,NYJ,BUF,"$3,500",1.1%
+Pat Freiermuth,TE,PIT,SEA,"$3,400",1.1%
+Ja'Tavion Sanders,TE,CAR,@ARI,"$3,100",1.1%
+AJ Barner,TE,SEA,@PIT,"$2,800",1.0%
+Dylan Sampson,RB,CLE,@BAL,"$5,200",1.0%
+Malik Washington,WR,MIA,NE,"$3,300",1.0%
+TreVeyon Henderson,RB,NE,@MIA,"$5,500",1.0%
+Jets,DST,NYJ,BUF,"$2,400",0.9%
+Evan Engram,TE,DEN,@IND,"$4,200",0.9%
+Mason Taylor,TE,NYJ,BUF,"$2,900",0.8%
+Olamide Zaccheaus,WR,CHI,@DET,"$3,600",0.8%
+Tyquan Thornton,WR,KC,PHI,"$3,600",0.8%
+Kareem Hunt,RB,KC,PHI,"$4,500",0.8%
+Hunter Renfrow,WR,CAR,@ARI,"$3,400",0.8%
+Calvin Austin III,WR,PIT,SEA,"$4,700",0.8%
+Cole Kmet,TE,CHI,@DET,"$3,200",0.8%
+DeAndre Hopkins,WR,BAL,CLE,"$4,200",0.8%
+Dyami Brown,WR,JAX,@CIN,"$4,200",0.8%
+Jerome Ford,RB,CLE,@BAL,"$4,600",0.8%
+Isiah Pacheco,RB,KC,PHI,"$5,500",0.7%
+Sam Darnold,QB,SEA,@PIT,"$5,000",0.7%
+Grant Calcaterra,TE,PHI,@KC,"$2,500",0.7%
+Darius Slayton,WR,NYG,@DAL,"$3,400",0.7%
+Michael Wilson,WR,ARI,CAR,"$3,700",0.7%
+DeMario Douglas,WR,NE,@MIA,"$4,300",0.7%
+Mike Gesicki,TE,CIN,JAX,"$3,400",0.6%
+Rhamondre Stevenson,RB,NE,@MIA,"$5,000",0.6%
+Trey Benson,RB,ARI,CAR,"$4,600",0.6%
+Cooper Kupp,WR,SEA,@PIT,"$5,000",0.6%
+Jake Tonges,TE,SF,@NO,"$3,200",0.5%
+Marquez Valdes-Scantling,WR,SF,@NO,"$3,800",0.5%
+Colston Loveland,TE,CHI,@DET,"$3,700",0.5%
+Noah Gray,TE,KC,PHI,"$3,000",0.5%
+Andrei Iosivas,WR,CIN,JAX,"$3,500",0.5%
+Dawson Knox,TE,BUF,@NYJ,"$2,700",0.5%
+Tyler Higbee,TE,LA,@TEN,"$3,100",0.5%
+Tanner Conner,TE,MIA,NE,"$2,500",0.4%
+Alec Pierce,WR,IND,DEN,"$4,100",0.4%
+Tutu Atwell,WR,LA,@TEN,"$3,500",0.4%
+Charlie Kolar,TE,BAL,CLE,"$2,500",0.4%
+KaVontae Turpin,WR,DAL,NYG,"$3,600",0.3%
+Justice Hill,RB,BAL,CLE,"$4,200",0.3%
+RJ Harvey,RB,DEN,@IND,"$5,300",0.3%
+Tyler Lockett,WR,TEN,LA,"$3,900",0.3%
