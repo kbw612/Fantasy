@@ -15,7 +15,7 @@
 14,George Pickens,WR,DAL,@NYJ,"$6,600",15.5%
 15,Michael Pittman Jr.,WR,IND,LV,"$5,100",15.1%
 16,Justin Fields,QB,NYJ,DAL,"$5,600",14.8%
-17,Deebo Samuel Sr.,WR,WAS,LARRC,"$6,300",14.5%
+17,Deebo Samuel Sr.,WR,WAS,@LAC,"$6,300",14.5%
 18,Chris Olave,WR,NO,NYG,"$5,200",14.3%
 19,Javonte Williams,RB,DAL,@NYJ,"$6,200",14.2%
 20,Jaylen Waddle,WR,MIA,@CAR,"$5,400",14.0%
@@ -35,7 +35,7 @@
 37,Marvin Harrison Jr.,WR,ARI,TEN,"$5,400",9.4%
 38,Alvin Kamara,RB,NO,NYG,"$5,900",9.3%
 39,Zay Flowers,WR,BAL,HOU,"$6,200",9.2%
-40,Zach Ertz,TE,WAS,LARRC,"$3,800",8.9%
+40,Zach Ertz,TE,WAS,@LAC,"$3,800",8.9%
 41,Ja'Marr Chase,WR,CIN,DET,"$7,800",8.7%
 42,Tony Pollard,RB,TEN,@ARI,"$5,400",8.5%
 43,Derrick Henry,RB,BAL,HOU,"$7,000",8.1%
@@ -50,7 +50,7 @@
 52,Jameson Williams,WR,DET,@CIN,"$4,900",5.6%
 53,Jalen Hurts,QB,PHI,DEN,"$6,800",5.4%
 54,Chase Brown,RB,CIN,DET,"$6,100",5.3%
-56,Jayden Daniels,QB,WAS,LARRC,"$7,000",5.0%
+56,Jayden Daniels,QB,WAS,@LAC,"$7,000",5.0%
 60,Jaxson Dart,QB,NYG,@NO,"$5,300",4.0%
 61,DeVonta Smith,WR,PHI,DEN,"$5,000",4.0%
 62,Sam Darnold,QB,SEA,TB,"$5,100",3.9%
@@ -92,7 +92,7 @@
 109,Mark Andrews,TE,BAL,HOU,"$4,000",1.3%
 110,Calvin Ridley,WR,TEN,@ARI,"$4,800",1.3%
 111,Brycen Tremayne,WR,CAR,MIA,"$3,100",1.2%
-113,Chris Moore,WR,WAS,LARRC,"$3,000",0.9%
+113,Chris Moore,WR,WAS,@LAC,"$3,000",0.9%
 114,Cooper Rush,QB,BAL,HOU,"$4,300",0.9%
 115,Alec Pierce,WR,IND,LV,"$4,400",0.8%
 116,Michael Wilson,WR,ARI,TEN,"$3,300",0.8%
@@ -106,5 +106,5 @@
 124,Cam Ward,QB,TEN,@ARI,"$4,600",0.4%
 125,Adonai Mitchell,WR,IND,LV,"$3,600",0.4%
 126,Rashod Bateman,WR,BAL,HOU,"$4,500",0.4%
-127,Jacory Croskey-Merritt,RB,WAS,LARRC,"$5,100",0.4%
+127,Jacory Croskey-Merritt,RB,WAS,@LAC,"$5,100",0.4%
 128,Justice Hill,RB,BAL,HOU,"$5,000",0.3%
