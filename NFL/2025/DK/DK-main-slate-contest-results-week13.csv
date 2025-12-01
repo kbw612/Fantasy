@@ -1,0 +1,341 @@
+week,Player,Salary,Roster Position,%Drafted,FPTS
+13,De'Von Achane,8300,RB,46.55%,22.4
+13,Breece Hall,6000,RB,32.76%,15.6
+13,Kenneth Walker III,5300,FLEX,25.45%,10.4
+13,Jaxon Smith-Njigba,9500,WR,23.61%,4.3
+13,Jaylen Waddle,6800,WR,22.88%,7.0
+13,Oronde Gadsden II,4300,FLEX,21.93%,3.7
+13,Kimani Vidal,5700,RB,20.73%,23.7
+13,Puka Nacua,9000,WR,20.18%,13.2
+13,Khalil Shakir,5500,WR,18.99%,1.5
+13,Nico Collins,6700,WR,17.78%,21.5
+13,Bijan Robinson,8500,RB,16.99%,33.3
+13,Titans,2200,DST,14.57%,3.0
+13,Emeka Egbuka,6500,WR,14.38%,8.2
+13,Jayden Higgins,3900,FLEX,14.27%,11.5
+13,Travis Etienne Jr.,6500,RB,13.84%,5.1
+13,Jacoby Brissett,5800,QB,12.79%,23.64
+13,Brock Bowers,5800,TE,12.60%,22.3
+13,John Metchie III,3800,WR,12.58%,5.7
+13,Chris Olave,6400,WR,12.51%,14.7
+13,Dalton Schultz,3800,TE,12.03%,12.5
+13,Seahawks,3900,DST,11.57%,30.0
+13,Kyren Williams,6600,RB,11.49%,13.2
+13,Michael Wilson,5900,WR,11.41%,6.6
+13,Jets,2400,DST,11.40%,4.0
+13,Kyle Pitts Sr.,4000,TE,11.27%,15.2
+13,Justin Herbert,6500,QB,11.26%,13.84
+13,C.J. Stroud,5000,QB,11.26%,10.04
+13,Devin Neal,5000,RB,11.18%,9.9
+13,Davante Adams,7500,WR,10.86%,21.8
+13,AJ Barner,3200,FLEX,10.78%,7.7
+13,Ladd McConkey,6300,WR,10.73%,13.9
+13,Chimere Dike,4400,WR,10.47%,0.9
+13,Tetairoa McMillan,6100,FLEX,10.34%,11.3
+13,Trey McBride,7800,TE,10.23%,22.2
+13,Adonai Mitchell,3600,WR,10.00%,27.2
+13,Browns,3000,DST,9.75%,1.0
+13,Josh Allen,7500,QB,9.71%,17.72
+13,Ashton Jeanty,6400,RB,9.17%,12.1
+13,Quentin Johnston,4900,WR,8.53%,11.3
+13,James Cook III,7600,RB,8.38%,22.7
+13,Sam Darnold,5600,QB,8.36%,4.12
+13,Christian McCaffrey,9300,RB,7.70%,17.4
+13,Matthew Stafford,7000,QB,7.48%,14.62
+13,Gunnar Helm,2600,FLEX,7.29%,8.3
+13,Juwan Johnson,4200,TE,7.27%,8.9
+13,Tua Tagovailoa,4900,QB,7.12%,5.68
+13,Keenan Allen,5000,WR,6.96%,7.0
+13,DK Metcalf,5600,WR,6.79%,6.2
+13,Colby Parkinson,2800,TE,6.43%,6.7
+13,Brenton Strange,3700,FLEX,6.37%,13.5
+13,Elic Ayomanor,3700,WR,6.27%,1.5
+13,Jonathan Taylor,9800,RB,5.77%,15.1
+13,49ers,3600,DST,5.74%,11.0
+13,Dolphins,3300,DST,5.68%,11.0
+13,Alec Pierce,4800,FLEX,5.68%,17.8
+13,Tyler Warren,5200,TE,5.64%,11.2
+13,Trevor Lawrence,5400,QB,5.46%,21.66
+13,Marvin Harrison Jr.,6000,WR,5.43%,12.9
+13,Tyrod Taylor,4300,QB,5.29%,21.28
+13,Texans,2900,DST,5.24%,2.0
+13,Cam Ward,4600,QB,5.20%,6.34
+13,Chargers,4000,DST,5.14%,8.0
+13,Steelers,2600,DST,4.97%,5.0
+13,Harold Fannin Jr.,3400,TE,4.93%,12.3
+13,Kenneth Gainwell,5300,FLEX,4.74%,6.5
+13,George Kittle,5300,TE,4.72%,10.7
+13,Cade Otton,4100,FLEX,4.64%,2.9
+13,Michael Pittman Jr.,5800,FLEX,4.36%,2.3
+13,Jaylen Warren,6300,RB,4.34%,12.4
+13,Tyler Shough,4400,QB,4.17%,19.36
+13,Baker Mayfield,5900,QB,4.16%,14.46
+13,Colts,3100,DST,3.86%,5.0
+13,Falcons,3500,DST,3.85%,2.0
+13,Justin Jefferson,7100,WR,3.82%,2.4
+13,Jauan Jennings,4700,WR,3.69%,13.9
+13,Darnell Mooney,5300,WR,3.61%,4.5
+13,Mason Taylor,3300,TE,3.58%,4.1
+13,Tre Tucker,4800,WR,3.49%,5.0
+13,Taysom Hill,2700,TE,3.22%,1.7
+13,Jaguars,3700,DST,3.14%,14.0
+13,Rams,3800,DST,3.11%,2.0
+13,Brian Thomas Jr.,6200,WR,3.10%,4.8
+13,Buccaneers,3200,DST,3.02%,7.0
+13,Cooper Kupp,4000,WR,2.97%,5.4
+13,Keon Coleman,3500,WR,2.91%,8.9
+13,Quinshon Judkins,6200,RB,2.75%,15.9
+13,Jalen Coker,3400,FLEX,2.60%,17.4
+13,Devaughn Vele,3500,WR,2.56%,23.3
+13,Tez Johnson,4200,WR,2.48%,1.5
+13,Dawson Knox,3000,TE,2.45%,5.8
+13,Parker Washington,5400,WR,2.42%,3.6
+13,Rico Dowdle,6900,RB,2.38%,9.9
+13,Woody Marks,5800,RB,2.38%,7.7
+13,Jakobi Meyers,5700,WR,2.36%,21.3
+13,Vikings,2300,DST,2.31%,9.0
+13,Gabe Davis,3300,FLEX,2.02%,1.5
+13,Darren Waller,3900,FLEX,1.99%,6.7
+13,Josh Downs,4200,WR,1.93%,6.4
+13,Saints,2800,DST,1.78%,6.0
+13,Raiders,2500,DST,1.69%,4.0
+13,Malik Washington,4300,WR,1.63%,7.0
+13,Aaron Jones Sr.,5600,RB,1.62%,5.5
+13,Daniel Jones,6300,QB,1.52%,16.14
+13,Christian Kirk,3400,WR,1.49%,0.0
+13,Jerry Jeudy,4100,WR,1.41%,5.6
+13,Greg Dortch,4600,WR,1.35%,3.4
+13,Rashid Shaheed,4500,WR,1.32%,2.6
+13,Cardinals,2700,DST,1.31%,3.0
+13,Max Brosmer,4000,QB,1.30%,0.94
+13,Bucky Irving,7000,RB,1.30%,16.1
+13,Panthers,2100,DST,1.16%,13.0
+13,Chris Godwin Jr.,5000,WR,1.11%,10.8
+13,Calvin Austin III,3700,WR,1.09%,0.0
+13,Jordan Addison,5100,FLEX,1.06%,8.6
+13,T.J. Hockenson,3500,FLEX,1.05%,11.9
+13,Geno Smith,4500,QB,1.02%,13.0
+13,Zonovan Knight,5200,RB,0.99%,17.8
+13,Shedeur Sanders,4200,QB,0.96%,10.56
+13,Zach Charbonnet,4800,RB,0.96%,11.2
+13,Kirk Cousins,4800,QB,0.88%,13.36
+13,Michael Carter,4200,RB,0.79%,11.4
+13,Van Jefferson,3400,WR,0.76%,5.0
+13,Aaron Rodgers,5100,QB,0.69%,3.68
+13,Tony Pollard,4900,RB,0.68%,6.3
+13,Ricky Pearsall,5200,WR,0.63%,3.4
+13,Brock Purdy,6000,QB,0.62%,17.12
+13,Tyler Lockett,3800,WR,0.60%,2.1
+13,Bills,3400,DST,0.60%,15.0
+13,Xavier Legette,3900,WR,0.58%,1.1
+13,Bryce Young,5300,QB,0.58%,22.54
+13,Pat Freiermuth,3100,FLEX,0.57%,0.0
+13,Jonnu Smith,2900,TE,0.50%,1.6
+13,David Sills V,3500,WR,0.47%,9.5
+13,Mason Tipton,3000,WR,0.46%,4.9
+13,Ja'Tavion Sanders,2500,TE,0.45%,0.0
+13,Tyler Allgeier,4500,RB,0.42%,13.5
+13,Sean Tucker,5500,FLEX,0.41%,0.0
+13,Tyjae Spears,4700,RB,0.33%,8.4
+13,Bhayshul Tuten,4500,RB,0.32%,8.9
+13,Darnell Washington,2700,TE,0.32%,6.5
+13,David Njoku,2900,TE,0.31%,2.4
+13,Chig Okonkwo,3600,FLEX,0.30%,6.9
+13,Greg Dulcich,2500,TE,0.30%,4.4
+13,Rachaad White,5000,RB,0.29%,5.9
+13,Cedric Tillman,3600,WR,0.28%,0.0
+13,Jalen Nailor,3200,WR,0.27%,0.0
+13,Jordan Whittington,3000,WR,0.27%,0.0
+13,Tyrell Shavers,3200,FLEX,0.26%,0.0
+13,Sterling Shepard,4100,WR,0.22%,1.5
+13,Joshua Palmer,3600,FLEX,0.20%,0.0
+13,Brandin Cooks,0,WR,0.18%,2.3
+13,Dalton Kincaid,4500,TE,0.16%,0.0
+13,Dylan Sampson,4700,RB,0.16%,2.3
+13,Isaiah Bond,3000,WR,0.14%,3.7
+13,Xavier Hutchinson,3000,FLEX,0.13%,5.9
+13,Blake Corum,4600,RB,0.13%,14.1
+13,Chuba Hubbard,4400,FLEX,0.13%,20.4
+13,Jaylin Noel,3000,WR,0.13%,0.0
+13,Xavier Restrepo,3000,FLEX,0.12%,2.5
+13,Davis Allen,2500,TE,0.12%,1.4
+13,Roman Wilson,3000,WR,0.11%,0.0
+13,Ollie Gordon II,4300,FLEX,0.10%,1.0
+13,Tre' Harris,3100,WR,0.10%,6.0
+13,Jordan Mason,5100,RB,0.10%,5.8
+13,Dylan Drummond,3000,WR,0.09%,1.3
+13,Ty Johnson,4600,FLEX,0.08%,5.5
+13,Kendrick Bourne,3800,WR,0.07%,0.0
+13,Terrance Ferguson,2500,TE,0.07%,0.0
+13,Jackson Hawes,2500,TE,0.07%,2.0
+13,Nick Chubb,4800,RB,0.06%,9.4
+13,Elijah Arroyo,2500,FLEX,0.05%,0.0
+13,Nick Westbrook-Ikhine,3000,WR,0.05%,0.0
+13,Elijah Higgins,2500,TE,0.05%,3.7
+13,Brian Robinson Jr.,4300,RB,0.04%,2.6
+13,Tim Patrick,3000,WR,0.04%,2.1
+13,Ian Thomas,2500,TE,0.03%,1.8
+13,Raheem Mostert,4000,RB,0.02%,0.6
+13,Dont'e Thornton Jr.,3000,WR,0.02%,2.1
+13,Justin Fields,4300,QB,0.02%,0.0
+13,Jaret Patterson,4000,FLEX,0.02%,11.4
+13,Audric Estime,4000,RB,0.02%,0.0
+13,Tyler Johnson,3000,WR,0.01%,0.0
+13,Isaiah Davis,4500,FLEX,0.01%,0.0
+13,Demarcus Robinson,3000,WR,0.01%,0.6
+13,Albert Okwuegbunam Jr.,2500,FLEX,0.01%,0.0
+13,Dyami Brown,3000,FLEX,0.01%,0.0
+13,Ray Davis,4000,FLEX,0.01%,6.2
+13,Tommy Tremble,2500,TE,0.01%,1.2
+13,Davis Mills,4500,QB,0.01%,0.0
+13,Josh Oliver,2500,TE,0.01%,0.0
+13,Allen Lazard,3000,WR,0.01%,2.0
+13,Cade Stover,2500,TE,0.01%,3.9
+13,Xavier Smith,3000,WR,0.01%,11.2
+13,Johnny Mundt,2500,TE,0.01%,0.0
+13,Tyler Conklin,2600,FLEX,0.01%,0.0
+13,James Proche II,3000,WR,0.01%,2.3
+13,Marquez Valdes-Scantling,3000,WR,0.01%,0.0
+13,Mo Alie-Cox,2500,TE,0.01%,0.0
+13,Teddy Bridgewater,4400,QB,0.01%,0.0
+13,Omarion Hampton,5900,RB,0.01%,0.0
+13,Mac Jones,5000,QB,0.01%,0.2
+13,Isaiah Williams,3000,WR,0.01%,0.0
+13,Jimmy Horn Jr.,3000,WR,0.01%,0.0
+13,Foster Moreau,2500,TE,0.01%,3.3
+13,Xavier Weaver,3000,WR,0.01%,0.0
+13,Tutu Atwell,3300,WR,0.01%,0.0
+13,LeQuint Allen Jr.,4100,RB,0.01%,0.0
+13,Malachi Corley,3000,WR,0.01%,0.9
+13,Julian Hill,2500,FLEX,0.01%,0.0
+13,Jake Tonges,2500,FLEX,0.01%,0.0
+13,Jack Bech,3000,WR,0.00%,4.2
+13,Cody White,3000,WR,0.00%,3.1
+13,Trevor Etienne,4000,FLEX,0.00%,1.4
+13,Konata Mumpfield,3000,WR,0.00%,0.0
+13,Will Dissly,2500,FLEX,0.00%,0.0
+13,Jeremy Ruckert,2500,FLEX,0.00%,3.2
+13,Kyle Juszczyk,4000,RB,0.00%,4.7
+13,Ameer Abdullah,4000,RB,0.00%,0.0
+13,Charlie Woerner,2500,TE,0.00%,0.0
+13,Hunter Long,2500,TE,0.00%,0.0
+13,Trey Benson,5400,RB,0.00%,0.0
+13,Trayveon Williams,4000,FLEX,0.00%,0.0
+13,Drew Ogletree,2500,TE,0.00%,1.8
+13,Alvin Kamara,5500,RB,0.00%,0.0
+13,Messiah Swinson,2500,TE,0.00%,0.0
+13,Mitchell Evans,2500,FLEX,0.00%,5.0
+13,Elijah Moore,3000,FLEX,0.00%,0.0
+13,Kaleb Johnson,4000,RB,0.00%,0.3
+13,Derius Davis,3000,FLEX,0.00%,0.0
+13,Carson Wentz,4000,QB,0.00%,0.0
+13,Ty Chandler,4000,RB,0.00%,0.0
+13,Jalen McMillan,4000,WR,0.00%,0.0
+13,Travis Vokolek,2500,TE,0.00%,0.0
+13,Riley Leonard,4000,QB,0.00%,0.0
+13,Tucker Fisk,2500,TE,0.00%,0.0
+13,Adam Thielen,3000,WR,0.00%,0.0
+13,Cedrick Wilson Jr.,3000,WR,0.00%,2.6
+13,Austin Trammell,3000,WR,0.00%,0.0
+13,Connor Heyward,2500,FLEX,0.00%,0.0
+13,Dante Pettis,3000,WR,0.00%,0.0
+13,Kevin Austin Jr.,3000,WR,0.00%,0.0
+13,Jaylen Wright,4000,FLEX,0.00%,1.6
+13,Nick Vannett,2500,TE,0.00%,0.0
+13,Stone Smartt,2500,TE,0.00%,0.0
+13,Jamal Agnew,3000,WR,0.00%,-1.0
+13,Deven Thompkins,3000,WR,0.00%,4.8
+13,Kameron Johnson,3000,WR,0.00%,0.0
+13,Laquon Treadwell,3000,WR,0.00%,0.0
+13,Raheim Sanders,4000,RB,0.00%,0.0
+13,Brycen Tremayne,3000,WR,0.00%,0.0
+13,Jack Stoll,2500,TE,0.00%,0.0
+13,Andrew Beck,4000,FLEX,0.00%,0.0
+13,Tanner Conner,2500,FLEX,0.00%,0.0
+13,Dare Ogunbowale,4000,FLEX,0.00%,0.0
+13,Nick Muse,2500,TE,0.00%,0.0
+13,Hunter Renfrow,3000,FLEX,0.00%,0.0
+13,Keleki Latu,2500,FLEX,0.00%,0.0
+13,Jerome Ford,4000,RB,0.00%,4.7
+13,Luke Farrell,2500,TE,0.00%,0.0
+13,Drake London,7300,WR,0.00%,0.0
+13,Spencer Rattler,4000,QB,0.00%,0.0
+13,Pharaoh Brown,2500,TE,0.00%,0.0
+13,Jermar Jefferson,4000,RB,0.00%,0.0
+13,Anthony Richardson Sr.,4000,QB,0.00%,0.0
+13,Anthony Tyus III,4000,RB,0.00%,0.0
+13,Ronnie Bell,3000,WR,0.00%,0.0
+13,Skyy Moore,3000,FLEX,0.00%,0.0
+13,Alec Ingold,4000,RB,0.00%,0.0
+13,Ben Skowronek,3000,WR,0.00%,0.0
+13,Ryan Miller,3000,WR,0.00%,0.0
+13,Jake Bobo,3000,WR,0.00%,0.0
+13,Zavier Scott,4000,RB,0.00%,3.1
+13,Jamari Thrash,3000,WR,0.00%,0.0
+13,Julius Chestnut,4000,RB,0.00%,0.0
+13,Tyler Goodson,4000,RB,0.00%,0.0
+13,Michael Mayer,2800,FLEX,0.00%,0.0
+13,Tru Edwards,3000,FLEX,0.00%,0.0
+13,Casey Washington,3000,FLEX,0.00%,0.0
+13,Cam Akers,0,RB,0.00%,0.0
+13,John Wolford,4000,QB,0.00%,0.0
+13,Emari Demercado,4400,RB,0.00%,0.0
+13,Evan Hull,4000,RB,0.00%,1.5
+13,Dillon Gabriel,4200,QB,0.00%,0.0
+13,Frank Gore Jr.,4000,FLEX,0.00%,0.0
+13,Carter Runyon,2500,TE,0.00%,0.0
+13,Drew Lock,4000,QB,0.00%,0.0
+13,Mason Rudolph,4600,QB,0.00%,-1.0
+13,Kene Nwangwu,4000,FLEX,0.00%,0.0
+13,Tyreek Hill,3000,WR,0.00%,0.0
+13,Teagan Quitoriano,2500,FLEX,0.00%,0.0
+13,Velus Jones Jr.,4000,FLEX,0.00%,0.0
+13,Kenny Pickett,4000,QB,0.00%,0.0
+13,Curtis Samuel,3100,FLEX,0.00%,0.0
+13,Braxton Berrios,3000,WR,0.00%,0.0
+13,Khalil Herbert,4000,FLEX,0.00%,0.0
+13,Nick Kallerup,2500,FLEX,0.00%,0.0
+13,Ja'Quinden Jackson,4000,RB,0.00%,0.0
+13,Tim Jones,3000,FLEX,0.00%,0.0
+13,Scott Matlock,4000,FLEX,0.00%,0.0
+13,C.J. Ham,4000,FLEX,0.00%,0.0
+13,James Conner,4000,RB,0.00%,0.0
+13,Jimmy Garoppolo,4000,QB,0.00%,0.0
+13,John Rhys Plumlee,3000,WR,0.00%,0.0
+13,Sean McKeon,2500,FLEX,0.00%,0.0
+13,Cody Schrader,4000,RB,0.00%,0.0
+13,J.J. McCarthy,4700,QB,0.00%,0.0
+13,Ja'seem Reed,3000,WR,0.00%,0.0
+13,Dylan Laube,4000,RB,0.00%,0.0
+13,KhaDarel Hodge,3000,WR,0.00%,0.0
+13,Jakob Johnson,2500,TE,0.00%,0.0
+13,Reggie Gilliam,4000,RB,0.00%,0.0
+13,Josiah Deguara,2500,FLEX,0.00%,0.0
+13,Hal Presley III,3000,FLEX,0.00%,0.0
+13,Dee Eskridge,3000,WR,0.00%,0.0
+13,Robbie Ouzts,4000,RB,0.00%,0.0
+13,Isaac Guerendo,4000,RB,0.00%,0.0
+13,Junior Bergen,3000,FLEX,0.00%,0.0
+13,Corey Kiner,4000,RB,0.00%,0.0
+13,Andre Baccellia,3000,WR,0.00%,0.0
+13,Ronnie Rivers,4000,RB,0.00%,0.0
+13,Trey Sermon,4000,RB,0.00%,0.0
+13,Ben Sims,2500,FLEX,0.00%,0.0
+13,Jared Wayne,3000,FLEX,0.00%,0.0
+13,Garrett Wilson,3000,WR,0.00%,0.0
+13,Ke'Shawn Williams,3000,WR,0.00%,0.0
+13,Dalevon Campbell,3000,WR,0.00%,0.0
+13,Blake Whiteheart,2500,FLEX,0.00%,0.0
+13,Matt Sokol,2500,TE,0.00%,0.0
+13,Feleipe Franks,2500,TE,0.00%,0.0
+13,Owen Wright,4000,RB,0.00%,0.0
+13,David Martin-Robinson,2500,TE,0.00%,0.0
+13,Amar Johnson,4000,RB,0.00%,0.0
+13,Arian Smith,3000,WR,0.00%,0.0
+13,Brennan Presley,3000,WR,0.00%,0.0
+13,Tory Horton,3000,WR,0.00%,0.0
+13,Bryce Pierre,2500,TE,0.00%,0.0
+13,Payne Durham,2500,TE,0.00%,2.1
+13,Nathan Carter,4000,RB,0.00%,0.0
+13,Kalel Mullings,4000,FLEX,0.00%,0.0
+13,Phillip Dorsett II,3000,WR,0.00%,0.0
