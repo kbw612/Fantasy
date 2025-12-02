@@ -1167,3 +1167,103 @@ RK,NAME,TEAM,POS,WK,OPP,RUSHING_ATT,RUSHING_YDS,RUSHING_AVG,RUSHING_TD,RECEIVING
 91,Terrell Jennings,NE,RB,12,CIN,1,0,0.0,0,0,0,0,0,0,0,0.0
 92,Gary Brightwell,CIN,RB,12,NE,0,0,,0,0,0,0,0,0,0,0.0
 93,Jerome Ford,CLE,RB,12,LV,1,-3,-3.0,0,0,0,0,0,0,0,-0.3
+1,Bijan Robinson,ATL,RB,13,NYJ,23,142,6.2,1,7,5,51,0,0,0,30.3
+2,RJ Harvey,DEN,RB,13,WAS,13,35,2.7,2,4,3,27,0,0,0,21.2
+3,D'Andre Swift,CHI,RB,13,PHI,18,125,6.9,1,2,1,13,0,0,0,20.8
+4,Kimani Vidal,LAC,RB,13,LV,25,126,5.0,1,1,1,11,0,0,0,20.7
+5,Chuba Hubbard,CAR,RB,13,LAR,17,83,4.9,0,2,2,41,1,0,0,20.4
+6,De'Von Achane,MIA,RB,13,NO,22,134,6.1,1,1,0,0,0,0,0,19.4
+7,Devin Singletary,NYG,RB,13,NE,12,68,5.7,1,3,3,34,0,0,0,19.2
+8,Kyle Monangai,CHI,RB,13,PHI,22,130,5.9,1,1,0,0,0,0,0,19.0
+9,James Cook,BUF,RB,13,PIT,32,144,4.5,0,3,3,33,0,2,1,18.7
+10,Chase Brown,CIN,RB,13,BAL,15,78,5.2,0,7,7,35,0,0,0,18.3
+11,Christian McCaffrey,SF,RB,13,CLE,20,53,2.6,1,4,4,21,0,0,0,17.4
+12,Derrick Henry,BAL,RB,13,CIN,10,60,6.0,1,1,1,44,0,0,0,17.4
+13,Javonte Williams,DAL,RB,13,KC,17,59,3.5,0,3,3,21,1,0,0,17.0
+14,Bam Knight,ARI,RB,13,TB,11,62,5.6,0,3,3,36,1,1,1,16.8
+15,Bucky Irving,TB,RB,13,ARI,17,61,3.6,1,2,2,20,0,0,0,16.1
+16,Quinshon Judkins,CLE,RB,13,SF,23,91,4.0,0,3,3,18,0,0,0,15.9
+17,Breece Hall,NYJ,RB,13,ATL,19,68,3.6,1,2,2,8,0,0,0,15.6
+18,Jonathan Taylor,IND,RB,13,HOU,21,85,4.0,0,5,3,36,0,0,0,15.1
+19,Blake Corum,LAR,RB,13,CAR,7,81,11.6,1,0,0,0,0,0,0,14.1
+20,Tyler Allgeier,ATL,RB,13,NYJ,8,20,2.5,1,2,2,35,0,0,0,13.5
+21,Kyren Williams,LAR,RB,13,CAR,13,72,5.5,1,1,0,0,0,0,0,13.2
+22,David Montgomery,DET,RB,13,GB,8,32,4.0,1,2,2,16,0,1,0,12.8
+23,Jaylen Warren,PIT,RB,13,BUF,10,35,3.5,1,4,2,9,0,0,0,12.4
+24,Ashton Jeanty,LV,RB,13,LAC,15,31,2.1,0,8,6,30,0,0,0,12.1
+25,TreVeyon Henderson,NE,RB,13,NYG,11,67,6.1,0,4,3,19,0,0,0,11.6
+26,Jahmyr Gibbs,DET,RB,13,GB,20,68,3.4,0,4,3,18,0,0,0,11.6
+27,Jaret Patterson,LAC,RB,13,LV,11,54,4.9,1,0,0,0,0,0,0,11.4
+28,Michael Carter,ARI,RB,13,TB,5,17,3.4,0,6,5,47,0,0,0,11.4
+29,Zach Charbonnet,SEA,RB,13,MIN,14,52,3.7,1,0,0,0,0,0,0,11.2
+30,Keaton Mitchell,BAL,RB,13,CIN,2,19,9.5,1,3,2,12,0,0,0,11.1
+31,Rhamondre Stevenson,NE,RB,13,NYG,12,40,3.3,0,3,3,40,0,0,0,11.0
+32,Malik Davis,DAL,RB,13,KC,3,47,15.7,1,0,0,0,0,0,0,10.7
+33,Kenneth Walker III,SEA,RB,13,MIN,13,56,4.3,0,4,3,18,0,0,0,10.4
+34,Josh Jacobs,GB,RB,13,DET,17,83,4.9,0,1,1,8,0,0,0,10.1
+35,Chris Rodriguez Jr.,WAS,RB,13,DEN,11,41,3.7,1,1,0,0,0,0,0,10.1
+36,Rico Dowdle,CAR,RB,13,LAR,18,58,3.2,0,2,2,21,0,0,0,9.9
+37,Devin Neal,NO,RB,13,MIA,14,47,3.4,0,3,3,22,0,0,0,9.9
+38,Nick Chubb,HOU,RB,13,IND,9,34,3.8,1,0,0,0,0,0,0,9.4
+39,Kareem Hunt,KC,RB,13,DAL,14,58,4.1,0,2,1,22,0,0,0,9.0
+40,Bhayshul Tuten,JAX,RB,13,TEN,8,17,2.1,1,1,1,2,0,0,0,8.9
+41,Tyjae Spears,TEN,RB,13,JAX,2,-1,-0.5,0,6,6,25,0,0,0,8.4
+42,Woody Marks,HOU,RB,13,IND,19,64,3.4,0,1,1,3,0,1,0,7.7
+43,Kenneth Gainwell,PIT,RB,13,BUF,5,20,4.0,0,3,2,25,0,0,0,6.5
+44,Ray Davis,BUF,RB,13,PIT,9,62,6.9,0,0,0,0,0,0,0,6.2
+45,Rachaad White,TB,RB,13,ARI,2,7,3.5,0,3,3,22,0,0,0,5.9
+46,Jordan Mason,MIN,RB,13,SEA,6,47,7.8,0,1,1,1,0,1,0,5.8
+47,Saquon Barkley,PHI,RB,13,CHI,13,56,4.3,0,2,0,0,0,0,0,5.6
+48,Ty Johnson,BUF,RB,13,PIT,2,5,2.5,0,5,3,20,0,0,0,5.5
+49,Samaje Perine,CIN,RB,13,BAL,14,39,2.8,0,2,2,15,0,1,1,5.4
+50,Tony Pollard,TEN,RB,13,JAX,10,60,6.0,0,2,1,3,0,1,1,5.3
+51,Isiah Pacheco,KC,RB,13,DAL,3,16,5.3,0,2,2,17,0,0,0,5.3
+52,Travis Etienne Jr.,JAX,RB,13,TEN,12,28,2.3,0,1,1,13,0,0,0,5.1
+53,Jeremy McNichols,WAS,RB,13,DEN,6,30,5.0,0,2,2,0,0,0,0,5.0
+54,Tyler Badie,DEN,RB,13,WAS,0,0,,0,5,3,18,0,0,0,4.8
+55,Kyle Juszczyk,SF,FB,13,CLE,0,0,,0,2,2,27,0,0,0,4.7
+56,Jerome Ford,CLE,RB,13,SF,0,0,,0,3,3,17,0,0,0,4.7
+57,Aaron Jones Sr.,MIN,RB,13,SEA,6,3,0.5,0,4,4,22,0,1,1,4.5
+58,Tyrone Tracy Jr.,NYG,RB,13,NE,10,36,3.6,0,1,1,-3,0,0,0,4.3
+59,Jaleel McLaughlin,DEN,RB,13,WAS,6,24,4.0,0,1,1,6,0,0,0,4.0
+60,Zavier Scott,MIN,RB,13,SEA,3,17,5.7,0,1,1,4,0,0,0,3.1
+61,Chris Brooks,GB,RB,13,DET,0,0,,0,2,2,9,0,0,0,2.9
+62,Brian Robinson Jr.,SF,RB,13,CLE,8,26,3.2,0,0,0,0,0,0,0,2.6
+63,Adam Prentice,DEN,FB,13,WAS,1,3,3.0,0,1,1,11,0,0,0,2.4
+64,Dylan Sampson,CLE,RB,13,SF,4,23,5.8,0,0,0,0,0,0,0,2.3
+65,Will Shipley,PHI,RB,13,CHI,0,0,,0,1,1,11,0,0,0,2.1
+66,Jacory Croskey-Merritt,WAS,RB,13,DEN,4,20,5.0,0,0,0,0,0,0,0,2.0
+67,Rasheen Ali,BAL,RB,13,CIN,4,17,4.2,0,0,0,0,0,0,0,1.7
+68,Jaylen Wright,MIA,RB,13,NO,3,16,5.3,0,0,0,0,0,0,0,1.6
+69,Evan Hull,NO,RB,13,MIA,5,15,3.0,0,0,0,0,0,0,0,1.5
+70,Emanuel Wilson,GB,RB,13,DET,4,14,3.5,0,0,0,0,0,0,0,1.4
+71,Trevor Etienne,CAR,RB,13,LAR,0,0,,0,1,1,4,0,0,0,1.4
+72,Ollie Gordon II,MIA,RB,13,NO,3,10,3.3,0,0,0,0,0,0,0,1.0
+73,Raheem Mostert,LV,RB,13,LAC,1,6,6.0,0,0,0,0,0,0,0,0.6
+74,Myles Gaskin,SEA,RB,13,MIN,3,6,2.0,0,0,0,0,0,0,0,0.6
+75,Kaleb Johnson,PIT,RB,13,BUF,2,3,1.5,0,0,0,0,0,0,0,0.3
+76,Tyler Goodson,IND,RB,13,HOU,0,0,,0,0,0,0,0,0,0,0.0
+77,Ameer Abdullah,IND,RB,13,HOU,0,0,,0,0,0,0,0,0,0,0.0
+78,British Brooks,HOU,RB,13,IND,0,0,,0,0,0,0,0,0,0,0.0
+79,Jakob Johnson,HOU,FB,13,IND,0,0,,0,0,0,0,0,0,0,0.0
+80,Patrick Ricard,BAL,FB,13,CIN,0,0,,0,0,0,0,0,0,0,0.0
+81,Hunter Luepke,DAL,RB,13,KC,0,0,,0,0,0,0,0,0,0,0.0
+82,Gary Brightwell,CIN,RB,13,BAL,0,0,,0,0,0,0,0,0,0,0.0
+83,Brashard Smith,KC,RB,13,DAL,0,0,,0,0,0,0,0,0,0,0.0
+84,Andrew Beck,NYJ,FB,13,ATL,0,0,,0,0,0,0,0,0,0,0.0
+85,Tank Bigsby,PHI,RB,13,CHI,0,0,,0,0,0,0,0,0,0,0.0
+86,Travis Homer,CHI,RB,13,PHI,0,0,,0,0,0,0,0,0,0,0.0
+87,Jacob Saylors,DET,RB,13,GB,0,0,,0,0,0,0,0,0,0,0.0
+88,Ronnie Rivers,LAR,RB,13,CAR,0,0,,0,0,0,0,0,0,0,0.0
+89,Sione Vaki,DET,RB,13,GB,0,0,,0,0,0,0,0,0,0,0.0
+90,Robbie Ouzts,SEA,FB,13,MIN,0,0,,0,0,0,0,0,0,0,0.0
+91,Velus Jones Jr.,SEA,RB,13,MIN,0,0,,0,0,0,0,0,0,0,0.0
+92,C.J. Ham,MIN,FB,13,SEA,0,0,,0,0,0,0,0,0,0,0.0
+93,Brady Russell,SEA,FB,13,MIN,0,0,,0,0,0,0,0,0,0,0.0
+94,LeQuint Allen Jr.,JAX,RB,13,TEN,0,0,,0,0,0,0,0,0,0,0.0
+95,Terrell Jennings,NE,RB,13,NYG,0,0,,0,0,0,0,0,0,0,0.0
+96,Julius Chestnut,TEN,RB,13,JAX,0,0,,0,0,0,0,0,0,0,0.0
+97,Kalel Mullings,TEN,RB,13,JAX,0,0,,0,0,0,0,0,0,0,0.0
+98,Jack Westover,NE,FB,13,NYG,0,0,,0,0,0,0,0,0,0,0.0
+99,Eric Gray,NYG,RB,13,NE,0,0,,0,0,0,0,0,0,0,0.0
+100,Isaac Guerendo,SF,RB,13,CLE,0,0,,0,0,0,0,0,0,0,0.0
