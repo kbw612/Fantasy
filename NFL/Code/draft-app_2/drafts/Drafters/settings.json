@@ -1,0 +1,16 @@
+{
+  "myTeamSlot": 1,
+  "teams": 12,
+  "rounds": 24,
+  "order": "snake",
+  "draftType": "offensive",
+  "offPos": [
+    "QB",
+    "RB",
+    "WR",
+    "TE",
+    "K",
+    "DST"
+  ],
+  "idpPos": []
+}
